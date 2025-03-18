@@ -47,8 +47,7 @@ def create_dataloader_v1(txt, batch_size, max_length, stride,
 with open("pre-processing/the-verdict.txt", "r", encoding="utf-8") as f:
     raw_text = f.read()
 
-dataloader = create_dataloader_v1(
-raw_text, batch_size=8, max_length=4, stride=4, shuffle=False)
+dataloader = create_dataloader_v1(raw_text, batch_size=8, max_length=4, stride=4, shuffle=False)
 data_iter = iter(dataloader)
 
 # inputs, targets = next(data_iter)

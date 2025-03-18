@@ -1,33 +1,99 @@
-""""
-PhD Course: Building and Understanding LLMs
-Christian Gustavsson
-
-This script is part of the pre-processing pipeline for the project. It contains the 
-code for creating a dataloader for the GPT-2 model. For the pre-training, roughly a 
-quarter of OpenWebText is used. Citations for the datasets can be found in the lab 
-report. Store .db files in datasets/openwebtext
-"""
-
-import os
 import tiktoken
-import sqlite3
 import torch
+import sqlite3  # Example for SQLite, replace with other DB drivers if needed
 from torch.utils.data import Dataset, DataLoader
 
 ### Using best possible device for Torch workload
-device = torch.device("mps" if torch.backends.mps.is_available() else 
-                      "cuda" if torch.cuda.is_available() else 
+device = torch.device("cuda" if torch.cuda.is_available() else 
+                      "mps" if torch.backends.mps.is_available() else 
                       "cpu")
+print(f"Using device: {device}")
 
 ### Placement of the database file
-db_path = "datasets/openwebtext/smaller.db" # For testing purposes, use smaller.db
-# db_path = "datasets/openwebtext/data.db" # Full >10GB database
+#db_path = "datasets/openwebtext/smaller.db"  # Testing: 744 entries
+db_path = "datasets/openwebtext/data.db"  # Full database: >10GB, 2,019,435 entries
+
+class GPTDatasetFromDB(Dataset):
+    def __init__(self, db_path, query, tokenizer, max_length, stride):
+        """
+        db_path: Path to the SQLite database (or connection string for other DBs)
+        query: SQL query to fetch text data
+        tokenizer: The tokenizer for encoding text
+        max_length: Sequence length
+        stride: Overlap between sequences
+        """
+        self.input_ids = []
+        self.target_ids = []
+        self.tokenizer = tokenizer
+
+        # Connect to database and fetch data
+        self.conn = sqlite3.connect(db_path)
+        self.cursor = self.conn.cursor()
+        self.cursor.execute(query)
+
+        # Process each row of the fetched dataset
+        for row in self.cursor.fetchall():
+            print("Processing row...")
+            text = row[0]  # Assuming the text is in the first column
+            self.process_text(text, max_length, stride)
+
+    def process_text(self, text, max_length, stride):
+        """ Tokenizes text and chunks it into overlapping sequences. """
+        token_ids = self.tokenizer.encode(text, allowed_special={"<|endoftext|>"})
+
+        for i in range(0, len(token_ids) - max_length, stride):
+            input_chunk = token_ids[i:i + max_length]
+            target_chunk = token_ids[i + 1: i + max_length + 1]
+
+            # Move tensors to device (GPU/CPU)
+            self.input_ids.append(torch.tensor(input_chunk, device=device))
+            self.target_ids.append(torch.tensor(target_chunk, device=device))
+
+    def __len__(self):
+        return len(self.input_ids)
+
+    def __getitem__(self, idx):
+        return self.input_ids[idx], self.target_ids[idx]
+
+    def __del__(self):
+        """ Close DB connection when the dataset object is deleted. """
+        self.conn.close()
 
 
+def create_dataloader_from_db(db_path, query, batch_size, max_length, stride,
+                              shuffle=True, drop_last=True, num_workers=0):
+    """ Create a DataLoader that reads from a database instead of a text file. """
+    tokenizer = tiktoken.get_encoding("gpt2")
 
-def main():
-    pass
+    dataset = GPTDatasetFromDB(db_path, query, tokenizer, max_length, stride)
 
-if __name__ == "__main__":
-    os.system("clear") # clear for Linux machines, cls for Windows
-    main()
+    dataloader = DataLoader(dataset, batch_size=batch_size, shuffle=shuffle, 
+                            drop_last=drop_last, num_workers=num_workers)
+
+    return dataloader
+
+
+# Example usage: Fetching text data from a database
+query = "SELECT text FROM data"  # Modify as per your DB schema
+
+batch_size = 4
+max_length = 128
+stride = 32
+
+dataloader = create_dataloader_from_db(db_path, query, batch_size, max_length, stride, shuffle=False)
+
+# Example iteration over dataloader
+i = 0
+for batch in dataloader:
+    x, y = batch
+
+    # Ensure tensors remain on the correct device
+    x, y = x.to(device), y.to(device)
+
+    print("Batch Inputs:\n", x.shape)
+    print("\nBatch Targets:\n", y.shape)
+
+    # Print first batch index
+    i += 1
+    print(f"Processed batch {i} on {device}")
+    break  # Process only first batch for testing
