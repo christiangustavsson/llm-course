@@ -4,6 +4,9 @@
 
     Now, a more complex self-attention mechanism is implemented, with
     trainable weigts. 
+
+    Implements a dropout mask; Meant to reduce overfitting. Not used 
+    that often anymore. Added to series for completeness.
 """
 import os
 import torch
@@ -22,13 +25,18 @@ class SelfAttention_v4(nn.Module):
         keys = self.W_keys(inputs)
         value = self.W_value(inputs)
         attn_score = queries @ keys.T
-
         d_k = keys.shape[1]
         context_length = attn_score.shape[0]
 
         mask = torch.triu(torch.ones(context_length, context_length), diagonal=1)
         masked = attn_score.masked_fill(mask.bool(), -torch.inf)
+
         attn_weights = torch.softmax(masked / d_k**0.5, dim = -1)
+        print(attn_weights)
+
+        dropout_mask = torch.nn.Dropout(p=0.5)
+        attn_weights = dropout_mask(attn_weights)
+        # Note, he forgot to normalize the new attn_weights        
 
         context_vector = attn_weights @ value
 
@@ -49,7 +57,7 @@ def main():
     d_in = inputs.shape[1]  # Dimension of input vector
     d_out = 2               # Dimension of output vector, choosen.
 
-    torch.manual_seed(789)
+    torch.manual_seed(123)
 
     sa_v1_1 = SelfAttention_v4(d_in, d_out)
     result = sa_v1_1(inputs)
