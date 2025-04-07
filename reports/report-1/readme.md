@@ -5,6 +5,7 @@ To run the code:
 2. `python main.py`
 
 # Expected output:
+Five files should be created during the pipeline. 
 ```
 raw_pdf_data.txt
 raw_website_data.txt
@@ -12,9 +13,12 @@ clean_pdf_data.txt
 clean_website_data.txt
 tokenized_data.parquet
 ```
+In a real-case scenario, some clean-up would be performed along the way. 
 
 # Terminal output:
-Starting data processing pipeline...
+When running the script, the terminal should output this:
+
+```Starting data processing pipeline...
 
 Step 1: Scraping data...
 Scraping website data...
@@ -47,4 +51,4 @@ Tokenizer used: gpt2
 PDF data:
 Sequence length: 30450
 Vocabulary size: 50257
-Tokenizer used: gpt2
+Tokenizer used: gpt2```
