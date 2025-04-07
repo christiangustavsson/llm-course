@@ -1,4 +1,4 @@
-## Report 1: Developing a simple data pre-processing pipeline
+# Report 1: Developing a simple data pre-processing pipeline
 
 To run the pipeline code:
 1. `pip install -r requirements.txt`
@@ -9,7 +9,7 @@ Additional code is also available (after running the pipeline):
 - `analyze_patterns.py`
 - `calculate_perplexity.py`
 
-# Expected file output:
+## Expected file output:
 Five files should be created during the pipeline. 
 ```
 raw_pdf_data.txt
@@ -20,7 +20,7 @@ tokenized_data.parquet
 ```
 In a real-case scenario, some clean-up would be performed along the way. 
 
-# Expected terminal output:
+## Expected terminal output:
 When running the script, the terminal should output this:
 
 ```
