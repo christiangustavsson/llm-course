@@ -1,15 +1,17 @@
 ## Report 1: Developing a simple data pre-processing pipeline
 
 To run the code:
-1. 'pip install -r requirements.txt'
-2. 'python main.py'
+1. pip install -r requirements.txt
+2. python main.py
 
 # Expected output:
-'''raw_pdf_data.txt
+```
+raw_pdf_data.txt
 raw_website_data.txt
 clean_pdf_data.txt
 clean_website_data.txt
-tokenized_data.parquet'''
+tokenized_data.parquet
+```
 
 # Terminal output:
 Starting data processing pipeline...
