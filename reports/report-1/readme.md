@@ -33,6 +33,7 @@ Cleaning website data...
 Saved cleaned website data to: /Users/christian/gitrepos/llm-course/reports/report-1/clean_website_data.txt
 Cleaning PDF data...
 Saved cleaned PDF data to: /Users/christian/gitrepos/llm-course/reports/report-1/clean_pdf_data.txt
+
 Saved tokenized data to: /Users/christian/gitrepos/llm-course/reports/report-1/tokenized_data.parquet
 
 Pipeline completed successfully!
