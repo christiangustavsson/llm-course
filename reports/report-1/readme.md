@@ -18,7 +18,8 @@ In a real-case scenario, some clean-up would be performed along the way.
 # Terminal output:
 When running the script, the terminal should output this:
 
-```Starting data processing pipeline...
+```
+Starting data processing pipeline...
 
 Step 1: Scraping data...
 Scraping website data...
@@ -51,4 +52,5 @@ Tokenizer used: gpt2
 PDF data:
 Sequence length: 30450
 Vocabulary size: 50257
-Tokenizer used: gpt2```
+Tokenizer used: gpt2
+```
