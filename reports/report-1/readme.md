@@ -1,8 +1,8 @@
 ## Report 1: Developing a simple data pre-processing pipeline
 
 To run the code:
-1. pip install -r requirements.txt
-2. python main.py
+1. `pip install -r requirements.txt`
+2. `python main.py`
 
 # Expected output:
 ```
