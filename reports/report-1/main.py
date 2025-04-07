@@ -16,6 +16,8 @@ import pandas as pd
 from scrape import scrape_url, scrape_pdf
 from clean import clean_web_data, clean_pdf_data
 from tokenizer import tokenize, textloader
+from attention import MultiHeadAttention
+from get_tokens import load_tokenized_data
 
 def run_pipeline():
     """
@@ -105,6 +107,8 @@ def run_pipeline():
         print(f"Saved tokenized data to: {parquet_path}")
 
         print("\nPipeline completed successfully!")
+
+        df = load_tokenized_data() 
 
     except Exception as e:
         print(f"\nError in pipeline: {str(e)}")
