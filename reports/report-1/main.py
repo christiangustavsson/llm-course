@@ -12,8 +12,10 @@ Christian Gustavsson, christian.gustavsson@liu.se
 
 import os
 import sys
+import pandas as pd
 from scrape import scrape_url, scrape_pdf
 from clean import clean_web_data, clean_pdf_data
+from tokenizer import tokenize, textloader
 
 def run_pipeline():
     """
@@ -81,12 +83,34 @@ def run_pipeline():
         with open(clean_pdf_path, "w", encoding='utf-8') as f:
             f.write(cleaned_pdf)
         print(f"Saved cleaned PDF data to: {clean_pdf_path}")
+
+        # Tokenizing the clean web data         
+        tokenized_web = tokenize(cleaned_web)
+
+        # Tokenizing the clean pdf data
+        tokenized_pdf = tokenize(cleaned_pdf)
+
+        # Save tokenized data as Parquet
+        df = pd.DataFrame({
+            'source': ['web', 'pdf'],
+            'token_ids': [tokenized_web, tokenized_pdf],
+            'sequence_length': [len(tokenized_web), len(tokenized_pdf)],
+            'vocab_size': [50257, 50257],  # GPT-2 vocabulary size
+            'tokenizer': ['gpt2', 'gpt2']
+        })
         
+        # Save to Parquet in the script directory
+        parquet_path = os.path.join(script_dir, "tokenized_data.parquet")
+        df.to_parquet(parquet_path, index=False)
+        print(f"Saved tokenized data to: {parquet_path}")
+
         print("\nPipeline completed successfully!")
-        
+
     except Exception as e:
         print(f"\nError in pipeline: {str(e)}")
         sys.exit(1)
+
+
 
 if __name__ == "__main__":
     run_pipeline()
