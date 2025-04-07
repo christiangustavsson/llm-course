@@ -64,7 +64,7 @@ def main():
     os.system("clear")
 
     raw = "Hello, world. Is this-- a test?"
-    raw = load_text('pre-processing/the-verdict.txt')
+    raw = load_text('the-verdict.txt')
 
     vocab = vocabulary(raw)
 
