@@ -16,7 +16,6 @@ import pandas as pd
 from scrape import scrape_url, scrape_pdf
 from clean import clean_web_data, clean_pdf_data
 from tokenizer import tokenize, textloader
-from attention import MultiHeadAttention
 from get_tokens import load_tokenized_data
 
 def run_pipeline():
@@ -104,7 +103,7 @@ def run_pipeline():
         # Save to Parquet in the script directory
         parquet_path = os.path.join(script_dir, "tokenized_data.parquet")
         df.to_parquet(parquet_path, index=False)
-        print(f"Saved tokenized data to: {parquet_path}")
+        print(f"\nSaved tokenized data to: {parquet_path}")
 
         print("\nPipeline completed successfully!")
 
