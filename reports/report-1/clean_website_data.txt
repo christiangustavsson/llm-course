@@ -1,0 +1,3028 @@
+computer security - wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jump to content
+
+
+
+
+
+
+
+main 
+
+
+
+
+
+main 
+move to sidebar
+hide
+
+
+
+ navigation
+ 
+
+
+main pagecontentscurrent eventsrandom articleabout wikipediacontact us
+
+
+
+
+
+ contribute
+ 
+
+
+helplearn to editcommunity portalrecent changesupload filespecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+donate
+
+create account
+
+log in
+
+
+
+
+
+
+
+
+personal tools
+
+
+
+
+
+donate create account log in
+
+
+
+
+
+ pages for logged out editors learn more
+
+
+
+contributionstalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+contents
+move to sidebar
+hide
+
+
+
+
+(top)
+
+
+
+
+
+1
+vulnerabilities and attacks
+
+
+
+
+toggle vulnerabilities and attacks subsection
+
+
+
+
+
+1.1
+backdoor
+
+
+
+
+
+
+
+
+1.2
+denial-of-service attack
+
+
+
+
+
+
+
+
+1.3
+physical access attacks
+
+
+
+
+
+
+
+
+1.4
+eavesdropping
+
+
+
+
+
+
+
+
+1.5
+malware
+
+
+
+
+
+
+1.5.1
+types of malware
+
+
+
+
+
+
+
+
+
+
+1.6
+man-in-the-middle attacks
+
+
+
+
+
+
+
+
+1.7
+multi-vector, polymorphic attacks
+
+
+
+
+
+
+
+
+1.8
+phishing
+
+
+
+
+
+
+
+
+1.9
+privilege escalation
+
+
+
+
+
+
+
+
+1.10
+side-channel attack
+
+
+
+
+
+
+
+
+1.11
+social engineering
+
+
+
+
+
+
+
+
+1.12
+spoofing
+
+
+
+
+
+
+
+
+1.13
+tampering
+
+
+
+
+
+
+
+
+1.14
+html smuggling
+
+
+
+
+
+
+
+
+
+
+2
+information security practices
+
+
+
+
+
+
+
+
+3
+computer protection (countermeasures)
+
+
+
+
+toggle computer protection (countermeasures) subsection
+
+
+
+
+
+3.1
+security by design
+
+
+
+
+
+
+
+
+3.2
+security architecture
+
+
+
+
+
+
+
+
+3.3
+security measures
+
+
+
+
+
+
+
+
+3.4
+vulnerability management
+
+
+
+
+
+
+
+
+3.5
+reducing vulnerabilities
+
+
+
+
+
+
+
+
+3.6
+hardware protection mechanisms
+
+
+
+
+
+
+
+
+3.7
+secure operating systems
+
+
+
+
+
+
+
+
+3.8
+secure coding
+
+
+
+
+
+
+
+
+3.9
+capabilities and access control lists
+
+
+
+
+
+
+
+
+3.10
+user security training
+
+
+
+
+
+
+
+
+3.11
+digital hygiene
+
+
+
+
+
+
+
+
+3.12
+difficulty of responding to breaches
+
+
+
+
+
+
+
+
+3.13
+types of security and privacy
+
+
+
+
+
+
+
+
+
+
+4
+systems at risk
+
+
+
+
+toggle systems at risk subsection
+
+
+
+
+
+4.1
+financial systems
+
+
+
+
+
+
+
+
+4.2
+utilities and industrial equipment
+
+
+
+
+
+
+
+
+4.3
+aviation
+
+
+
+
+
+
+
+
+4.4
+consumer devices
+
+
+
+
+
+
+
+
+4.5
+healthcare
+
+
+
+
+
+
+
+
+4.6
+large corporations
+
+
+
+
+
+
+
+
+4.7
+automobiles
+
+
+
+
+
+
+
+
+4.8
+shipping
+
+
+
+
+
+
+
+
+4.9
+government
+
+
+
+
+
+
+
+
+4.10
+internet of things and physical vulnerabilities
+
+
+
+
+
+
+
+
+4.11
+medical systems
+
+
+
+
+
+
+
+
+4.12
+energy sector
+
+
+
+
+
+
+
+
+4.13
+telecommunications
+
+
+
+
+
+
+
+
+
+
+5
+cost and impact of security breaches
+
+
+
+
+
+
+
+
+6
+attacker motivation
+
+
+
+
+
+
+
+
+7
+computer security incident management
+
+
+
+
+
+
+
+
+8
+notable attacks and breaches
+
+
+
+
+toggle notable attacks and breaches subsection
+
+
+
+
+
+8.1
+robert morris and the first computer worm
+
+
+
+
+
+
+
+
+8.2
+rome laboratory
+
+
+
+
+
+
+
+
+8.3
+tjx customer credit card details
+
+
+
+
+
+
+
+
+8.4
+stuxnet attack
+
+
+
+
+
+
+
+
+8.5
+global surveillance disclosures
+
+
+
+
+
+
+
+
+8.6
+target and  depot breaches
+
+
+
+
+
+
+
+
+8.7
+office of personnel management data breach
+
+
+
+
+
+
+
+
+8.8
+ashley madison breach
+
+
+
+
+
+
+
+
+8.9
+colonial pipeline ransomware attack
+
+
+
+
+
+
+
+
+
+
+9
+legal issues and global regulation
+
+
+
+
+
+
+
+
+10
+role of government
+
+
+
+
+
+
+
+
+11
+international actions
+
+
+
+
+toggle international actions subsection
+
+
+
+
+
+11.1
+europe
+
+
+
+
+
+
+
+
+
+
+12
+national actions
+
+
+
+
+toggle national actions subsection
+
+
+
+
+
+12.1
+computer emergency response teams
+
+
+
+
+
+
+12.1.1
+canada
+
+
+
+
+
+
+
+
+12.1.2
+australia
+
+
+
+
+
+
+
+
+12.1.3
+india
+
+
+
+
+
+
+
+
+12.1.4
+south korea
+
+
+
+
+
+
+
+
+12.1.5
+united states
+
+
+
+
+
+
+12.1.5.1
+cyber plan
+
+
+
+
+
+
+
+
+12.1.5.2
+legislation
+
+
+
+
+
+
+
+
+12.1.5.3
+standardized government testing services
+
+
+
+
+
+
+
+
+12.1.5.4
+agencies
+
+
+
+
+
+
+
+
+12.1.5.5
+computer emergency readiness team
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13
+u.s. nrc, 10 cfr 73.54 cybersecurity
+
+
+
+
+
+
+
+
+14
+nei 08-09: cybersecurity plan for nuclear power plants
+
+
+
+
+
+
+
+
+15
+modern warfare
+
+
+
+
+
+
+
+
+16
+careers
+
+
+
+
+toggle careers subsection
+
+
+
+
+
+16.1
+security analyst
+
+
+
+
+
+
+
+
+16.2
+security engineer
+
+
+
+
+
+
+
+
+16.3
+security architect
+
+
+
+
+
+
+
+
+16.4
+chief information security officer (ciso)
+
+
+
+
+
+
+
+
+16.5
+chief security officer (cso)
+
+
+
+
+
+
+
+
+16.6
+data protection officer (dpo)
+
+
+
+
+
+
+
+
+16.7
+security consultant/specialist/intelligence
+
+
+
+
+
+
+
+
+
+
+17
+terminology
+
+
+
+
+
+
+
+
+18
+history
+
+
+
+
+
+
+
+
+19
+notable scholars
+
+
+
+
+
+
+
+
+20
+see also
+
+
+
+
+
+
+
+
+21
+references
+
+
+
+
+
+
+
+
+22
+further reading
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+toggle the table of contents
+
+
+
+
+
+
+
+computer security
+
+
+
+72 languages
+
+
+
+
+afrikaansالعربيةasturianuazərbaycancaবাংলা閩南語 / bân-lâm-gúбеларускаябеларуская (тарашкевіца)българскиbosanskicatalàcebuanočeštinadanskdeutscheestiελληνικάespañolesperantoeuskaraفارسیfrançaisگیلکیગુજરાતી한국어hausaհայերենहिन्दीhrvatskibahasa indonesiaisizuluíslenskaitalianoעבריתქართულიқазақшаkiswahiliкыргызчаlatviešulombardമലയാളംमराठीbahasa melayuminangkabauмонголnederlandsनेपाली日本語ਪੰਜਾਬੀپښتوpolskiportuguêsqaraqalpaqsharomânăрусскийshqipsimple englishslovenčinaslovenščinaکوردیсрпски / srpskisrpskohrvatski / српскохрватскиsuomisvenskaతెలుగుไทยtürkçeукраїнськаtiếng việt吴语粵語中文
+
+edit links
+
+
+
+
+
+
+
+
+
+
+
+articletalk
+
+
+
+
+
+english
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+readeditview history
+
+
+
+
+
+
+
+tools
+
+
+
+
+
+tools
+move to sidebar
+hide
+
+
+
+ actions
+ 
+
+
+readeditview history
+
+
+
+
+
+ general
+ 
+
+
+what links hererelated changesupload filepermanent linkpage informationcite this pageget shortened urldownload qr code
+
+
+
+
+
+ print/export
+ 
+
+
+download as pdfprintable version
+
+
+
+
+
+ in other projects
+ 
+
+
+wikimedia commonswikibookswikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+from wikipedia, the free encyclopedia
+
+
+protection of computer systems from information disclosure, theft or damage
+
+
+part of a series oncomputer hacking
+history
+phreaking
+cryptovirology
+hacking of consumer electronics
+list of hackers
+
+hacker culture and ethic
+hackathon
+hacker manifesto
+hackerspace
+hacktivism
+maker culture
+types of hackers
+black hat
+grey hat
+white hat
+
+conferences
+black hat briefings
+chaos communication congress
+def con
+hackers on planet earth
+security bsides
+shmoocon
+summercon
+
+computer crime
+crimeware
+list of computer criminals
+script kiddie
+
+hacking tools
+exploit
+forensics-focused operating systems
+payload
+social engineering
+vulnerability
+
+practice sites
+hackthissite
+zone-h
+
+malware
+rootkit
+backdoor
+trojan horse
+virus
+worm
+spyware
+ransomware
+logic bomb
+botnet
+keystroke logging
+hids
+web shell
+rce
+infostealer
+
+computer security
+application security
+cloud computing security
+network security
+
+groups
+anonymous
+chaos computer club
+brew computer club (defunct)
+legion of doom (defunct)
+lulzsec (defunct)
+masters of deception (defunct)
+red team / blue team
+
+publications
+2600: the hacker quarterly
+hacker news
+nuts and volts
+phrack
+vte
+operating systems
+common features
+process management
+interrupts
+memory management
+file system
+device drivers
+networking
+security
+input/output
+vte
+an example of a physical security measure: a metal lock on the back of a personal computer to prevent hardware tampering.
+computer security (also cybersecurity, digital security, or information technology (it) security) is a subdiscipline within the field of information security. it consists of the protection of computer software, systems and networks from threats that can lead to unauthorized information disclosure, theft or damage to hardware, software, or data, as well as from the disruption or misdirection of the services they provide.[1][2]
+the significance of the field stems from the expanded reliance on computer systems, the internet,[3] and wireless network standards. its importance is further amplified by the growth of smart devices, including smartphones, televisions, and the various devices that constitute the internet of things (iot). cybersecurity has emerged as one of the most significant new challenges facing the contemporary world, due to both the complexity of information systems and the societies they support. security is particularly crucial for systems that govern large-scale systems with far-reaching physical effects, such as power distribution, elections, and finance.[4][5]
+although many aspects of computer security involve digital security, such as electronic passwords and encryption, physical security measures such as metal locks are still used to prevent unauthorized tampering. it security is not a perfect subset of information security, therefore does not completely align into the security convergence schema.
+
+
+vulnerabilities and attacks[edit]
+main article: vulnerability (computing)
+a vulnerability refers to a flaw in the structure, execution, functioning, or internal oversight of a computer or system that compromises its security. most of the vulnerabilities that have been discovered are documented in the common vulnerabilities and exposures (cve) database.[6] an exploitable vulnerability is one for which at least one working attack or exploit exists.[7] actors maliciously seeking vulnerabilities are known as threats. vulnerabilities can be reed, reverse-engineered, hunted, or exploited using automated tools or customized scripts.[8][9]
+various people or parties are vulnerable to cyber attacks; however, different groups are likely to experience different types of attacks more than others.[10]
+in april 2023, the united kingdom department for science, innovation & technology released a report on cyber attacks over the  12 months.[11] they surveyed 2,263 uk businesses, 1,174 uk registered charities, and 554 education institutions. the re found that "32% of businesses and 24% of charities overall recall any breaches or attacks from the last 12 months." these figures were much higher for "medium businesses (59%), large businesses (69%), and high-income charities with £500,000 or more in annual income (56%)."[11] yet, although medium or large businesses are more often the victims, since larger companies have generally improved their security over the last decade, small and midsize businesses (smbs) have also become increasingly vulnerable as they often "do not have advanced tools to defend the business."[10] smbs are most likely to be affected by malware, ransomware, phishing, man-in-the-middle attacks, and denial-of service (dos) attacks.[10]
+normal internet users are most likely to be affected by untargeted cyberattacks.[12] these are where attackers indiscriminately target as many devices, services, or users as possible. they do this using techniques that take advantage of the openness of the internet. these strategies mostly include phishing, ransomware, water holing and scanning.[12]
+to secure a computer system, it is important to understand the attacks that can be made against it, and these threats can typically be classified into one of the following categories:
+
+backdoor[edit]
+a backdoor in a computer system, a cryptosystem, or an algorithm is any secret method of bypassing normal authentication or security controls. these weaknesses may exist for many reasons, including original design or poor configuration.[13] due to the nature of backdoors, they are of greater concern to companies and databases as opposed to individuals.
+backdoors may be added by an authorized party to allow some legitimate access or by an attacker for malicious reasons. criminals often use malware to install backdoors, giving them remote administrative access to a system.[14] once they have access, cybercriminals can "modify files, steal personal information, install unwanted software, and even take control of the entire computer."[14]
+backdoors can be very hard to detect and are usually discovered by someone who has access to the application source code or intimate knowledge of the operating system of the computer.
+
+denial-of-service attack[edit]
+denial-of-service attacks (dos) are designed to make a machine or network resource unavailable to its intended users.[15] attackers can deny service to individual victims, such as by deliberately entering a wrong password enough consecutive times to cause the victim's account to be locked, or they may overload the capabilities of a machine or network and block all users at once. while a network attack from a single ip address can be blocked by adding a new firewall rule, many forms of distributed denial-of-service (ddos) attacks are possible, where the attack comes from a large number of points. in this case, defending against these attacks is much more difficult. such attacks can originate from the zombie computers of a botnet or from a range of other possible techniques, including distributed reflective denial-of-service (drdos), where innocent systems are fooled into sending traffic to the victim.[15] with such attacks, the amplification factor makes the attack easier for the attacker because they have to use little bandwidth themselves. to understand why attackers may carry out these attacks, see the 'attacker motivation' section.
+
+physical access attacks[edit]
+main article: physical access
+a direct-access attack is when an unauthorized user (an attacker) gains physical access to a computer, most likely to directly copy data from it or steal information.[16] attackers may also compromise security by making operating system modifications, installing software worms, keyloggers, covert listening devices or using wireless microphones. even when the system is protected by standard security measures, these may be bypassed by booting another operating system or tool from a cd-rom or other bootable media. disk encryption and the trusted platform module standard are designed to prevent these attacks.
+direct service attackers are related in concept to direct memory attacks which allow an attacker to gain direct access to a computer's memory.[17] the attacks "take advantage of a feature of modern computers that allows certain devices, such as external hard drives, graphics cards, or network cards, to access the computer's memory directly."[17]
+
+eavesdropping[edit]
+eavesdropping is the act of surreptitiously listening to a private computer conversation (communication), usually between hosts on a network. it typically occurs when a user connects to a network where traffic is not secured or encrypted and sends sensitive business data to a colleague, which, when listened to by an attacker, could be exploited.[18] data transmitted across an open network allows an attacker to exploit a vulnerability and intercept it via various methods.
+unlike malware, direct-access attacks, or other forms of cyber attacks, eavesdropping attacks are unlikely to negatively affect the performance of networks or devices, making them difficult to notice.[18] in fact, "the attacker does not need to have any ongoing connection to the software at all. the attacker can insert the software onto a compromised device, perhaps by direct insertion or perhaps by a virus or other malware, and then come back some time later to retrieve any data that is found or trigger the software to send the data at some determined time."[19]
+using a virtual private network (vpn), which encrypts data between two points, is one of the most common forms of protection against eavesdropping. using the best form of encryption possible for wireless networks is best practice, as well as using https instead of an unencrypted http.[20]
+programs such as carnivore and narusinsight have been used by the federal bureau of investigation (fbi) and nsa to eavesdrop on the systems of internet service providers. even machines that operate as a closed system (i.e., with no contact with the outside world) can be eavesdropped upon by monitoring the faint electromagnetic transmissions generated by the hardware. tempest is a specification by the nsa referring to these attacks.
+
+malware[edit]
+malicious software (malware) is any software code or computer program "intentionally written to harm a computer system or its users."[21] once present on a computer, it can leak sensitive details such as personal information, business information and passwords, can give control of the system to the attacker, and can corrupt or delete data permanently.[22][23]
+
+types of malware[edit]
+viruses are a specific type of malware, and are normally a malicious code that hijacks software with the intention to "do damage and spread copies of itself." copies are made with the aim to spread to other programs on a computer.[21]
+worms are similar to viruses, however viruses can only function when a user runs (opens) a compromised program. worms are self-replicating malware that spread between programs, apps and devices without the need for human interaction.[21]
+trojan horses are programs that pretend to be helpful or hide themselves within desired or legitimate software to "trick users into installing them." once installed, a rat (remote access trojan) can create a secret backdoor on the affected device to cause damage.[21]
+spyware is a type of malware that secretly gathers information from an infected computer and transmits the sensitive information back to the attacker. one of the most common forms of spyware are keyloggers, which record all of a user's keyboard inputs/keystrokes, to "allow hackers to harvest usernames, passwords, bank account and credit card numbers."[21]
+scareware, as the name suggests, is a form of malware which uses social engineering (manipulation) to scare, shock, trigger anxiety, or suggest the perception of a threat in order to manipulate users into buying or installing unwanted software. these attacks often begin with a "sudden pop-up with an urgent message, usually warning the user that they've broken the law or their device has a virus."[21]
+ransomware is when malware installs itself onto a victim's machine, encrypts their files, and then turns around and demands a ransom (usually in bitcoin) to return that data to the user.
+man-in-the-middle attacks[edit]
+man-in-the-middle attacks (mitm) involve a malicious attacker trying to intercept, surveil or modify communications between two parties by spoofing one or both party's identities and injecting themselves in-between.[24] types of mitm attacks include:
+
+ip address spoofing is where the attacker hijacks routing protocols to reroute the targets traffic to a vulnerable network node for traffic interception or injection.
+message spoofing (via email, sms or ott messaging) is where the attacker spoofs the identity or carrier service while the target is using messaging protocols like email, sms or ott (ip-based) messaging apps. the attacker can then monitor conversations, launch social attacks or trigger zero-day-vulnerabilities to allow for further attacks.
+wifi ssid spoofing is where the attacker simulates a wifi base station ssid to capture and modify internet traffic and transactions. the attacker can also use local network addressing and reduced network defenses to penetrate the target's firewall by breaching known vulnerabilities. sometimes known as a pineapple attack thanks to a popular device. see also malicious association.
+dns spoofing is where attackers hijack domain name assignments to redirect traffic to systems under the attackers control, in order to surveil traffic or launch other attacks.
+ssl hijacking, typically coupled with another media-level mitm attack, is where the attacker spoofs the ssl authentication and encryption protocol by way of certificate authority injection in order to decrypt, surveil and modify traffic. see also tls interception[24]
+multi-vector, polymorphic attacks[edit]
+surfacing in 2017, a new class of multi-vector,[25] polymorphic[26] cyber threats combine several types of attacks and change form to avoid cybersecurity controls as they spread.
+multi-vector polymorphic attacks, as the name describes, are both multi-vectored and polymorphic.[27] firstly, they are a singular attack that involves multiple methods of attack. in this sense, they are "multi-vectored (i.e. the attack can use multiple means of propagation such as via the web, email and applications." however, they are also multi-staged, meaning that "they can infiltrate networks and move laterally inside the network."[27] the attacks can be polymorphic, meaning that the cyberattacks used such as viruses, worms or trojans "constantly change ("morph") making it nearly impossible to detect them using signature-based defences."[27]
+
+phishing[edit]
+an example of a phishing email, disguised as an official email from a (fictional) bank. the sender is attempting to trick the recipient into revealing confidential information by confirming it at the phisher's website. note the misspelling of the words received and discrepancy as recieved and discrepency, respectively. although the url of the bank's webpage appears to be legitimate, the hyperlink points at the phisher's webpage.
+phishing is the attempt of acquiring sensitive information such as usernames, passwords, and credit card details directly from users by deceiving the users.[28] phishing is typically carried out by email spoofing, instant messaging, text message, or on a phone call. they often direct users to enter details at a fake website whose look and feel are almost identical to the legitimate one.[29] the fake website often asks for personal information, such as login details and passwords. this information can then be used to gain access to the individual's real account on the real website.
+preying on a victim's trust, phishing can be classified as a form of social engineering. attackers can use creative ways to gain access to real accounts. a common scam is for attackers to send fake electronic invoices[30] to individuals showing that they recently purchased music, apps, or others, and instructing them to click on a link if the purchases were not authorized. a more strategic type of phishing is spear-phishing which leverages personal or organization-specific details to make the attacker appear like a trusted source. spear-phishing attacks target specific individuals, rather than the broad net cast by phishing attempts.[31]
+
+privilege escalation[edit]
+privilege escalation describes a situation where an attacker with some level of restricted access is able to, without authorization, elevate their privileges or access level.[32] for example, a standard computer user may be able to exploit a vulnerability in the system to gain access to restricted data; or even become root and have full unrestricted access to a system. the severity of attacks can range from attacks simply sending an unsolicited email to a ransomware attack on large amounts of data. privilege escalation usually starts with social engineering techniques, often phishing.[32]
+privilege escalation can be separated into two strategies, horizontal and vertical privilege escalation:
+
+horizontal escalation (or account takeover) is where an attacker gains access to a normal user account that has relatively low-level privileges. this may be through stealing the user's username and password. once they have access, they have gained a foothold, and using this foothold the attacker then may move around the network of users at this same lower level, gaining access to information of this similar privilege.[32]
+vertical escalation however targets people higher up in a company and often with more administrative power, such as an employee in it with a higher privilege. using this privileged account will then enable the attacker to invade other accounts.[32]
+side-channel attack[edit]
+main article: side-channel attack
+any computational system affects its environment in some form. this effect it has on its environment can range from electromagnetic radiation, to residual effect on ram cells which as a consequence make a cold boot attack possible, to hardware implementation faults that allow for access or guessing of other values that normally should be inaccessible. in side-channel attack scenarios, the attacker would gather such information about a system or network to guess its internal state and as a result access the information which is assumed by the victim to be secure. the target information in a side channel can be challenging to detect due to its low amplitude when combined with other signals [33]
+
+social engineering[edit]
+social engineering, in the context of computer security, aims to convince a user to disclose secrets such as passwords, card numbers, etc. or grant physical access by, for example, impersonating a senior executive, bank, a contractor, or a customer.[34] this generally involves exploiting people's trust, and relying on their cognitive biases. a common scam involves emails sent to accounting and finance department personnel, impersonating their ceo and urgently requesting some action. one of the main techniques of social engineering are phishing attacks.
+in early 2016, the fbi reported that such business email compromise (bec) scams had cost us businesses more than $2 billion in about two years.[35]
+in may 2016, the milwaukee bucks nba team was the victim of this type of cyber scam with a perpetrator impersonating the team's president peter feigin, resulting in the handover of all the team's employees' 2015 w-2 tax forms.[36]
+
+spoofing[edit]
+main article: spoofing attack
+spoofing is an act of pretending to be a valid entity through the falsification of data (such as an ip address or username), in order to gain access to information or resources that one is otherwise unauthorized to obtain. spoofing is closely related to phishing.[37][38] there are several types of spoofing, including:
+
+email spoofing, is where an attacker forges the sending (from, or source) address of an email.
+ip address spoofing, where an attacker alters the source ip address in a network packet to hide their identity or impersonate another computing system.
+mac spoofing, where an attacker modifies the media access control (mac) address of their network interface controller to obscure their identity, or to pose as another.
+biometric spoofing, where an attacker produces a fake biometric sample to pose as another user.[39]
+address resolution protocol (arp) spoofing, where an attacker sends spoofed address resolution protocol onto a local area network to associate their media access control address with a different host's ip address. this causes data to be sent to the attacker rather than the intended host.
+in 2018, the cybersecurity firm trellix published re on the life-threatening risk of spoofing in the healthcare industry.[40]
+
+tampering[edit]
+tampering describes a malicious modification or alteration of data. it is an intentional but unauthorized act resulting in the modification of a system, components of systems, its intended behavior, or data. so-called evil maid attacks and security services planting of surveillance capability into routers are examples.[41]
+
+html smuggling[edit]
+html smuggling allows an attacker to smuggle a malicious code inside a particular html or web page.[42] html files can carry payloads concealed as benign, inert data in order to defeat content filters. these payloads can be reconstructed on the other side of the filter.[43]
+when a target user opens the html, the malicious code is activated; the web browser then decodes the script, which then unleashes the malware onto the target's device.[42]
+
+information security practices[edit]
+employee behavior can have a big impact on information security in organizations. cultural concepts can help different segments of the organization work effectively or work against effectiveness toward information security within an organization. information security culture is the "...totality of patterns of behavior in an organization that contributes to the protection of information of all kinds."[44]
+andersson and reimers (2014) found that employees often do not see themselves as part of their organization's information security effort and often take actions that impede organizational changes.[45] indeed, the verizon data breach investigations report 2020, which examined 3,950 security breaches, discovered 30% of cybersecurity incidents involved internal actors within a company.[46] re shows information security culture needs to be improved continuously. in "information security culture from analysis to change", authors commented, "it's a never-ending process, a cycle of evaluation and change or maintenance." to manage the information security culture, five steps should be taken: pre-evaluation, strategic planning, operative planning, implementation, and post-evaluation.[47]
+
+pre-evaluation: to identify the awareness of information security within employees and to analyze the current security policies.
+strategic planning: to come up with a better awareness program, clear targets need to be set. assembling a team of skilled professionals is helpful to achieve it.
+operative planning: a good security culture can be established based on internal communication, management buy-in, security awareness and a training program.[47]
+implementation: four stages should be used to implement the information security culture. they are:
+commitment of the management
+communication with organizational members
+courses for all organizational members
+commitment of the employees[47]
+post-evaluation: to assess the success of the planning and implementation, and to identify unresolved areas of concern.
+computer protection (countermeasures)[edit]
+in computer security, a countermeasure is an action, device, procedure or technique that reduces a threat, a vulnerability, or an attack by eliminating or preventing it, by minimizing the harm it can cause, or by discovering and reporting it so that corrective action can be taken.[48][49][50]
+some common countermeasures are listed in the following sections:
+
+security by design[edit]
+main article: secure by design
+security by design, or alternately secure by design, means that the software has been designed from the ground up to be secure. in this case, security is considered a main feature.
+the uk government's national cyber security centre separates secure cyber design principles into five sections:[51]
+
+before a secure system is created or updated, companies should ensure they understand the fundamentals and the context around the system they are trying to create and identify any weaknesses in the system.
+companies should design and centre their security around techniques and defences which make attacking their data or systems inherently more challenging for attackers.
+companies should ensure that their core services that rely on technology are protected so that the systems are essentially never down.
+although systems can be created which are safe against a multitude of attacks, that does not mean that attacks will not be attempted. despite one's security, all companies' systems should aim to be able to detect and spot attacks as soon as they occur to ensure the most effective response to them.
+companies should create secure systems designed so that any attack that is successful has minimal severity.
+these design principles of security by design can include some of the following techniques:
+
+the principle of least privilege, where each part of the system has only the privileges that are needed for its function. that way, even if an attacker gains access to that part, they only have limited access to the whole system.
+automated theorem proving to prove the correctness of crucial software subsystems.
+code reviews and unit testing, approaches to make modules more secure where formal correctness proofs are not possible.
+defense in depth, where the design is such that more than one subsystem needs to be violated to compromise the integrity of the system and the information it holds.
+default secure settings, and design to fail secure rather than fail insecure (see fail-safe for the equivalent in safety engineering). ideally, a secure system should require a deliberate, conscious, knowledgeable and free decision on the part of legitimate authorities in order to make it insecure.
+audit trails track system activity so that when a security breach occurs, the mechanism and extent of the breach can be determined. storing audit trails remotely, where they can only be appended to, can keep intruders from covering their tracks.
+full disclosure of all vulnerabilities, to ensure that the window of vulnerability is kept as short as possible when bugs are discovered.
+security architecture[edit]
+security architecture can be defined as the "practice of designing computer systems to achieve security goals."[52] these goals have overlap with the principles of "security by design" explored above, including to "make initial compromise of the system difficult," and to "limit the impact of any compromise."[52] in practice, the role of a security architect would be to ensure the structure of a system reinforces the security of the system, and that new changes are safe and meet the security requirements of the organization.[53][54]
+similarly, techopedia defines security architecture as "a unified security design that addresses the necessities and potential risks involved in a certain scenario or environment. it also specifies when and where to apply security controls. the design process is generally reproducible." the key attributes of security architecture are:[55]
+
+the relationship of different components and how they depend on each other.
+determination of controls based on risk assessment, good practices, finances, and legal matters.
+the standardization of controls.
+practicing security architecture provides the right foundation to systematically address business, it and security concerns in an organization.
+
+security measures[edit]
+a state of computer security is the conceptual ideal, attained by the use of three processes: threat prevention, detection, and response. these processes are based on various policies and system components, which include the following:
+
+limiting the access of individuals using user account access controls and using cryptography can protect systems files and data, respectively.
+firewalls are by far the most common prevention systems from a network security perspective as they can (if properly configured) shield access to internal network services and block certain kinds of attacks through packet filtering. firewalls can be both hardware and software-based. firewalls monitor and control incoming and outgoing traffic of a computer network and establish a barrier between a trusted network and an untrusted network.[56]
+intrusion detection system (ids) products are designed to detect network attacks in-progress and assist in post-attack forensics, while audit trails and logs serve a similar function for individual systems.
+response is necessarily defined by the assessed security requirements of an individual system and may cover the range from simple upgrade of protections to notification of legal authorities, counter-attacks, and the like. in some special cases, the complete destruction of the compromised system is favored, as it may happen that not all the compromised resources are detected.
+cyber security awareness training to cope with cyber threats and attacks.[57]
+forward web proxy solutions can prevent the client to visit malicious web pages and inspect the content before downloading to the client machines.
+today, computer security consists mainly of preventive measures, like firewalls or an exit procedure. a firewall can be defined as a way of filtering network data between a host or a network and another network, such as the internet. they can be implemented as software running on the machine, hooking into the network stack (or, in the case of most unix-based operating systems such as linux, built into the operating system kernel) to provide real-time filtering and blocking.[56] another implementation is a so-called physical firewall, which consists of a separate machine filtering network traffic. firewalls are common amongst machines that are permanently connected to the internet.
+some organizations are turning to big data platforms, such as apache hadoop, to extend data accessibility and machine learning to detect advanced persistent threats.[58]
+in order to ensure adequate security, the confidentiality, integrity and availability of a network, better known as the cia triad, must be protected and is considered the foundation to information security.[59] to achieve those objectives, administrative, physical and technical security measures should be employed. the amount of security afforded to an asset can only be determined when its value is known.[60]
+
+vulnerability management[edit]
+main article: vulnerability management
+vulnerability management is the cycle of identifying, fixing or mitigating vulnerabilities,[61] especially in software and firmware. vulnerability management is integral to computer security and network security.
+vulnerabilities can be discovered with a vulnerability scanner, which analyzes a computer system in  of known vulnerabilities,[62] such as open ports, insecure software configuration, and susceptibility to malware. in order for these tools to be effective, they must be kept up to date with every new update the vendor release. typically, these updates will scan for the new vulnerabilities that were introduced recently.
+beyond vulnerability scanning, many organizations contract outside security auditors to run regular penetration tests against their systems to identify vulnerabilities. in some sectors, this is a contractual requirement.[63]
+
+reducing vulnerabilities[edit]
+the act of assessing and reducing vulnerabilities to cyber attacks is commonly referred to as information technology security assessments. they aim to assess systems for risk and to predict and test for their vulnerabilities. while formal verification of the correctness of computer systems is possible,[64][65] it is not yet common. operating systems formally verified include sel4,[66] and sysgo's pikeos[67][68] – but these make up a very small percentage of the market.
+it is possible to reduce an attacker's chances by keeping systems up to date with security patches and updates and by hiring people with expertise in security. large companies with significant threats can hire security operations centre (soc) analysts. these are specialists in cyber defences, with their role ranging from "conducting threat analysis to investigating reports of any new issues and preparing and testing disaster recovery plans."[69]
+whilst no measures can completely guarantee the prevention of an attack, these measures can help mitigate the damage of possible attacks. the effects of data loss/damage can be also reduced by careful backing up and insurance.
+outside of formal assessments, there are various methods of reducing vulnerabilities. two factor authentication is a method for mitigating unauthorized access to a system or sensitive information.[70] it requires something you know: a password or pin, and something you have: a card, dongle, cellphone, or another piece of hardware. this increases security as an unauthorized person needs both of these to gain access.
+protecting against social engineering and direct computer access (physical) attacks can only happen by non-computer means, which can be difficult to enforce, relative to the sensitivity of the information. training is often involved to help mitigate this risk by improving people's knowledge of how to protect themselves and by increasing people's awareness of threats.[71] however, even in highly disciplined environments (e.g. military organizations), social engineering attacks can still be difficult to foresee and prevent.
+inoculation, derived from inoculation theory, seeks to prevent social engineering and other fraudulent tricks and traps by instilling a resistance to persuasion attempts through exposure to similar or related attempts.[72]
+
+hardware protection mechanisms[edit]
+see also: computer security compromised by hardware failure
+hardware-based or assisted computer security also offers an alternative to software-only computer security. using devices and methods such as dongles, trusted platform modules, intrusion-aware cases, drive locks, disabling usb ports, and mobile-enabled access may be considered more secure due to the physical access (or sophisticated backdoor access) required in order to be compromised. each of these is covered in more detail below.
+
+usb dongles are typically used in software licensing schemes to unlock software capabilities,[73] but they can also be seen as a way to prevent unauthorized access to a computer or other device's software. the dongle, or key, essentially creates a secure encrypted tunnel between the software application and the key. the principle is that an encryption scheme on the dongle, such as advanced encryption standard (aes) provides a stronger measure of security since it is harder to hack and replicate the dongle than to simply copy the native software to another machine and use it. another security application for dongles is to use them for accessing web-based content such as cloud software or virtual private networks (vpns).[74] in addition, a usb dongle can be configured to lock or unlock a computer.[75]
+trusted platform modules (tpms) secure devices by integrating cryptographic capabilities onto access devices, through the use of microprocessors, or so-called computers-on-a-chip. tpms used in conjunction with server-side software offer a way to detect and authenticate hardware devices, preventing unauthorized network and data access.[76]
+computer case intrusion detection refers to a device, typically a push-button switch, which detects when a computer case is opened. the firmware or bios is programmed to show an alert to the operator when the computer is booted up the  time.
+drive locks are essentially software tools to encrypt hard drives, making them inaccessible to thieves.[77] tools exist specifically for encrypting external drives as well.[78]
+disabling usb ports is a security option for preventing unauthorized and malicious access to an otherwise secure computer. infected usb dongles connected to a network from a computer inside the firewall are considered by the magazine network world as the most common hardware threat facing computer networks.
+disconnecting or disabling peripheral devices (like camera, gps, removable storage, etc.), that are not in use.[79]
+mobile-enabled access devices are growing in popularity due to the ubiquitous nature of cell phones.[80] built-in capabilities such as bluetooth, the newer bluetooth low energy (le), near-field communication (nfc) on non-ios devices and biometric validation such as thumbprint readers, as well as qr code reader software designed for mobile devices, offer new, secure ways for mobile phones to connect to access control systems. these control systems provide computer security and can also be used for controlling access to secure buildings.[81]
+iommus allow for hardware-based sandboxing of components in mobile and desktop computers by utilizing direct memory access protections.[82][83]
+physical unclonable functions (pufs) can be used as a digital fingerprint or a unique identifier to integrated circuits and hardware, providing users the ability to secure the hardware supply chains going into their systems.[84][85]
+secure operating systems[edit]
+main article: security-evaluated operating system
+one use of the term computer security refers to technology that is used to implement secure operating systems. using secure operating systems is a good way of ensuring computer security. these are systems that have achieved certification from an external security-auditing organization, the most popular evaluations are common criteria (cc).[86]
+
+secure coding[edit]
+main article: secure coding
+in software engineering, secure coding aims to guard against the accidental introduction of security vulnerabilities. it is also possible to create software designed from the ground up to be secure. such systems are secure by design. beyond this, formal verification aims to prove the correctness of the algorithms underlying a system;[87]
+important for cryptographic protocols for example.
+
+capabilities and access control lists[edit]
+main articles: access control list, role-based access control, and capability-based security
+within computer systems, two of the main security models capable of enforcing privilege separation are access control lists (acls) and role-based access control (rbac).
+an access-control list (acl), with respect to a computer file system, is a list of permissions associated with an object. an acl specifies which users or system processes are granted access to objects, as well as what operations are allowed on given objects.
+role-based access control is an approach to restricting system access to authorized users,[88][89][90] used by the majority of enterprises with more than 500 employees,[91] and can implement mandatory access control (mac) or discretionary access control (dac).
+a further approach, capability-based security has been mostly restricted to re operating systems. capabilities can, however, also be implemented at the language level, leading to a style of programming that is essentially a refinement of standard object-oriented design. an open-source project in the area is the e language.
+
+user security training[edit]
+the end-user is widely recognized as the weakest link in the security chain[92] and it is estimated that more than 90% of security incidents and breaches involve some kind of human error.[93][94] among the most commonly recorded forms of errors and misjudgment are poor password management, sending emails containing sensitive data and attachments to the wrong recipient, the inability to recognize misleading urls and to identify fake websites and dangerous email attachments. a common mistake that users make is saving their user id/password in their browsers to make it easier to log in to banking sites. this is a gift to attackers who have obtained access to a machine by some means. the risk may be mitigated by the use of two-factor authentication.[95]
+as the human component of cyber risk is particularly relevant in determining the global cyber risk[96] an organization is facing, security awareness training, at all levels, not only provides formal compliance with regulatory and industry mandates but is considered essential[97] in reducing cyber risk and protecting individuals and companies from the great majority of cyber threats.
+the focus on the end-user represents a profound cultural change for many security practitioners, who have traditionally approached cybersecurity exclusively from a technical perspective, and moves along the lines suggested by major security centers[98] to develop a culture of cyber awareness within the organization, recognizing that a security-aware user provides an important line of defense against cyber attacks.
+
+digital hygiene[edit]
+related to end-user training, digital hygiene or cyber hygiene is a fundamental principle relating to information security and, as the analogy with personal hygiene shows, is the equivalent of establishing simple routine measures to minimize the risks from cyber threats. the assumption is that good cyber hygiene practices can give networked users another layer of protection, reducing the risk that one vulnerable node will be used to either mount attacks or compromise another node or network, especially from common cyberattacks.[99] cyber hygiene should also not be mistaken for proactive cyber defence, a military term.[100]
+the most common acts of digital hygiene can include updating malware protection, cloud back-ups, passwords, and ensuring restricted admin rights and network firewalls.[101] as opposed to a purely technology-based defense against threats, cyber hygiene mostly regards routine measures that are technically simple to implement and mostly dependent on discipline[102] or education.[103] it can be thought of as an abstract list of tips or measures that have been demonstrated as having a positive effect on personal or collective digital security. as such, these measures can be performed by laypeople, not just security experts.
+cyber hygiene relates to personal hygiene as computer viruses relate to biological viruses (or pathogens). however, while the term computer virus was coined almost simultaneously with the creation of the first working computer viruses,[104] the term cyber hygiene is a much later invention, perhaps as late as 2000[105] by internet pioneer vint cerf. it has since been adopted by the congress[106] and senate of the united states,[107] the fbi,[108] eu institutions[99] and heads of state.[100]
+
+difficulty of responding to breaches[edit]
+responding to attempted security breaches is often very difficult for a variety of reasons, including:
+
+identifying attackers is difficult, as they may operate through proxies, temporary anonymous dial-up accounts, wireless connections, and other anonymizing procedures which make back-tracing difficult – and are often located in another jurisdiction. if they successfully breach security, they have also often gained enough administrative access to enable them to delete logs to cover their tracks.
+the sheer number of attempted attacks, often by automated vulnerability scanners and computer worms, is so large that organizations cannot spend time pursuing each.
+law enforcement officers often lack the skills, interest or budget to pursue attackers. furthermore, identifying attackers across a network may necessitate collecting logs from multiple locations within the network and across various countries, a process that can be both difficult and time-consuming.
+where an attack succeeds and a breach occurs, many jurisdictions now have in place mandatory security breach notification laws.
+
+types of security and privacy[edit]
+
+access control
+anti-keyloggers
+anti-malware
+anti-spyware
+anti-subversion software
+anti-tamper software
+anti-theft
+antivirus software
+cryptographic software
+computer-aided dispatch (cad)
+data loss prevention software
+firewall
+intrusion detection system (ids)
+intrusion prevention system (ips)
+log management software
+parental control
+records management
+sandbox
+security information management
+security information and event management (siem)
+software and operating system updating
+vulnerability management
+
+systems at risk[edit]
+the growth in the number of computer systems and the increasing reliance upon them by individuals, businesses, industries, and governments means that there are an increasing number of systems at risk.
+
+financial systems[edit]
+the computer systems of financial regulators and financial institutions like the u.s. securities and exchange commission, swift, investment banks, and commercial banks are prominent hacking targets for cybercriminals interested in manipulating markets and making illicit gains.[109] websites and apps that accept or store credit card numbers, brokerage accounts, and bank account information are also prominent hacking targets, because of the potential for immediate financial gain from transferring money, making purchases, or selling the information on the black market.[110] in-store payment systems and atms have also been tampered with in order to gather customer account data and pins.
+the ucla internet report: surveying the digital future (2000) found that the privacy of personal data created barriers to online sales and that more than nine out of 10 internet users were somewhat or very concerned about credit card security.[111]
+the most common web technologies for improving security between browsers and websites are named ssl (secure sockets layer), and its successor tls (transport layer security), identity management and authentication services, and domain name services allow companies and consumers to engage in secure communications and commerce. several versions of ssl and tls are commonly used today in applications such as web browsing, e-mail, internet faxing, instant messaging, and voip (voice-over-ip). there are various interoperable implementations of these technologies, including at least one implementation that is open source. open source allows anyone to view the application's source code, and look for and report vulnerabilities.
+the credit card companies visa and mastercard cooperated to develop the secure emv chip which is embedded in credit cards. further developments include the chip authentication program where banks give customers hand-held card readers to perform online secure transactions. other developments in this arena include the development of technology such as instant issuance which has enabled shopping mall kiosks acting on behalf of banks to issue on-the-spot credit cards to interested customers.
+
+utilities and industrial equipment[edit]
+computers control functions at many utilities, including coordination of telecommunications, the power grid, nuclear power plants, and valve opening and closing in water and gas networks. the internet is a potential attack vector for such machines if connected, but the stuxnet worm demonstrated that even equipment controlled by computers not connected to the internet can be vulnerable. in 2014, the computer emergency readiness team, a division of the department of land security, investigated 79 hacking incidents at energy companies.[112]
+
+aviation[edit]
+the aviation industry is very reliant on a series of complex systems which could be attacked.[113] a simple power outage at one airport can cause repercussions worldwide,[114] much of the system relies on radio transmissions which could be disrupted,[115] and controlling aircraft over oceans is especially dangerous because radar surveillance only extends 175 to 225 miles offshore.[116] there is also potential for attack from within an aircraft.[117]
+implementing fixes in aerospace systems poses a unique challenge because efficient air transportation is heavily affected by weight and volume. improving security by adding physical devices to airplanes could increase their unloaded weight, and could potentially reduce cargo or passenger capacity.[118]
+in europe, with the (pan-european network service)[119] and newpens,[120] and in the us with the gen program,[121] air navigation service providers are moving to create their own dedicated networks.
+many modern passports are now biometric passports, containing an embedded microchip that stores a digitized photograph and personal information such as name, gender, and date of birth. in addition, more countries[which?] are introducing facial recognition technology to reduce identity-related fraud. the introduction of the epassport has assisted border officials in verifying the identity of the passport holder, thus allowing for quick passenger processing.[122] plans are under way in the us, the uk, and australia to introduce smartgate kiosks with both retina and fingerprint recognition technology.[123] the airline industry is moving from the use of traditional paper tickets towards the use of electronic tickets (e-tickets). these have been made possible by advances in online credit card transactions in partnership with the airlines. long-distance bus companies[which?] are also switching over to e-ticketing transactions today.
+the consequences of a successful attack range from loss of confidentiality to loss of system integrity, air traffic control outages, loss of aircraft, and even loss of life.
+
+consumer devices[edit]
+desktop computers and laptops are commonly targeted to gather passwords or financial account information or to construct a botnet to attack another target. smartphones, tablet computers, smart watches, and other mobile devices such as quantified self devices like activity trackers have sensors such as cameras, microphones, gps receivers, compasses, and accelerometers which could be exploited, and may collect personal information, including sensitive health information. wifi, bluetooth, and cell phone networks on any of these devices could be used as attack vectors, and sensors might be remotely activated after a successful breach.[124]
+the increasing number of  automation devices such as the nest thermostat are also potential targets.[124]
+
+healthcare[edit]
+today many healthcare providers and health insurance companies use the internet to provide enhanced products and services. examples are the use of tele-health to potentially offer better quality and access to healthcare, or fitness trackers to lower insurance premiums.[citation needed] patient records are increasingly being placed on secure in-house networks, alleviating the need for extra storage space.[125]
+
+large corporations[edit]
+large corporations are common targets. in many cases attacks are aimed at financial gain through identity theft and involve data breaches. examples include the loss of millions of clients' credit card and financial details by  depot,[126] staples,[127] target corporation,[128] and equifax.[129]
+medical records have been targeted in general identify theft, health insurance fraud, and impersonating patients to obtain prescription drugs for recreational purposes or resale.[130] although cyber threats continue to increase, 62% of all organizations did not increase security training for their business in 2015.[131]
+not all attacks are financially motivated, however: security firm hbgary federal had a serious series of attacks in 2011 from hacktivist group anonymous in retaliation for the firm's ceo claiming to have infiltrated their group,[132][133] and sony pictures was hacked in 2014 with the apparent dual motive of embarrassing the company through data leaks and crippling the company by wiping workstations and servers.[134][135]
+
+automobiles[edit]
+see also: autonomous car § potential disadvantages, automated driving system § risks and liabilities, and automotive hacking
+vehicles are increasingly computerized, with engine timing, cruise control, anti-lock brakes, seat belt tensioners, door locks, airbags and advanced driver-assistance systems on many models. additionally, connected cars may use wifi and bluetooth to communicate with onboard consumer devices and the cell phone network.[136] self-driving cars are expected to be even more complex. all of these systems carry some security risks, and such issues have gained wide attention.[137][138][139]
+simple examples of risk include a malicious compact disc being used as an attack vector,[140] and the car's onboard microphones being used for eavesdropping. however, if access is gained to a car's internal controller area network, the danger is much greater[136] – and in a widely publicized 2015 test, hackers remotely carjacked a vehicle from 10 miles away and drove it into a ditch.[141][142]
+manufacturers are reacting in numerous ways, with tesla in 2016 pushing out some security fixes over the air into its cars' computer systems.[143] in the area of autonomous vehicles, in september 2016 the united states department of transportation announced some initial safety standards, and called for states to come up with uniform policies.[144][145][146]
+additionally, e-drivers' licenses are being developed using the same technology. for example, mexico's licensing authority (icv) has used a smart card platform to issue the first e-drivers' licenses to the city of monterrey, in the state of nuevo león.[147]
+
+shipping[edit]
+shipping companies[148] have adopted rfid (radio frequency identification) technology as an efficient, digitally secure, tracking device. unlike a barcode, rfid can be read up to 20 feet away. rfid is used by fedex[149] and ups.[150]
+
+government[edit]
+government and military computer systems are commonly attacked by activists[151][152][153] and foreign powers.[154][155][156][157] local and regional government infrastructure such as traffic light controls, police and intelligence agency communications, personnel records, as well as student records.[158]
+the fbi, cia, and pentagon, all utilize secure controlled access technology for any of their buildings. however, the use of this form of technology is spreading into the entrepreneurial world. more and more companies are taking advantage of the development of digitally secure controlled access technology. ge's acuvision, for example, offers a single panel platform for access control, alarm monitoring and digital recording.[159]
+
+internet of things and physical vulnerabilities[edit]
+the internet of things (iot) is the network of physical objects such as devices, vehicles, and buildings that are embedded with electronics, software, sensors, and network connectivity that enables them to collect and exchange data.[160] concerns have been raised that this is being developed without appropriate consideration of the security challenges involved.[161][162]
+while the iot creates opportunities for more direct integration of the physical world into computer-based systems,[163][164]
+it also provides opportunities for misuse. in particular, as the internet of things spreads widely, cyberattacks are likely to become an increasingly physical (rather than simply virtual) threat.[165] if a front door's lock is connected to the internet, and can be locked/unlocked from a phone, then a criminal could enter the  at the press of a button from a stolen or hacked phone. people could stand to lose much more than their credit card numbers in a world controlled by iot-enabled devices. thieves have also used electronic means to circumvent non-internet-connected hotel door locks.[166]
+an attack aimed at physical infrastructure or human lives is often called a cyber-kinetic attack. as iot devices and appliances become more widespread, the prevalence and potential damage of cyber-kinetic attacks can increase substantially.
+
+medical systems[edit]
+see also: medical device hijack and medical data breach
+medical devices have either been successfully attacked or had potentially deadly vulnerabilities demonstrated, including both in-hospital diagnostic equipment[167] and implanted devices including pacemakers[168] and insulin pumps.[169] there are many reports of hospitals and hospital organizations getting hacked, including ransomware attacks,[170][171][172][173] windows xp exploits,[174][175] viruses,[176][177] and data breaches of sensitive data stored on hospital servers.[178][171][179][180] on 28 december 2016 the us food and drug administration released its recommendations for how medical device manufacturers should maintain the security of internet-connected devices – but no structure for enforcement.[181][182]
+
+energy sector[edit]
+in distributed generation systems, the risk of a cyber attack is real, according to daily energy insider. an attack could cause a loss of power in a large area for a long period of time, and such an attack could have just as severe consequences as a natural disaster. the district of columbia is considering creating a distributed energy resources (der) authority within the city, with the goal being for customers to have more insight into their own energy use and giving the local electric utility, pepco, the chance to better estimate energy demand. the d.c. proposal, however, would "allow third-party vendors to create numerous points of energy distribution, which could potentially create more opportunities for cyber attackers to threaten the electric grid."[183]
+
+telecommunications[edit]
+perhaps the most widely known digitally secure telecommunication device is the sim (subscriber identity module) card, a device that is embedded in most of the world's cellular devices before any service can be obtained. the sim card is just the beginning of this digitally secure environment.
+the smart card web servers draft standard (scws) defines the interfaces to an http server in a smart card.[184] tests are being conducted to secure ota ("over-the-air") payment and credit card information from and to a mobile phone. 
+combination sim/dvd devices are being developed through smart video card technology which embeds a dvd-compliant optical disc into the card body of a regular sim card.
+other telecommunication developments involving digital security include mobile signatures, which use the embedded sim card to generate a legally binding electronic signature.
+
+cost and impact of security breaches[edit]
+serious financial damage has been caused by security breaches, but because there is no standard model for estimating the cost of an incident, the only data available is that which is made public by the organizations involved. "several computer security consulting firms produce estimates of total worldwide losses attributable to virus and worm attacks and to hostile digital acts in general. the 2003 loss estimates by these firms range from $13 billion (worms and viruses only) to $226 billion (for all forms of covert attacks). the reliability of these estimates is often challenged; the underlying methodology is basically anecdotal."[185]
+however, reasonable estimates of the financial cost of security breaches can actually help organizations make rational investment decisions. according to the classic gordon-loeb model analyzing the optimal investment level in information security, one can conclude that the amount a firm spends to protect information should generally be only a small fraction of the expected loss (i.e., the expected value of the loss resulting from a cyber/information security breach).[186]
+
+attacker motivation[edit]
+as with physical security, the motivations for breaches of computer security vary between attackers. some are thrill-seekers or vandals, some are activists, others are criminals looking for financial gain. state-sponsored attackers are now common and well resourced but started with amateurs such as markus hess who hacked for the kgb, as recounted by clifford stoll in the cuckoo's egg.
+attackers motivations can vary for all types of attacks from pleasure to political goals.[15] for example, hacktivists may target a company or organization that carries out activities they do not agree with. this would be to create bad publicity for the company by having its website crash.
+high capability hackers, often with larger backing or state sponsorship, may attack based on the demands of their financial backers. these attacks are more likely to attempt more serious attack. an example of a more serious attack was the 2015 ukraine power grid hack, which reportedly utilised the spear-phising, destruction of files, and denial-of-service attacks to carry out the full attack.[187][188]
+additionally, recent attacker motivations can be traced back to extremist organizations seeking to gain political advantage or disrupt social agendas.[189] the growth of the internet, mobile technologies, and inexpensive computing devices have led to a rise in capabilities but also to the risk to environments that are deemed as vital to operations. all critical targeted environments are susceptible to compromise and this has led to a series of proactive studies on how to migrate the risk by taking into consideration motivations by these types of actors. several stark differences exist between the hacker motivation and that of nation state actors seeking to attack based on an ideological preference.[190]
+a key aspect of threat modeling for any system is identifying the motivations behind potential attacks and the individuals or groups likely to carry them out. the level and detail of security measures will differ based on the specific system being protected. for instance, a  personal computer, a bank, and a classified military network each face distinct threats, despite using similar underlying technologies.[191]
+
+computer security incident management[edit]
+computer security incident management is an organized approach to addressing and managing the aftermath of a computer security incident or compromise with the goal of preventing a breach or thwarting a cyberattack. an incident that is not identified and managed at the time of intrusion typically escalates to a more damaging event such as a data breach or system failure. the intended outcome of a computer security incident response plan is to contain the incident, limit damage and assist recovery to business as usual. responding to compromises quickly can mitigate exploited vulnerabilities, restore services and processes and minimize losses.[192]
+incident response planning allows an organization to establish a series of best practices to stop an intrusion before it causes damage. typical incident response plans contain a set of written instructions that outline the organization's response to a cyberattack. without a documented plan in place, an organization may not successfully detect an intrusion or compromise and stakeholders may not understand their roles, processes and procedures during an escalation, slowing the organization's response and resolution.
+there are four key components of a computer security incident response plan:
+
+preparation: preparing stakeholders on the procedures for handling computer security incidents or compromises
+detection and analysis: identifying and investigating suspicious activity to confirm a security incident, prioritizing the response based on impact and coordinating notification of the incident
+containment, eradication and recovery: isolating affected systems to prevent escalation and limit impact, pinpointing the genesis of the incident, removing malware, affected systems and bad actors from the environment and restoring systems and data when a threat no longer remains
+post incident activity: post mortem analysis of the incident, its root cause and the organization's response with the intent of improving the incident response plan and future response efforts.[193]
+notable attacks and breaches[edit]
+further information: list of cyber-attacks and list of data breaches
+some illustrative examples of different types of computer security breaches are given below.
+
+robert morris and the first computer worm[edit]
+main article: morris worm
+in 1988, 60,000 computers were connected to the internet, and most were mainframes, minicomputers and professional workstations. on 2 november 1988, many started to slow down, because they were running a malicious code that demanded processor time and that spread itself to other computers – the first internet computer worm.[194] the software was traced back to 23-year-old cornell university graduate student robert tappan morris who said "he wanted to count how many machines were connected to the internet".[194]
+
+rome laboratory[edit]
+in 1994, over a hundred intrusions were made by unidentified crackers into the rome laboratory, the us air force's main command and re facility. using trojan horses, hackers were able to obtain unrestricted access to rome's networking systems and remove traces of their activities. the intruders were able to obtain classified files, such as air tasking order systems data and furthermore able to penetrate connected networks of national aeronautics and space administration's goddard space flight center, wright-patterson air force base, some defense contractors, and other private sector organizations, by posing as a trusted rome center user.[195]
+
+tjx customer credit card details[edit]
+in early 2007, american apparel and  goods company tjx announced that it was the victim of an unauthorized computer systems intrusion[196] and that the hackers had accessed a system that stored data on credit card, debit card, check, and merchandise return transactions.[197]
+
+stuxnet attack[edit]
+in 2010, the computer worm known as stuxnet reportedly ruined almost one-fifth of iran's nuclear centrifuges.[198] it did so by disrupting industrial programmable logic controllers (plcs) in a targeted attack. this is generally believed to have been launched by israel and the united states to disrupt iran's nuclear program[199][200][201][202] – although neither has publicly admitted this.
+
+global surveillance disclosures[edit]
+main article: global surveillance disclosures (2013–present)
+in early 2013, documents provided by edward snowden were published by the washington post and the guardian[203][204] exposing the massive scale of nsa global surveillance. there were also indications that the nsa may have inserted a backdoor in a nist standard for encryption.[205] this standard was later withdrawn due to widespread criticism.[206] the nsa additionally were revealed to have tapped the links between google's data centers.[207]
+
+target and  depot breaches[edit]
+a ukrainian hacker known as rescator broke into target corporation computers in 2013, stealing roughly 40 million credit cards,[208] and then  depot computers in 2014, stealing between 53 and 56 million credit card numbers.[209] warnings were delivered at both corporations, but ignored; physical security breaches using self checkout machines are believed to have played a large role. "the malware utilized is absolutely unsophisticated and uninteresting," says jim walter, director of threat intelligence operations at security technology company mcafee – meaning that the heists could have easily been stopped by existing antivirus software had administrators responded to the warnings. the size of the thefts has resulted in major attention from state and federal united states authorities and the investigation is ongoing.
+
+office of personnel management data breach[edit]
+in april 2015, the office of personnel management discovered it had been hacked more than a year earlier in a data breach, resulting in the theft of approximately 21.5 million personnel records handled by the office.[210] the office of personnel management hack has been described by federal officials as among the largest breaches of government data in the history of the united states.[211] data targeted in the breach included personally identifiable information such as social security numbers, names, dates and places of birth, addresses, and fingerprints of current and former government employees as well as anyone who had undergone a government background check.[212][213] it is believed the hack was perpetrated by chinese hackers.[214]
+
+ashley madison breach[edit]
+main article: ashley madison data breach
+in july 2015, a hacker group is known as the impact team successfully breached the extramarital relationship website ashley madison, created by avid life media. the group claimed that they had taken not only company data but user data as well. after the breach, the impact team dumped emails from the company's ceo, to prove their point, and threatened to dump customer data unless the website was taken down permanently.[215] when avid life media did not take the site offline the group released two more compressed files, one 9.7gb and the second 20gb. after the second data dump, avid life media ceo noel biderman resigned; but the website remained to function.
+
+colonial pipeline ransomware attack[edit]
+main article: colonial pipeline ransomware attack
+in june 2021, the cyber attack took down the largest fuel pipeline in the u.s. and led to shortages across the east coast.[216]
+
+legal issues and global regulation[edit]
+international legal issues of cyber attacks are complicated in nature. there is no global base of common rules to judge, and eventually punish, cybercrimes and cybercriminals - and where security firms or agencies do locate the cybercriminal behind the creation of a particular piece of malware or form of cyber attack, often the local authorities cannot take action due to lack of laws under which to prosecute.[217][218] proving attribution for cybercrimes and cyberattacks is also a major problem for all law enforcement agencies. "computer viruses switch from one country to another, from one jurisdiction to another – moving around the world, using the fact that we don't have the capability to globally police operations like this. so the internet is as if someone [had] given free plane tickets to all the online criminals of the world."[217] the use of techniques such as dynamic dns, fast flux and bullet proof servers add to the difficulty of investigation and enforcement.
+
+role of government[edit]
+the role of the government is to make regulations to force companies and organizations to protect their systems, infrastructure and information from any cyberattacks, but also to protect its own national infrastructure such as the national power-grid.[219]
+the government's regulatory role in cyberspace is complicated. for some, cyberspace was seen as a virtual space that was to remain free of government intervention, as can be seen in many of today's libertarian blockchain and bitcoin discussions.[220]
+many government officials and experts think that the government should do more and that there is a crucial need for improved regulation, mainly due to the failure of the private sector to solve efficiently the cybersecurity problem. r. clarke said during a panel discussion at the rsa security conference in san francisco, he believes that the "industry only responds when you threaten regulation. if the industry doesn't respond (to the threat), you have to follow through."[221] on the other hand, executives from the private sector agree that improvements are necessary, but think that government intervention would affect their ability to innovate efficiently. daniel r. mccarthy analyzed this public-private partnership in cybersecurity and reflected on the role of cybersecurity in the broader constitution of political order.[222]
+on 22 may 2020, the un security council held its second ever informal meeting on cybersecurity to focus on cyber challenges to international peace. according to un secretary-general antónio guterres, new technologies are too often used to violate rights.[223]
+
+international actions[edit]
+many different teams and organizations exist, including:
+
+the forum of incident response and security teams (first) is the global association of csirts.[224] the us-cert, at&t, apple, cisco, mcafee, microsoft are all members of this international team.[225]
+the council of europe helps protect societies worldwide from the threat of cybercrime through the convention on cybercrime.[226]
+the purpose of the messaging anti-abuse working group (maawg) is to bring the messaging industry together to work collaboratively and to successfully address the various forms of messaging abuse, such as spam, viruses, denial-of-service attacks and other messaging exploitations.[227] france telecom, facebook, at&t, apple, cisco, sprint are some of the members of the maawg.[228]
+enisa : the european network and information security agency (enisa) is an agency of the european union with the objective to improve network and information security in the european union.
+europe[edit]
+on 14 april 2016, the european parliament and the council of the european union adopted the general data protection regulation (gdpr). the gdpr, which came into force on 25 may 2018, grants individuals within the european union (eu) and the european economic area (eea) the right to the protection of personal data. the regulation requires that any entity that processes personal data incorporate data protection by design and by default. it also requires that certain organizations appoint a data protection officer (dpo).
+the it security association teletrust exist in germany since june 1986, which is an international competence network for it security.
+
+national actions[edit]
+computer emergency response teams[edit]
+main article: computer emergency response team
+most countries have their own computer emergency response team to protect network security.
+
+canada[edit]
+since 2010, canada has had a cybersecurity strategy.[229][230] this functions as a counterpart document to the national strategy and action plan for critical infrastructure.[231] the strategy has three main pillars: securing government systems, securing vital private cyber systems, and helping canadians to be secure online.[230][231] there is also a cyber incident management framework to provide a coordinated response in the event of a cyber incident.[232][233]
+the canadian cyber incident response centre (ccirc) is responsible for mitigating and responding to threats to canada's critical infrastructure and cyber systems. it provides support to mitigate cyber threats, technical support to respond & recover from targeted cyber attacks, and provides online tools for members of canada's critical infrastructure sectors.[234] it posts regular cybersecurity bulletins[235] & operates an online reporting tool where individuals and organizations can report a cyber incident.[236]
+to inform the general public on how to protect themselves online, public safety canada has partnered with stop.think.connect, a coalition of non-profit, private sector, and government organizations,[237] and launched the cyber security cooperation program.[238][239] they also run the getcybersafe portal for canadian citizens, and cyber security awareness month during october.[240]
+public safety canada aims to begin an evaluation of canada's cybersecurity strategy in early 2015.[231]
+
+australia[edit]
+australian federal government announced an $18.2 million investment to fortify the cybersecurity resilience of small and medium enterprises (smes) and enhance their capabilities in responding to cyber threats. this financial backing is an integral component of the soon-to-be-unveiled 2023-2030 australian cyber security strategy, slated for release within the current week. a substantial allocation of $7.2 million is earmarked for the establishment of a voluntary cyber health check program, facilitating businesses in conducting a comprehensive and tailored self-assessment of their cybersecurity upskill.
+this avant-garde health assessment serves as a diagnostic tool, enabling enterprises to ascertain the robustness of australia's cyber security regulations. furthermore, it affords them access to a repository of educational resources and materials, fostering the acquisition of skills necessary for an elevated cybersecurity posture. this groundbreaking initiative was jointly disclosed by minister for cyber security clare o'neil and minister for small business julie collins.[241]
+
+india[edit]
+some provisions for cybersecurity have been incorporated into rules framed under the information technology act 2000.[242]
+the national cyber security policy 2013 is a policy framework by the ministry of electronics and information technology (meity) which aims to protect the public and private infrastructure from cyberattacks, and safeguard "information, such as personal information (of web users), financial and banking information and sovereign data". cert- in is the nodal agency which monitors the cyber threats in the country. the post of national cyber security coordinator has also been created in the prime minister's office (pmo).
+the indian companies act 2013 has also introduced cyber law and cybersecurity obligations on the part of indian directors. some provisions for cybersecurity have been incorporated into rules framed under the information technology act 2000 update in 2013.[243]
+
+south korea[edit]
+following cyberattacks in the first half of 2013, when the government, news media, television stations, and bank websites were compromised, the national government committed to the training of 5,000 new cybersecurity experts by 2017. the south korean government blamed its northern counterpart for these attacks, as well as incidents that occurred in 2009, 2011,[244] and 2012, but pyongyang denies the accusations.[245]
+
+united states[edit]
+cyber plan[edit]
+the united states has its first fully formed cyber plan in 15 years, as a result of the release of this national cyber plan.[246] in this policy, the us says it will: protect the country by keeping networks, systems, functions, and data safe; promote american wealth by building a strong digital economy and encouraging strong domestic innovation; peace and safety should be kept by making it easier for the us to stop people from using computer tools for bad things, working with friends and partners to do this; and increase the united states' impact around the world to support the main ideas behind an open, safe, reliable, and compatible internet.[247]
+the new u.s. cyber strategy[248] seeks to allay some of those concerns by promoting responsible behavior in cyberspace, urging nations to adhere to a set of norms, both through international law and voluntary standards. it also calls for specific measures to harden u.s. government networks from attacks, like the june 2015 intrusion into the u.s. office of personnel management (opm), which compromised the records of about 4.2 million current and former government employees. and the strategy calls for the u.s. to continue to name and shame bad cyber actors, calling them out publicly for attacks when possible, along with the use of economic sanctions and diplomatic pressure.[249]
+
+legislation[edit]
+the 1986 18 u.s.c. § 1030, the computer fraud and abuse act is the key legislation. it prohibits unauthorized access or damage of protected computers as defined in 18 u.s.c. § 1030(e)(2). although various other measures have been proposed[250][251] – none have succeeded.
+in 2013, executive order 13636 improving critical infrastructure cybersecurity was signed, which prompted the creation of the nist cybersecurity framework.
+in response to the colonial pipeline ransomware attack[252] president joe biden signed executive order 14028[253] on may 12, 2021, to increase software security standards for sales to the government, tighten detection and security on existing systems, improve information sharing and training, establish a cyber safety review board, and improve incident response.
+
+standardized government testing services[edit]
+the general services administration (gsa) has[when?] standardized the penetration test service as a pre-vetted support service, to rapidly address potential vulnerabilities, and stop adversaries before they impact us federal, state and local governments. these services are commonly referred to as highly adaptive cybersecurity services (hacs).
+
+further information: penetration test § standardized government penetration test services
+agencies[edit]
+the department of land security has a dedicated division responsible for the response system, risk management program and requirements for cybersecurity in the united states called the national cyber security division.[254][255] the division is  to us-cert operations and the national cyber alert system.[255] the national cybersecurity and communications integration center brings together government organizations responsible for protecting computer networks and networked infrastructure.[256]
+the third priority of the fbi is to: "protect the united states against cyber-based attacks and high-technology crimes",[257] and they, along with the national white collar crime center (nw3c), and the bureau of justice assistance (bja) are part of the multi-agency task force, the internet crime complaint center, also known as ic3.[258]
+in addition to its own specific duties, the fbi participates alongside non-profit organizations such as infragard.[259][260]
+the computer crime and intellectual property section (ccips) operates in the united states department of justice criminal division. the ccips is in charge of investigating computer crime and intellectual property crime and is specialized in the  and seizure of digital evidence in computers and networks.[261] in 2017, ccips published a framework for a vulnerability disclosure program for online systems to help organizations "clearly describe authorized vulnerability disclosure and discovery conduct, thereby substantially reducing the likelihood that such described activities will result in a civil or criminal violation of law under the computer fraud and abuse act (18 u.s.c. § 1030)."[262]
+the united states cyber command, also known as uscybercom, "has the mission to direct, synchronize, and coordinate cyberspace planning and operations to defend and advance national interests in collaboration with domestic and international partners."[263] it has no role in the protection of civilian networks.[264][265]
+the u.s. federal communications commission's role in cybersecurity is to strengthen the protection of critical communications infrastructure, to assist in maintaining the reliability of networks during disasters, to aid in swift recovery after, and to ensure that first responders have access to effective communications services.[266]
+the food and drug administration has issued guidance for medical devices,[267] and the national highway traffic safety administration[268] is concerned with automotive cybersecurity. after being criticized by the government accountability office,[269] and following successful attacks on airports and claimed attacks on airplanes, the federal aviation administration has devoted funding to securing systems on board the planes of private manufacturers, and the aircraft communications addressing and reporting system.[270] concerns have also been raised about the future  generation air transportation system.[271]
+the us department of defense (dod) issued dod directive 8570 in 2004, supplemented by dod directive 8140, requiring all dod employees and all dod contract personnel involved in information assurance roles and activities to earn and maintain various industry information technology (it) certifications in an effort to ensure that all dod personnel involved in network infrastructure defense have minimum levels of it industry recognized knowledge, skills and abilities (ksa). andersson and reimers (2019) report these certifications range from comptia's a+ and security+ through the ics2.org's cissp, etc.[272]
+
+computer emergency readiness team[edit]
+computer emergency response team is a name given to expert groups that handle computer security incidents. in the us, two distinct organizations exist, although they do work closely together.
+
+us-cert: part of the national cyber security division of the united states department of land security.[273]
+cert/cc: created by the defense advanced re projects agency (darpa) and run by the software engineering institute (sei).
+u.s. nrc, 10 cfr 73.54 cybersecurity[edit]
+in the context of u.s. nuclear power plants, the u.s. nuclear regulatory commission (nrc) outlines cybersecurity requirements under 10 cfr part 73, specifically in §73.54.[274]
+
+nei 08-09: cybersecurity plan for nuclear power plants[edit]
+the nuclear energy institute's nei 08-09 document, cyber security plan for nuclear power reactors,[275] outlines a comprehensive framework for cybersecurity in the nuclear power industry. drafted with input from the u.s. nrc, this guideline is instrumental in aiding licensees to comply with the code of federal regulations (cfr), which mandates robust protection of digital computers and equipment and communications systems at nuclear power plants against cyber threats.[276]
+
+modern warfare[edit]
+main article: cyberwarfare
+there is growing concern that cyberspace will become the  theater of warfare. as mark clayton from the christian science monitor wrote in a 2015 article titled "the new cyber arms race":
+
+in the future, wars will not just be fought by soldiers with guns or with planes that drop bombs. they will also be fought with the click of a mouse a half a world away that unleashes carefully weaponized computer programs that disrupt or destroy critical industries like utilities, transportation, communications, and energy. such attacks could also disable military networks that control the movement of troops, the path of jet fighters, the command and control of warships.[277]
+this has led to new terms such as cyberwarfare and cyberterrorism. the united states cyber command was created in 2009[278] and many other countries have similar forces.
+there are a few critical voices that question whether cybersecurity is as significant a threat as it is made out to be.[279][280][281]
+
+careers[edit]
+cybersecurity is a fast-growing field of it concerned with reducing organizations' risk of hack or data breaches.[282] according to re from the enterprise strategy group, 46% of organizations say that they have a "problematic shortage" of cybersecurity skills in 2016, up from 28% in 2015.[283] commercial, government and non-governmental organizations all employ cybersecurity professionals. the fastest increases in demand for cybersecurity workers are in industries managing increasing volumes of consumer data such as finance, health care, and retail.[284] however, the use of the term cybersecurity is more prevalent in government job descriptions.[285]
+typical cybersecurity job titles and descriptions include:[286]
+
+security analyst[edit]
+analyzes and assesses vulnerabilities in the infrastructure (software, hardware, networks), investigates using available tools and countermeasures to remedy the detected vulnerabilities and recommends solutions and best practices. analyzes and assesses damage to the data/infrastructure as a result of security incidents, examines available recovery tools and processes, and recommends solutions. tests for compliance with security policies and procedures. may assist in the creation, implementation, or management of security solutions.
+security engineer[edit]
+performs security monitoring, security and data/logs analysis, and forensic analysis, to detect security incidents, and mount the incident response. investigates and utilizes new technologies and processes to enhance security capabilities and implement improvements. may also review code or perform other security engineering methodologies.
+security architect[edit]
+designs a security system or major components of a security system, and may head a security design team building a new security system.[287]
+chief information security officer (ciso)[edit]
+a high-level management position responsible for the entire information security division/staff. the position may include hands-on technical work.[288]
+chief security officer (cso)[edit]
+a high-level management position responsible for the entire security division/staff. a newer position is now deemed needed as security risks grow.
+data protection officer (dpo)[edit]
+a dpo is tasked with monitoring compliance with data protection laws (such as gdpr), data protection policies, awareness-raising, training, and audits.[289]
+security consultant/specialist/intelligence[edit]
+broad titles that encompass any one or all of the other roles or titles tasked with protecting computers, networks, software, data or information systems against viruses, worms, spyware, malware, intrusion detection, unauthorized access, denial-of-service attacks, and an ever-increasing list of attacks by hackers acting as individuals or as part of organized crime or foreign governments.
+student programs are also available for people interested in beginning a career in cybersecurity.[290][291] meanwhile, a flexible and effective option for information security professionals of all experience levels to keep studying is online security training, including webcasts.[292][293] a wide range of certified courses are also available.[294]
+in the united kingdom, a nationwide set of cybersecurity forums, known as the u.k cyber security forum, were established supported by the government's cybersecurity strategy[295] in order to encourage start-ups and innovation and to address the skills gap[296] identified by the u.k government.
+in singapore, the cyber security agency has issued a singapore operational technology (ot) cybersecurity competency framework (otccf). the framework defines emerging cybersecurity roles in operational technology. the otccf was endorsed by the infocomm media development authority (imda). it outlines the different ot cybersecurity job positions as well as the technical skills and core competencies necessary. it also depicts the many career paths available, including vertical and lateral advancement opportunities.[297]
+
+terminology[edit]
+the following terms used with regards to computer security are explained below:
+
+access authorization restricts access to a computer to a group of users through the use of authentication systems. these systems can protect either the whole computer, such as through an interactive login screen, or individual services, such as a ftp server. there are many methods for identifying and authenticating users, such as passwords, identification cards, smart cards, and biometric systems.
+anti-virus software consists of computer programs that attempt to identify, thwart, and eliminate computer viruses and other malicious software (malware).
+applications are executable code, so general corporate practice is to restrict or block users the power to install them; to install them only when there is a demonstrated need (e.g. software needed to perform assignments); to install only those which are known to be reputable (preferably with access to the computer code used to create the application,- and to reduce the attack surface by installing as few as possible. they are typically run with least privilege, with a robust process in place to identify, test and install any released security patches or updates for them.
+for example, programs can be installed into an individual user's account, which limits the program's potential access, as well as being a means control which users have specific exceptions to policy. in linux, freebsd, openbsd, and other unix-like operating systems there is an option to further restrict an application using chroot or other means of restricting the application to its own 'sandbox'. for example. linux provides namespaces, and cgroups to further restrict the access of an application to system resources.
+generalized security frameworks such as selinux or apparmor help administrators control access.
+java and other languages which compile to java byte code and run in the java virtual machine can have their access to other applications controlled at the virtual machine level.
+some software can be run in software containers which can even provide their own set of system libraries, limiting the software's, or anyone controlling it, access to the server's versions of the libraries.
+authentication techniques can be used to ensure that communication end-points are who they say they are.
+automated theorem proving and other verification tools can be used to enable critical algorithms and code used in secure systems to be mathematically proven to meet their specifications.
+backups are one or more copies kept of important computer files. typically, multiple copies will be kept at different locations so that if a copy is stolen or damaged, other copies will still exist.
+capability and access control list techniques can be used to ensure privilege separation and mandatory access control. capabilities vs. acls discusses their use.
+chain of trust techniques can be used to attempt to ensure that all software loaded has been certified as authentic by the system's designers.
+confidentiality is the nondisclosure of information except to another authorized person.[298]
+cryptographic techniques can be used to defend data in transit between systems, reducing the probability that the data exchange between systems can be intercepted or modified.
+cyber attribution, is an attribution of cybercrime, i.e., finding who perpetrated a cyberattack.
+cyberwarfare is an internet-based conflict that involves politically motivated attacks on information and information systems. such attacks can, for example, disable official websites and networks, disrupt or disable essential services, steal or alter classified data, and cripple financial systems.
+data integrity is the accuracy and consistency of stored data, indicated by an absence of any alteration in data between two updates of a data record.[299]
+cryptographic techniques involve transforming information, scrambling it, so it becomes unreadable during transmission. the intended recipient can unscramble the message; ideally, eavesdroppers cannot.
+encryption is used to protect the confidentiality of a message. cryptographically secure ciphers are designed to make any practical attempt of breaking them infeasible. symmetric-key ciphers are suitable for bulk encryption using shared keys, and public-key encryption using digital certificates can provide a practical solution for the problem of securely communicating when no key is shared in advance.
+endpoint security software aids networks in preventing malware infection and data theft at network entry points made vulnerable by the prevalence of potentially infected devices such as laptops, mobile devices, and usb drives.[300]
+firewalls serve as a gatekeeper system between networks, allowing only traffic that matches defined rules. they often include detailed logging, and may include intrusion detection and intrusion prevention features. they are near-universal between company local area networks and the internet, but can also be used internally to impose traffic rules between networks if network segmentation is configured.
+a hacker is someone who seeks to breach defenses and exploit weaknesses in a computer system or network.
+honey pots are computers that are intentionally left vulnerable to attack by crackers. they can be used to catch crackers and to identify their techniques.
+intrusion-detection systems are devices or software applications that monitor networks or systems for malicious activity or policy violations.
+a microkernel is an approach to operating system design which has only the near-minimum amount of code running at the most privileged level – and runs other elements of the operating system such as device drivers, protocol stacks and file systems, in the safer, less privileged user space.
+pinging. the standard ping application can be used to test if an ip address is in use. if it is, attackers may then try a port scan to detect which services are exposed.
+a port scan is used to probe an ip address for open ports to identify accessible network services and applications.
+a key logger is spyware that silently captures and stores each keystroke that a user types on the computer's keyboard.
+social engineering is the use of deception to manipulate individuals to breach security.
+logic bombs is a type of malware added to a legitimate program that lies dormant until it is triggered by a specific event.
+a unikernel is a computer program that runs on a minimalistic operating system where a single application is allowed to run (as opposed to a general purpose operating system where many applications can run at the same time). this approach to minimizing the attack surface is adopted mostly in cloud environments where software is deployed in virtual machines.
+zero trust security means that no one is trusted by default from inside or outside the network, and verification is required from everyone trying to gain access to resources on the network.
+history[edit]
+since the internet's arrival and with the digital transformation initiated in recent years, the notion of cybersecurity has become a familiar subject in both our professional and personal lives. cybersecurity and cyber threats have been consistently present for the last 60 years of technological change. in the 1970s and 1980s, computer security was mainly limited to academia until the conception of the internet, where, with increased connectivity, computer viruses and network intrusions began to take off. after the spread of viruses in the 1990s, the 2000s marked the institutionalization of organized attacks such as distributed denial of service.[301] this led to the formalization of cybersecurity as a professional discipline.[302]
+the april 1967 session organized by willis ware at the spring joint computer conference, and the later publication of the ware report, were foundational moments in the history of the field of computer security.[303] ware's work straddled the intersection of material, cultural, political, and social concerns.[303]
+a 1977 nist publication[304] introduced the cia triad of confidentiality, integrity, and availability as a clear and simple way to describe key security goals.[305] while still relevant, many more elaborate frameworks have since been proposed.[306][307]
+however, in the 1970s and 1980s, there were no grave computer threats because computers and the internet were still developing, and security threats were easily identifiable. more often, threats came from malicious insiders who gained unauthorized access to sensitive documents and files. although malware and network breaches existed during the early years, they did not use them for financial gain. by the second half of the 1970s, established computer firms like ibm started offering commercial access control systems and computer security software products.[308]
+one of the earliest examples of an attack on a computer network was the computer worm creeper written by bob thomas at bbn, which propagated through the arpanet in 1971.[309] the program was purely experimental in nature and carried no malicious payload. a later program, reaper, was created by ray tomlinson in 1972 and used to destroy creeper.[citation needed]
+between september 1986 and june 1987, a group of german hackers performed the first documented case of cyber espionage.[310] the group hacked into american defense contractors, universities, and military base networks and sold gathered information to the soviet kgb. the group was led by markus hess, who was arrested on 29 june 1987. he was convicted of espionage (along with two co-conspirators) on 15 feb 1990.
+in 1988, one of the first computer worms, called the morris worm, was distributed via the internet. it gained significant mainstream media attention.[311]
+netscape started developing the protocol ssl, shortly after the national center for supercomputing applications (ncsa) launched mosaic 1.0, the first web browser, in 1993.[312][313] netscape had ssl version 1.0 ready in 1994, but it was never released to the public due to many serious security vulnerabilities.[312] however, in 1995, netscape launched version 2.0.[314]
+the national security agency (nsa) is responsible for the protection of u.s. information systems and also for collecting foreign intelligence.[315] the agency analyzes commonly used software and system configurations to find security flaws, which it can use for offensive purposes against competitors of the united states.[316]
+nsa contractors created and sold click-and-shoot attack tools to us agencies and close allies, but eventually, the tools made their way to foreign adversaries.[317] in 2016, nsas own hacking tools were hacked, and they have been used by russia and north korea.[citation needed] nsa's employees and contractors have been recruited at high salaries by adversaries, anxious to compete in cyberwarfare.[citation needed] in 2007, the united states and israel began exploiting security flaws in the microsoft windows operating system to attack and damage equipment used in iran to refine nuclear materials. iran responded by heavily investing in their own cyberwarfare capability, which it began using against the united states.[316]
+
+notable scholars[edit]
+
+ross j. anderson
+annie anton
+adam back
+daniel j. bernstein
+matt blaze
+stefan brands
+l. jean camp
+lorrie cranor
+dorothy e. denning
+peter j. denning
+cynthia dwork
+chuck easttom
+deborah estrin
+joan feigenbaum
+ian goldberg
+shafi goldwasser
+lawrence a. gordon
+peter gutmann
+paul kocher
+monica s. lam
+butler lampson
+brian lamacchia
+susan landau
+carl landwehr
+kevin mitnick
+peter g. neumann
+susan nycum
+paul c. van oorschot
+fred piper
+roger r. schell
+bruce schneier
+dawn song
+gene spafford
+salvatore j. stolfo
+willis ware
+moti yung
+see also[edit]
+
+attack tree – conceptual diagrams showing how an asset, or target, might be attacked
+bicycle attack – method of discovering password length
+captcha – test to determine whether a user is human
+center for internet security – nonprofit organization focused on cybersecurity
+cloud computing security – methods used to protect cloud based assets
+comparison of antivirus software
+content disarm & reconstruction – policy-based removal of components
+content security policy – computer security standard to prevent cross-site scripting and related attacks
+countermeasure (computer) – process to reduce a security threat
+cyber insurance – information technology risk insurance
+cyber self-defense – protection of computer systems from information disclosure, theft or damagepages displaying short descriptions of redirect targets
+cyberbiosecurity – emerging field of computer security
+cybersecurity information technology list
+dancing pigs – users' disregard for it security
+data security – protection of digital data
+defense strategy (computing) – concept to reduce computer security risks
+fault tolerance – resilience of systems to component failures or errors
+hardware security – security architecture implemented in hardware
+human–computer interaction (security) – academic discipline studying the relationship between computer systems and their userspages displaying short descriptions of redirect targets
+identity management – technical and policy systems to give users appropriate accesspages displaying short descriptions of redirect targets
+identity-based security – access control by authenticated id
+information security awareness – part of information security that focuses on raising consciousness regarding potential risks of the rapidly evolving forms of information and the accompanying threatspages displaying wikidata descriptions as a fallback
+internet privacy – right or mandate of personal privacy concerning the internet
+internet safety – being aware of safety and security risks on the internet
+internet security – branch of computer security
+it risk – any risk related to information technology
+it security standards – technology standards and techniquespages displaying short descriptions of redirect targets
+cyber kill chain – process of carrying out a cyberattack
+list of computer security certifications
+list of cyber warfare forces
+open security – open source approach to computer security
+outline of computer security – overview of and topical guide to computer security
+owasp – computer security organization
+physical information security – common ground of physical and information security
+privacy software – layer to protect users' privacy
+security engineering – process of incorporating security controls into an information system
+security through obscurity – reliance on design or implementation secrecy for security
+software-defined perimeter – method of enhancing computer security
+references[edit]
+
+
+^ schatz, daniel; bashroush, rabih; wall, julie (2017). "towards a more representative definition of cyber security". journal of digital forensics, security and law. 12 (2). issn 1558-7215.
+
+^ computer security at the encyclopædia britannica
+
+^ tate, nick (7 may 2013). "reliance spells end of road for ict amateurs". the australian.
+
+^ kianpour, mazaher; kowalski, stewart; øverby, harald (2021). "systematically understanding cybersecurity economics: a survey". sustainability. 13 (24): 13677. bibcode:2021sust...1313677k. doi:10.3390/su132413677. hdl:11250/2978306. issn 2071-1050.
+
+^ stevens, tim (11 june 2018). "global cybersecurity: new directions in theory and methods" (pdf). politics and governance. 6 (2): 1–4. doi:10.17645/pag.v6i2.1569. archived (pdf) from the original on 4 september 2019.
+
+^ "about the cve program". www.cve.org. retrieved 12 april 2023.
+
+^ zlatanov, nikola (3 december 2015). computer security and mobile security challenges. tech security conference at: san francisco, ca.
+
+^ "ghidra". nsa.gov. 1 august 2018. archived from the original on 15 august 2020. retrieved 17 august 2020.
+
+^ larabel, michael (28 december 2017). "syzbot: google continuously fuzzing the linux kernel". www.phoronix.com/. retrieved 25 march 2021.
+
+^ a b c "cyber attacks on smbs: current stats and how to prevent them". crowdstrike.com. retrieved 30 november 2023.
+
+^ a b "cyber security breaches survey 2023". gov.uk. retrieved 30 november 2023.
+
+^ a b "how cyber attacks work". www.ncsc.gov.uk. retrieved 30 november 2023.
+
+^ "what is a backdoor attack? definition and prevention | nordvpn". nordvpn.com. 30 november 2023. retrieved 3 january 2024.
+
+^ a b "what is a backdoor attack?". mcafee. 4 december 2023. retrieved 4 december 2023.
+
+^ a b c "denial of service (dos) guidance". www.ncsc.gov.uk. retrieved 4 december 2023.
+
+^ "computer security". www.interelectronix.com. retrieved 30 november 2023.
+
+^ a b "what is a dma attack? analysis & mitigation". kroll. retrieved 4 december 2023.
+
+^ a b "what are eavesdropping attacks?". fortinet. retrieved 5 december 2023.
+
+^ york, dan (1 january 2010), york, dan (ed.), "chapter 3 – eavesdropping and modification", seven deadliest unified communications attacks, boston: syngress, pp. 41–69, isbn 978-1-59749-547-9, retrieved 5 december 2023
+
+^ "what are eavesdropping attacks & how to prevent them". verizon enterprise. retrieved 5 december 2023.
+
+^ a b c d e f "what is malware? | ibm". www.ibm.com. 14 april 2022. retrieved 6 december 2023.
+
+^ bendovschi, andreea (2015). "cyber-attacks – trends, patterns and security countermeasures". procedia economics and finance. 28: 24–31. doi:10.1016/s2212-5671(15)01077-1.
+
+^ "what is malware?". mcafee. retrieved 30 november 2023.
+
+^ a b 
+"what is a man-in-the-middle attack and how can i protect my organization?". verizon.com.
+
+^ "multi-vector attacks demand multi-vector protection". mssp alert. 24 july 2017.
+
+^ millman, renee (15 december 2017). "new polymorphic malware evades three-quarters of av scanners". sc magazine uk.
+
+^ a b c tounsi, wiem (15 may 2019), tounsi, wiem (ed.), "what is cyber threat intelligence and how is it evolving?", cyber-vigilance and digital trust (1 ed.), wiley, pp. 1–49, doi:10.1002/9781119618393.ch1, isbn 978-1-78630-448-3, s2cid 187294508, retrieved 6 december 2023
+
+^ "identifying phishing attempts". case. archived from the original on 13 september 2015. retrieved 4 july 2016.
+
+^ "protect yourself from phishing – microsoft support". support.microsoft.com. retrieved 6 december 2023.
+
+^ lazarus, ari (23 february 2018). "phishers send fake invoices". consumer information. retrieved 17 february 2020.
+
+^ "email security". trellix. 17 may 2022. archived from the original on 22 may 2022. retrieved 24 october 2022.
+
+^ a b c d "what is privilege escalation? – crowdstrike". crowdstrike.com. retrieved 7 december 2023.
+
+^ spence, aaron; bangay, shaun (june 2022). "security beyond cybersecurity: side-channel attacks against non-cyber systems and their countermeasures". international journal of information security. 21 (3): 437–453. doi:10.1007/s10207-021-00563-6. issn 1615-5262.
+
+^ arcos sergio. "social engineering" (pdf). upc.edu. archived (pdf) from the original on 3 december 2013. retrieved 16 april 2019.
+
+^ scannell, kara (24 february 2016). "ceo email scam costs companies $2bn". financial times. no. 25 february 2016. archived from the original on 23 june 2016. retrieved 7 may 2016.
+
+^ "bucks leak tax info of players, employees as result of email scam". associated press. 20 may 2016. archived from the original on 20 may 2016. retrieved 20 may 2016.
+
+^ "what is spoofing? – definition from techopedia". techopedia.com. archived from the original on 30 june 2016. retrieved 16 january 2022.
+
+^ butterfield, andrew; ngondi, gerard ekembe, eds. (21 january 2016). "spoofing". a dictionary of computer science. oxford university press. doi:10.1093/acref/9780199688975.001.0001. isbn 978-0199688975. retrieved 8 october 2017.
+
+^ marcel, sébastien; nixon, mark; li, stan, eds. (2014). handbook of biometric anti-spoofing: trusted biometrics under spoofing attacks. advances in computer vision and pattern recognition. london: springer. doi:10.1007/978-1-4471-6524-8. isbn 978-1447165248. issn 2191-6594. lccn 2014942635. s2cid 27594864.
+
+^ "80 to 0 in under 5 seconds: falsifying a medical patient's vitals". www.trellix.com. retrieved 9 february 2023.
+
+^ gallagher, sean (14 may 2014). "photos of an nsa "upgrade" factory show cisco router getting implant". ars technica. archived from the original on 4 august 2014. retrieved 3 august 2014.
+
+^ a b intelligence, microsoft threat (11 november 2021). "html smuggling surges: highly evasive loader technique increasingly used in banking malware, targeted attacks". microsoft security blog. retrieved 7 december 2023.
+
+^ "obfuscated files or information: html smuggling, sub-technique t1027.006 – enterprise | mitre att&ck®". attack.mitre.org. retrieved 22 february 2023.
+
+^ lim, joo s.; chang, shanton; maynard, sean; ahmad, atif (2009). "exploring the relationship between organizational culture and information security culture". proceedings of the 7th australian information security management conference. perth. security re institute (sri), edith cowan university: 1st to 3rd december 2009. doi:10.4225/75/57b4065130def.
+
+^ reimers, karl; andersson, david (2017). post-secondary education network security: the end user challenge and evolving threats. iceri2017 proceedings. vol. 1. iated. pp. 1787–1796. doi:10.21125/iceri.2017.0554. isbn 978-84-697-6957-7. issn 2340-1095.
+
+^ verizon data breach investigations report 2020 (pdf). verizon.com (report). archived (pdf) from the original on 19 may 2020. retrieved 17 september 2021.
+
+^ a b c schlienger, thomas; teufel, stephanie (2003). "information security culture-from analysis to change". south african computer journal. 31: 46–52. hdl:10520/ejc27949.
+
+^ internet security glossary. doi:10.17487/rfc2828. rfc 2828.
+
+^ "cnss instruction no. 4009" (pdf). 26 april 2010. archived from the original (pdf) on 27 february 2012.
+
+^ "infosectoday glossary" (pdf). archived (pdf) from the original on 20 november 2014.
+
+^ "cyber security design principles". www.ncsc.gov.uk. retrieved 11 december 2023.
+
+^ a b "how the ncsc thinks about security architecture". www.ncsc.gov.uk. retrieved 18 december 2023.
+
+^ "secure system architecture and design". uk cyber security council. 2024. retrieved 4 january 2024.
+
+^ "security architecture – glossary | csrc". csrc.nist.gov. retrieved 18 december 2023.
+
+^ jannsen, cory. "security architecture". techopedia. janalta interactive inc. archived from the original on 3 october 2014. retrieved 9 october 2014.
+
+^ a b oppliger, rolf (1 may 1997). "internet security: firewalls and beyond". communications of the acm. 40 (5): 92–102. doi:10.1145/253769.253802. issn 0001-0782.
+
+^ "how to increase cybersecurity awareness". isaca. retrieved 25 february 2023.
+
+^ woodie, alex (9 may 2016). "why oni may be our best hope for cyber security now". archived from the original on 20 august 2016. retrieved 13 july 2016.
+
+^ walkowski, debbie (9 july 2019). "what is the cia triad?". f5 labs. retrieved 25 february 2020.
+
+^ "knowing value of data assets is crucial to cybersecurity risk management | securityweek.com". www.securityweek.com. 3 december 2018. retrieved 25 february 2020.
+
+^ foreman, park (2009). vulnerability management. boca raton, fla.: auerbach publications. p. 1. isbn 978-1-4398-0150-5.
+
+^ johnson, a. (2018). ccna cybersecurity operations companion guide. cisco press. isbn 978-0135166246.
+
+^ calder, alan; williams, geraint (2014). pci dss: a pocket guide (3rd ed.). it governance limited. isbn 978-1849285544. network vulnerability scans at least quarterly and after any significant change in the network
+
+^ harrison, j. (2003). formal verification at intel. 18th annual ieee symposium of logic in computer science, 2003. proceedings. pp. 45–54. doi:10.1109/lics.2003.1210044. isbn 978-0769518848. s2cid 44585546.
+
+^ umrigar, zerksis d.; pitchumani, vijay (1983). formal verification of a real-time hardware design. proceeding dac '83 proceedings of the 20th design automation conference. ieee press. pp. 221–227. isbn 978-0818600265.
+
+^ "abstract formal specification of the sel4/armv6 api" (pdf). archived from the original (pdf) on 21 may 2015. retrieved 19 may 2015.
+
+^ baumann, christoph; beckert, bernhard; blasum, holger; bormer, thorsten. ingredients of operating system correctness? lessons learned in the formal verification of pikeos (pdf). embedded world conference, nuremberg, germany. archived from the original (pdf) on 19 july 2011.
+
+^ ganssle, jack. "getting it right". archived from the original on 4 may 2013.
+
+^ "everything you need for a career as a soc analyst". www.cybersecurityjobsite.com. retrieved 19 december 2023.
+
+^ "turn on 2-step verification (2sv)". www.ncsc.gov.uk. retrieved 19 december 2023.
+
+^ "ncsc's cyber security training for staff now available". www.ncsc.gov.uk. retrieved 19 december 2023.
+
+^ treglia, j.; delia, m. (2017). cyber security inoculation. nys cyber security conference, empire state plaza convention center, albany, ny, 3–4 june.
+
+^ "what is a license dongle?". www.revenera.com. retrieved 12 june 2024.
+
+^ "token-based authentication". safenet.com. archived from the original on 20 march 2014. retrieved 20 march 2014.
+
+^ "lock and protect your windows pc". thewindowsclub.com. 10 february 2010. archived from the original on 20 march 2014. retrieved 20 march 2014.
+
+^ greene, james (2012). "intel trusted execution technology: white paper" (pdf). intel corporation. archived (pdf) from the original on 11 june 2014. retrieved 18 december 2013.
+
+^ "safenet protectdrive 8.4". scmagazine.com. 4 october 2008. archived from the original on 20 march 2014. retrieved 20 march 2014.
+
+^ "secure hard drives: lock down your data". pcmag.com. 11 may 2009. archived from the original on 21 june 2017.
+
+^ souppaya, murugiah p.; scarfone, karen (2013). "guidelines for managing the security of mobile devices in the enterprise". national institute of standards and technology. special publication (nist sp). gaithersburg, md. doi:10.6028/nist.sp.800-124r1.
+
+^ "access control statistics: trends & insights". 23 february 2024. retrieved 26 april 2024.
+
+^ "forget ids, use your phone as credentials". fox business network. 4 november 2013. archived from the original on 20 march 2014. retrieved 20 march 2014.
+
+^ "direct memory access protections for mac computers". apple. retrieved 16 november 2022.
+
+^ "using iommu for dma protection in uefi firmware" (pdf). intel corporation. archived (pdf) from the original on 9 december 2021. retrieved 16 november 2022.
+
+^ babaei, armin; schiele, gregor; zohner, michael (26 july 2022). "reconfigurable security architecture (resa) based on puf for fpga-based iot devices". sensors. 22 (15): 5577. bibcode:2022senso..22.5577b. doi:10.3390/s22155577. issn 1424-8220. pmc 9331300. pmid 35898079.
+
+^ hassija, vikas; chamola, vinay; gupta, vatsal; jain, sarthak; guizani, nadra (15 april 2021). "a survey on supply chain security: application areas, security threats, and solution architectures". ieee internet of things journal. 8 (8): 6222–6246. doi:10.1109/jiot.2020.3025775. issn 2327-4662. s2cid 226767829.
+
+^ "the most secure os: what is the safest os available?". tech.co. retrieved 19 december 2023.
+
+^ sanghavi, alok (21 may 2010). "what is formal verification?". ee times_asia.
+
+^ ferraiolo, d.f. & kuhn, d.r. (october 1992). "role-based access control" (pdf). 15th national computer security conference: 554–563.
+
+^ sandhu, r; coyne, ej; feinstein, hl; youman, ce (august 1996). "role-based access control models" (pdf). ieee computer. 29 (2): 38–47. citeseerx 10.1.1.50.7649. doi:10.1109/2.485845. s2cid 1958270.
+
+^ abreu, vilmar; santin, altair o.; viegas, eduardo k.; stihler, maicon (2017). a multi-domain role activation model (pdf). 2017 ieee international conference on communications (icc). ieee press. pp. 1–6. doi:10.1109/icc.2017.7997247. isbn 978-1467389990. s2cid 6185138.
+
+^ a.c. o'connor & r.j. loomis (2002). economic analysis of role-based access control (pdf). re triangle institute. p. 145.
+
+^ "studies prove once again that users are the weakest link in the security chain". cso online. 22 january 2014. retrieved 8 october 2018.
+
+^ "the role of human error in successful security attacks". ibm security intelligence. 2 september 2014. retrieved 8 october 2018.
+
+^ "90% of security incidents trace back to pebkac and id10t errors". computerworld. 15 april 2015. retrieved 8 october 2018.
+
+^ "protect your online banking with 2fa". nz bankers association. 7 october 2018. retrieved 7 september 2019.
+
+^ "ibm security services 2014 cyber security intelligence index" (pdf). pcsite. 2014. retrieved 9 october 2020.
+
+^ caldwell, tracey (12 february 2013). "risky business: why security awareness is crucial for employees". the guardian. retrieved 8 october 2018.
+
+^ "developing a security culture". cpni – centre for the protection of national infrastructure. archived from the original on 9 october 2018. retrieved 8 october 2018.
+
+^ a b "cyber hygiene – enisa". retrieved 27 september 2018.
+
+^ a b kaljulaid, kersti (16 october 2017). "president of the republic at the aftenposten's technology conference". retrieved 27 september 2018.
+
+^ "cyber security breaches survey 2023". gov.uk. retrieved 27 december 2023.
+
+^ kuchler, hannah (27 april 2015). "security execs call on companies to improve 'cyber hygiene'". financial times. archived from the original on 10 december 2022. retrieved 27 september 2018.
+
+^ "from ai to russia, here's how estonia's president is planning for the future". wired. retrieved 28 september 2018.
+
+^ "professor len adleman explains how he coined the term "computer virus"". welivesecurity. 1 november 2017. retrieved 28 september 2018.
+
+^ "statement of dr. vinton g. cerf". www.jec.senate.gov. retrieved 28 september 2018.
+
+^ promoting good cyber hygiene act of 2017 at congress.gov
+
+^ "analysis | the cybersecurity 202: agencies struggling with basic cybersecurity despite trump's pledge to prioritize it". the washington post. retrieved 28 september 2018.
+
+^ "protected voices". federal bureau of investigation. retrieved 28 september 2018.
+
+^ lin, tom c. w. (3 july 2017). "the new market manipulation". emory law journal. 66: 1253. ssrn 2996896.
+
+^ lin, tom c. w. (2016). "financial weapons of war". minnesota law review. ssrn 2765010.
+
+^ cole, jeffrey i.; suman, michael; schramm, phoebe; van bel, daniel; lunn, b.; maguire, phyllisane; hanson, koran; singh, rajesh; aquino, jedrix-sean; lebo, harlan (2000). the ucla internet report: surveying the digital future (pdf). ccp.ucla.edu (report). archived from the original (pdf) on 23 april 2003. retrieved 15 september 2023.
+
+^ pagliery, jose (18 november 2014). "hackers attacked the u.s. energy grid 79 times this year". cnn money. cable news network. archived from the original on 18 february 2015. retrieved 16 april 2015.
+
+^ neumann, p. g. (1997). computer security in aviation: vulnerabilities, threats, and risks. international conference on aviation safety and security in the 21st century, white house commission on safety and security.
+
+^ dillingham, gerald l. (20 september 2001). aviation security : terrorist acts demonstrate urgent need to improve security at the nation's airports (report). united states. general accounting office.
+
+^ "air traffic control systems vulnerabilities could make for unfriendly skies [black hat] – securityweek.com". 27 july 2012. archived from the original on 8 february 2015.
+
+^ "hacker says he can break into airplane systems using in-flight wi-fi". npr. 4 august 2014. archived from the original on 8 february 2015. retrieved 19 march 2020.
+
+^ finkle, jim (4 august 2014). "hacker says to show passenger jets at risk of cyber attack". reuters. archived from the original on 13 october 2015. retrieved 21 november 2021.
+
+^ cesar, alan (15 december 2023). "online course bolsters cybersecurity in aviation". aerogram. purdue university school of aeronautics and astronautics. retrieved 9 january 2024.
+
+^ "pan-european network services (pens) – eurocontrol.int". archived from the original on 12 december 2016.
+
+^ "centralised services: newpens moves forward – eurocontrol.int". eurocontrol. 17 january 2016. archived from the original on 19 march 2017.
+
+^ "gen data communication". faa. archived from the original on 13 march 2015. retrieved 15 june 2017.
+
+^ "e-passports | land security". www.dhs.gov. retrieved 3 february 2023.
+
+^ "the australian epassport. australian government department of foreign affairs and trade website". archived from the original on 9 january 2015. retrieved 1 may 2023.
+
+^ a b "is your watch or thermostat a spy? cybersecurity firms are on it". npr. 6 august 2014. archived from the original on 11 february 2015.
+
+^ kruse, cb; smith, b; vanderlinden, h; nealand, a (21 july 2017). "security techniques for the electronic health records". journal of medical systems. 41 (8): 127. doi:10.1007/s10916-017-0778-4. pmc 5522514. pmid 28733949.
+
+^ backman, melvin (18 september 2014). " depot: 56 million cards exposed in breach". cnnmoney. archived from the original on 18 december 2014.
+
+^ "staples: breach may have affected 1.16 million customers' cards". fortune.com. 19 december 2014. archived from the original on 21 december 2014. retrieved 21 december 2014.
+
+^ "target: 40 million credit cards compromised". cnn. 19 december 2013. archived from the original on 1 december 2017. retrieved 29 november 2017.
+
+^ cowley, stacy (2 october 2017). "2.5 million more people potentially exposed in equifax breach". the new york times. archived from the original on 1 december 2017. retrieved 29 november 2017.
+
+^ finkle, jim (23 april 2014). "exclusive: fbi warns healthcare sector vulnerable to cyber attacks". reuters. archived from the original on 4 june 2016. retrieved 23 may 2016.
+
+^ seals, tara (6 november 2015). "lack of employee security training plagues us businesses". infosecurity magazine. archived from the original on 9 november 2017. retrieved 8 november 2017.
+
+^ bright, peter (15 february 2011). "anonymous speaks: the inside story of the hbgary hack". arstechnica.com. archived from the original on 27 march 2011. retrieved 29 march 2011.
+
+^ anderson, nate (9 february 2011). "how one man tracked down anonymous – and paid a heavy price". arstechnica.com. archived from the original on 29 march 2011. retrieved 29 march 2011.
+
+^ palilery, jose (24 december 2014). "what caused sony hack: what we know now". cnn money. archived from the original on 4 january 2015. retrieved 4 january 2015.
+
+^ cook, james (16 december 2014). "sony hackers have over 100 terabytes of documents. only released 200 gigabytes so far". business insider. archived from the original on 17 december 2014. retrieved 18 december 2014.
+
+^ a b lee, timothy b. (18 january 2015). "the  frontier of hacking: your car". vox. archived from the original on 17 march 2017.
+
+^ tracking & hacking: security & privacy gaps put american drivers at risk (pdf) (report). 6 february 2015. archived (pdf) from the original on 9 november 2016. retrieved 4 november 2016.
+
+^ "cybersecurity expert: it will take a 'major event' for companies to take this issue seriously". aol.com. 5 january 2017. archived from the original on 20 january 2017. retrieved 22 january 2017.
+
+^ "the problem with self-driving cars: who controls the code?". the guardian. 23 december 2015. archived from the original on 16 march 2017. retrieved 22 january 2017.
+
+^ checkoway, stephen; mccoy, damon; kantor, brian; anderson, danny; shacham, hovav; savage, stefan; koscher, karl; czeskis, alexei; roesner, franziska; kohno, tadayoshi (2011). comprehensive experimental analyses of automotive attack surfaces (pdf). sec'11 proceedings of the 20th usenix conference on security. berkeley, california, us: usenix association. p. 6. archived (pdf) from the original on 21 february 2015.
+
+^ greenberg, andy (21 july 2015). "hackers remotely kill a jeep on the highway – with me in it". wired. archived from the original on 19 january 2017. retrieved 22 january 2017.
+
+^ "hackers take control of car, drive it into a ditch". the independent. 22 july 2015. archived from the original on 2 february 2017. retrieved 22 january 2017.
+
+^ "tesla fixes software bug that allowed chinese hackers to control car remotely". the telegraph. 21 september 2016. archived from the original on 2 february 2017. retrieved 22 january 2017.
+
+^ kang, cecilia (19 september 2016). "self-driving cars gain powerful ally: the government". the new york times. archived from the original on 14 february 2017. retrieved 22 january 2017.
+
+^ "federal automated vehicles policy" (pdf). archived (pdf) from the original on 21 january 2017. retrieved 22 january 2017.
+
+^ "vehicle cybersecurity". nhtsa.gov. retrieved 25 november 2022.
+
+^ "thales supplies smart driver license to 4 states in mexico". thales group.
+
+^ "4 companies using rfid for supply chain management". atlasrfidstore. retrieved 3 february 2023.
+
+^ "the cutting edge of rfid technology and applications for manufacturing and distribution". supply chain market.
+
+^ rahman, mohammad anwar; khadem, mohammad miftaur; sarder, md. application of rfid in supply chain system. proceedings of the 2010 international conference on industrial engineering and operations management dhaka, bangladesh, january 9 – 10, 2010. citeseerx 10.1.1.397.7831.
+
+^ "gary mckinnon profile: autistic 'hacker' who started writing computer programs at 14". the daily telegraph. london. 23 january 2009. archived from the original on 2 june 2010.
+
+^ "gary mckinnon extradition ruling due by 16 october". bbc news. 6 september 2012. archived from the original on 6 september 2012. retrieved 25 september 2012.
+
+^ mckinnon v government of the united states of america and another (house of lords 16 june 2008) ("15. ... alleged to total over $700,000"), text.
+
+^ "fresh leak on us spying: nsa accessed mexican president's email". spiegel online. 20 october 2013. archived from the original on 6 november 2015.
+
+^ sanders, sam (4 june 2015). "massive data breach puts 4 million federal employees' records at risk". npr. archived from the original on 5 june 2015. retrieved 5 june 2015.
+
+^ liptak, kevin (4 june 2015). "u.s. government hacked; feds think china is the culprit". cnn. archived from the original on 6 june 2015. retrieved 5 june 2015.
+
+^ gallagher, sean. "encryption "would not have helped" at opm, says dhs official". archived from the original on 24 june 2017.
+
+^ davis, michelle r. (19 october 2015). "schools learn lessons from security breaches". education week. archived from the original on 10 june 2016. retrieved 23 may 2016.
+
+^ "ge's introduces acuvision as a single panel solution". www.securityinfowatch.com. security info watch. 11 august 2005. retrieved 24 september 2019.
+
+^ "internet of things global standards initiative". itu. archived from the original on 26 june 2015. retrieved 26 june 2015.
+
+^ singh, jatinder; pasquier, thomas; bacon, jean; ko, hajoon; eyers, david (2015). "twenty cloud security considerations for supporting the internet of things" (pdf). ieee internet of things journal. 3 (3): 269–284. doi:10.1109/jiot.2015.2460333. s2cid 4732406.
+
+^ clearfield, chris. "why the ftc can't regulate the internet of things". forbes. archived from the original on 27 june 2015. retrieved 26 june 2015.
+
+^ "internet of things: science fiction or business fact?" (pdf). harvard business review. archived (pdf) from the original on 17 march 2015. retrieved 4 november 2016.
+
+^ vermesan, ovidiu; friess, peter. "internet of things: converging technologies for smart environments and integrated ecosystems" (pdf). river publishers. archived (pdf) from the original on 12 october 2016. retrieved 4 november 2016.
+
+^ clearfield, chris (20 june 2013). "rethinking security for the internet of things". harvard business review. archived from the original on 20 september 2013.
+
+^ "hotel room burglars exploit critical flaw in electronic door locks". ars technica. 26 november 2012. archived from the original on 14 may 2016. retrieved 23 may 2016.
+
+^ "hospital medical devices used as weapons in cyberattacks". dark reading. 6 august 2015. archived from the original on 29 may 2016. retrieved 23 may 2016.
+
+^ kirk, jeremy (17 october 2012). "pacemaker hack can deliver deadly 830-volt jolt". computerworld. archived from the original on 4 june 2016. retrieved 23 may 2016.
+
+^ "how your pacemaker will get hacked". the daily beast. kaiser health news. 17 november 2014. archived from the original on 20 may 2016. retrieved 23 may 2016.
+
+^ leetaru, kalev. "hacking hospitals and holding hostages: cybersecurity in 2016". forbes. archived from the original on 29 december 2016. retrieved 29 december 2016.
+
+^ a b "cyber-angriffe: krankenhäuser rücken ins visier der hacker". wirtschafts woche. 7 december 2016. archived from the original on 29 december 2016. retrieved 29 december 2016.
+
+^ "hospitals keep getting attacked by ransomware – here's why". business insider. archived from the original on 29 december 2016. retrieved 29 december 2016.
+
+^ "medstar hospitals recovering after 'ransomware' hack". nbc news. 31 march 2016. archived from the original on 29 december 2016. retrieved 29 december 2016.
+
+^ pauli, darren. "us hospitals hacked with ancient exploits". the register. archived from the original on 16 november 2016. retrieved 29 december 2016.
+
+^ pauli, darren. "zombie os lurches through royal melbourne hospital spreading virus". the register. archived from the original on 29 december 2016. retrieved 29 december 2016.
+
+^ "hacked lincolnshire hospital computer systems 'back up'". bbc news. 2 november 2016. archived from the original on 29 december 2016. retrieved 29 december 2016.
+
+^ "lincolnshire operations cancelled after network attack". bbc news. 31 october 2016. archived from the original on 29 december 2016. retrieved 29 december 2016.
+
+^ "legion cyber-attack:  dump is sansad.nic.in, say hackers". the indian express. 12 december 2016. archived from the original on 29 december 2016. retrieved 29 december 2016.
+
+^ "former new hampshire psychiatric hospital patient accused of data breach". cbs boston. 27 december 2016. archived from the original on 29 september 2017. retrieved 29 december 2016.
+
+^ "texas hospital hacked, affects nearly 30,000 patient records". healthcare it news. 4 november 2016. archived from the original on 29 december 2016. retrieved 29 december 2016.
+
+^ becker, rachel (27 december 2016). "new cybersecurity guidelines for medical devices tackle evolving threats". the verge. archived from the original on 28 december 2016. retrieved 29 december 2016.
+
+^ "postmarket management of cybersecurity in medical devices" (pdf). food and drug administration. 28 december 2016. archived (pdf) from the original on 29 december 2016. retrieved 29 december 2016.
+
+^ brandt, jaclyn (18 june 2018). "d.c. distributed energy proposal draws concerns of increased cybersecurity risks". daily energy insider. retrieved 4 july 2018.
+
+^ "current releases - the open mobile alliance". openmobilealliance.org.
+
+^ cashell, b.; jackson, w. d.; jickling, m.; webel, b. (2004). the economic impact of cyber-attacks (pdf) (report). washington dc: congressional re service, government, and finance division. rl32331.
+
+^ gordon, lawrence; loeb, martin (november 2002). "the economics of information security investment". acm transactions on information and system security. 5 (4): 438–457. doi:10.1145/581271.581274. s2cid 1500788.
+
+^ sanger, david e.; barnes, julian e. (20 december 2021). "u.s. and britain help ukraine prepare for potential russian cyberassault". the new york times. issn 0362-4331. retrieved 4 december 2023.
+
+^ "cyber-attack against ukrainian critical infrastructure | cisa". www.cisa.gov. 20 july 2021. retrieved 4 december 2023.
+
+^ han, chen; dongre, rituja (2014). "q&a. what motivates cyber-attackers?". technology innovation management review. 4 (10): 40–42. doi:10.22215/timreview/838. issn 1927-0321.
+
+^ chermick, steven; freilich, joshua; holt, thomas (april 2017). "exploring the subculture of ideologically motivated cyber-attackers". journal of contemporary criminal justice. 33 (3): 212–233. doi:10.1177/1043986217699100. s2cid 152277480.
+
+^ anderson, ross (2020). security engineering : a guide to building dependable distributed systems (3rd ed.). indianapolis, in: john wiley & sons. isbn 978-1119642817. oclc 1224516855.
+
+^ "the leading cloud recruiting software". icims. retrieved 13 march 2021.
+
+^ wilcox, s. and brown, b. (2005) 'responding to security incidents – sooner or later your systems will be compromised', journal of health care compliance, 7(2), pp. 41–48
+
+^ a b jonathan zittrain, 'the future of the internet', penguin books, 2008
+
+^ information security archived 6 march 2016 at the wayback machine. united states department of defense, 1986
+
+^ "the tjx companies, inc. victimized by computer system intrusion; provides information to help protect customers" (press release). the tjx companies, inc. 17 january 2007. archived from the original on 27 september 2012. retrieved 12 december 2009.
+
+^ largest customer info breach grows archived 28 september 2007 at the wayback machine. myfox twin cities, 29 march 2007.
+
+^ "the stuxnet attack on iran's nuclear plant was 'far more dangerous' than ly thought". business insider. 20 november 2013. archived from the original on 9 may 2014.
+
+^ reals, tucker (24 september 2010). "stuxnet worm a u.s. cyber-attack on iran nukes?". cbs news. archived from the original on 16 october 2013.
+
+^ zetter, kim (17 february 2011). "cyberwar issues likely to be addressed only after a catastrophe". wired. archived from the original on 18 february 2011. retrieved 18 february 2011.
+
+^ carroll, chris (18 october 2011). "cone of silence surrounds u.s. cyberwarfare". stars and stripes. archived from the original on 7 march 2012. retrieved 30 october 2011.
+
+^ bumgarner, john (27 april 2010). "computers as weapons of war" (pdf). io journal. archived from the original (pdf) on 19 december 2011. retrieved 30 october 2011.
+
+^ greenwald, glenn (6 june 2013). "nsa collecting phone records of millions of verizon customers daily". the guardian. archived from the original on 16 august 2013. retrieved 16 august 2013. exclusive: top secret court order requiring verizon to hand over all call data shows scale of domestic surveillance under obama
+
+^ seipel, hubert. "transcript: ard interview with edward snowden". la foundation courage. archived from the original on 14 july 2014. retrieved 11 june 2014.
+
+^ newman, lily hay (9 october 2013). "can you trust nist?". ieee spectrum. archived from the original on 1 february 2016.
+
+^ "nist removes cryptography algorithm from random number generator recommendations". national institute of standards and technology. 21 april 2014.
+
+^ "new snowden leak: nsa tapped google, yahoo data centers" archived 9 july 2014 at the wayback machine, 31 october 2013, lorenzo franceschi-bicchierai, mashable.com
+
+^ riley, michael; elgin, ben; lawrence, dune; matlack, carol (17 march 2014). "target missed warnings in epic hack of credit card data". businessweek. archived from the original on 27 january 2015.
+
+^ rosenblatt, seth (6 november 2014). " depot says 53 million emails stolen". cnet. cbs interactive. archived from the original on 9 december 2014.
+
+^ "millions more americans hit by government personnel data hack". reuters. 9 july 2017. archived from the original on 28 february 2017. retrieved 25 february 2017.
+
+^ barrett, devlin (4 june 2015). "u.s. suspects hackers in china breached about four (4) million people's records, officials say". the wall street journal. archived from the original on 4 june 2015.
+
+^ risen, tom (5 june 2015). "china suspected in theft of federal employee records". u.s. news & world report. archived from the original on 6 june 2015.
+
+^ zengerle, patricia (19 july 2015). "estimate of americans hit by government personnel data hack skyrockets". reuters. archived from the original on 10 july 2015.
+
+^ sanger, david (5 june 2015). "hacking linked to china exposes millions of u.s. workers". the new york times. archived from the original on 5 june 2015.
+
+^ mansfield-devine, steve (1 september 2015). "the ashley madison affair". network security. 2015 (9): 8–16. doi:10.1016/s1353-4858(15)30080-5.
+
+^ turton, w.; mehrotra, k. (4 june 2021). "hackers breached colonial pipeline using compromised password". bloomberg l.p. retrieved 3 december 2023.
+
+^ a b "mikko hypponen: fighting viruses, defending the net". ted. archived from the original on 16 january 2013.
+
+^ "mikko hypponen – behind enemy lines". hack in the box security conference. 9 december 2012. archived from the original on 25 november 2016.
+
+^ "ensuring the security of federal information systems and cyber critical infrastructure and protecting the privacy of personally identifiable information". government accountability office. archived from the original on 19 november 2015. retrieved 3 november 2015.
+
+^ king, georgia (23 may 2018). "the venn diagram between libertarians and crypto bros is so close it's basically a circle". quartz.
+
+^ kirby, carrie (24 june 2011). "former white house aide backs some net regulation / clarke says government, industry deserve 'f' in cyber security". the san francisco chronicle.
+
+^ mccarthy, daniel (11 june 2018). "privatizing political authority: cybersecurity, public-private partnerships, and the reproduction of liberal political order". politics and governance. 6 (2): 5–12. doi:10.17645/pag.v6i2.1335.
+
+^ "it's time to treat cybersecurity as a human rights issue". human rights watch. 26 may 2020. retrieved 26 may 2020.
+
+^ "first mission". first. retrieved 6 july 2018.
+
+^ "first members". first. retrieved 6 july 2018.
+
+^ "european council". archived from the original on 3 december 2014.
+
+^ "maawg". archived from the original on 23 september 2014.
+
+^ "maawg". archived from the original on 17 october 2014.
+
+^ "government of canada launches canada's cyber security strategy". market wired. 3 october 2010. archived from the original on 2 november 2014. retrieved 1 november 2014.
+
+^ a b "canada's cyber security strategy". public safety canada. government of canada. archived from the original on 2 november 2014. retrieved 1 november 2014.
+
+^ a b c "action plan 2010–2015 for canada's cyber security strategy". public safety canada. government of canada. archived from the original on 2 november 2014. retrieved 3 november 2014.
+
+^ "cyber incident management framework for canada". public safety canada. government of canada. archived from the original on 2 november 2014. retrieved 3 november 2014.
+
+^ "action plan 2010–2015 for canada's cyber security strategy". public safety canada. government of canada. archived from the original on 2 november 2014. retrieved 1 november 2014.
+
+^ "canadian cyber incident response centre". public safety canada. archived from the original on 8 october 2014. retrieved 1 november 2014.
+
+^ "cyber security bulletins". public safety canada. archived from the original on 8 october 2014. retrieved 1 november 2014.
+
+^ "report a cyber security incident". public safety canada. government of canada. archived from the original on 11 november 2014. retrieved 3 november 2014.
+
+^ "government of canada launches cyber security awareness month with new public awareness partnership". market wired. government of canada. 27 september 2012. archived from the original on 3 november 2014. retrieved 3 november 2014.
+
+^ "cyber security cooperation program". public safety canada. archived from the original on 2 november 2014. retrieved 1 november 2014.
+
+^ "cyber security cooperation program". public safety canada. 16 december 2015. archived from the original on 2 november 2014.
+
+^ "getcybersafe". get cyber safe. government of canada. archived from the original on 11 november 2014. retrieved 3 november 2014.
+
+^ "australian federal government announces cybersecurity support for smbs","2023-2030 australian cyber security strategy". retrieved 22 november 2023.
+
+^ "need for proper structure of ppps to address specific cyberspace risks". archived from the original on 13 november 2017.
+
+^ "national cyber safety and security standards(ncsss)-". www.ncdrc.res.in. archived from the original on 19 february 2018. retrieved 19 february 2018.
+
+^ "south korea seeks global support in cyber attack probe". bbc monitoring asia pacific. 7 march 2011.
+
+^ jun, kwanwoo (23 september 2013). "seoul puts a price on cyberdefense". the wall street journal. dow jones & company, inc. archived from the original on 25 september 2013. retrieved 24 september 2013.
+
+^ white, house (march 2023). "national security strategy" (pdf). no. march 2032. white house. us gov.
+
+^ adil, sajid (16 october 2023). "do you know about biggest cybersecurity threats in 2023?". cybernexguard. adil sajid. retrieved 18 december 2023.
+
+^ adil, sajid (september 2018). "national cyber strategy of the united states of america". university libraries unt digital library. retrieved 18 december 2023.
+
+^ adil, sajid (september 2018). "do you know about biggest cybersecurity threats in 2023?". university libraries unt digital library. retrieved 18 december 2023.
+
+^ international cybercrime reporting and cooperation act at congress.gov
+
+^ " | land security & governmental affairs committee". www.hsgac.senate.gov. archived from the original on 20 january 2012.
+
+^ "biden adviser on cyber threats and the new executive order to combat them". npr.
+
+^ executive order on improving the nation's cybersecurity (full text)
+
+^ "national cyber security division". u.s. department of land security. archived from the original on 11 june 2008. retrieved 14 june 2008.
+
+^ a b "faq: cyber security r&d center". u.s. department of land security s&t directorate. archived from the original on 6 october 2008. retrieved 14 june 2008.
+
+^ afp-jiji, "u.s. boots up cybersecurity center", 31 october 2009.
+
+^ "federal bureau of investigation – priorities". federal bureau of investigation. archived from the original on 11 july 2016.
+
+^ "internet crime complaint center (ic3) – ". archived from the original on 20 november 2011.
+
+^ "infragard, official site". infragard. archived from the original on 9 september 2010. retrieved 10 september 2010.
+
+^ "robert s. mueller, iii – infragard interview at the 2005 infragard conference". infragard (official site) – "media room". archived from the original on 17 june 2011. retrieved 9 december 2009.
+
+^ "ccips". 25 march 2015. archived from the original on 23 august 2006.
+
+^ "a framework for a vulnerability disclosure program for online systems". cybersecurity unit, computer crime & intellectual property section criminal division u.s. department of justice. july 2017. retrieved 9 july 2018.
+
+^ "mission and vision". www.cybercom.mil. retrieved 20 june 2020.
+
+^ william j. lynn, iii (12 november 2009). remarks at the defense information technology acquisition summit (speech). washington d.c. archived from the original on 15 april 2010. retrieved 10 july 2010.
+
+^ shachtman, noah (23 september 2010). "military's cyber commander swears: "no role" in civilian networks". brookings.edu. archived from the original on 6 november 2010.
+
+^ "fcc cybersecurity". fcc. archived from the original on 27 may 2010. retrieved 3 december 2014.
+
+^ "cybersecurity for medical devices and hospital networks: fda safety communication". food and drug administration. archived from the original on 28 may 2016. retrieved 23 may 2016.
+
+^ "automotive cybersecurity – national highway traffic safety administration (nhtsa)". archived from the original on 25 may 2016. retrieved 23 may 2016.
+
+^ air traffic control: faa needs a more comprehensive approach to address cybersecurity as agency transitions to gen (report). u. s. government accountability office. 14 april 2015. archived from the original on 13 june 2016. retrieved 23 may 2016.
+
+^ sternstein, aliya (4 march 2016). "faa working on new guidelines for hack-proof planes". gov. archived from the original on 19 may 2016. retrieved 23 may 2016.
+
+^ elias, bart (18 june 2015). "protecting civil aviation from cyberattacks" (pdf). archived (pdf) from the original on 17 october 2016. retrieved 4 november 2016.
+
+^ anderson, david; reimers, karl (2019). cyber security employment policy and workplace demand in the u.s. government. edulearn19 proceedings. vol. 1. iated. pp. 7858–7866. doi:10.21125/edulearn.2019.1914. isbn 978-84-09-12031-4. issn 2340-1117.
+
+^ verton, dan (28 january 2004). "dhs launches national cyber alert system". computerworld. idg. archived from the original on 31 august 2005. retrieved 15 june 2008.
+
+^ details can be found in 10 cfr 73.54, protection of digital computer and communication systems and networks.
+
+^ cyber security plan for nuclear power reactors - nuclear energy institute
+
+^ refer to nei 08-09 for more details.
+
+^ clayton, mark (7 march 2011). "the new cyber arms race". the christian science monitor. archived from the original on 16 april 2015. retrieved 16 april 2015.
+
+^ nakashima, ellen (13 september 2016). "obama to be urged to split cyberwar command from nsa". the washington post. archived from the original on 12 october 2016. retrieved 15 june 2017.
+
+^ overland, indra (1 march 2019). "the geopolitics of renewable energy: debunking four emerging myths". energy re & social science. 49: 36–40. bibcode:2019erss...49...36o. doi:10.1016/j.erss.2018.10.018. hdl:11250/2579292. issn 2214-6296.
+
+^ maness, ryan c.; valeriano, brandon (11 june 2018). "how we stopped worrying about cyber doom and started collecting data". politics and governance. 6 (2): 49–60. doi:10.17645/pag.v6i2.1368. hdl:10945/60589. issn 2183-2463.
+
+^ maness, ryan c.; valeriano, brandon (25 march 2015). "the impact of cyber conflict on international interactions". armed forces & society. 42 (2): 301–323. doi:10.1177/0095327x15572997. issn 0095-327x. s2cid 146145942.
+
+^ bullard, brittany (2016). style and statistics: the art of retail analytics. wiley. doi:10.1002/9781119271260.ch8. isbn 978-1119270317.
+
+^ oltsik, jon (18 march 2016). "cybersecurity skills shortage impact on cloud computing". network world. archived from the original on 23 march 2016. retrieved 23 march 2016.
+
+^ robinson, terry (30 may 2018). "why is a degree in cyber security one of the best?". degreequery.com. archived from the original on 10 october 2021. retrieved 10 october 2021.
+
+^ de silva, richard (11 october 2011). "government vs. commerce: the cyber security industry and you (part one)". defence iq. archived from the original on 24 april 2014. retrieved 24 april 2014.
+
+^ "department of computer science". archived from the original on 3 june 2013. retrieved 30 april 2013.
+
+^ "about cyber security architect". cisa.gov. 1 august 2021. retrieved 1 january 2022.
+
+^ "how to become a chief information security officer (ciso)?". cybersecuritycareer.org. 1 august 2021. retrieved 4 january 2022.
+
+^ "data protection officers". ico.org.uk. january 2021.
+
+^ "student cybersecurity resources". niccs (us national initiative for cybercareers and studies). archived from the original on 5 november 2020.
+
+^ "current job opportunities at dhs". u.s. department of land security. archived from the original on 2 may 2013. retrieved 5 may 2013.
+
+^ "cybersecurity training & exercises". u.s. department of land security. 12 may 2010. archived from the original on 7 january 2015. retrieved 9 january 2015.
+
+^ "cyber security awareness free training and webcasts". ms-isac (multi-state information sharing & analysis center). archived from the original on 6 january 2015. retrieved 9 january 2015.
+
+^ "dod approved 8570 baseline certifications". iase.disa.mil. archived from the original on 21 october 2016. retrieved 19 june 2017.
+
+^ "the uk cyber security strategy: report on progress and forward plans december 2014" (pdf). united kingdom cabinet office. archived (pdf) from the original on 18 april 2018. retrieved 20 august 2021.
+
+^ "cyber skills for a vibrant and secure uk". gov.uk.
+
+^ "singapore operational technology (ot) cybersecurity competency framework". cyber security agency (press release). 8 october 2021. archived from the original on 16 october 2021. retrieved 23 october 2021.
+
+^ "confidentiality". retrieved 31 october 2011.
+
+^ "data integrity". archived from the original on 6 november 2011. retrieved 31 october 2011.
+
+^ "endpoint security". 10 november 2010. archived from the original on 16 march 2014. retrieved 15 march 2014.
+
+^ "a brief history of the cybersecurity profession". isaca. retrieved 13 october 2023.
+
+^ "one step ahead in computing security". rit. retrieved 13 october 2023.
+
+^ a b misa, thomas j. (2016). "computer security discourse at rand, sdc, and nsa (1958-1970)". ieee annals of the history of computing. 38 (4): 12–25. doi:10.1109/mahc.2016.48. s2cid 17609542.
+
+^ neumann, a. j.; statland, n.; webb, r. d. (1977). "post-processing audit tools and techniques" (pdf). nist.gov. us department of commerce, national bureau of standards. pp. 11–3–11–4. archived (pdf) from the original on 10 october 2016. retrieved 19 june 2020.
+
+^ irwin, luke (5 april 2018). "how nist can protect the cia triad, including the often overlooked 'i' – integrity". www.itgovernanceusa.com. retrieved 16 january 2021.
+
+^ perrin, chad (30 june 2008). "the cia triad". techrepublic.com. retrieved 31 may 2012.
+
+^ stoneburner, g.; hayden, c.; feringa, a. (2004). engineering principles for information technology security (pdf) (report). csrc.nist.gov. doi:10.6028/nist.sp.800-27ra. archived (pdf) from the original on 12 october 2004. note: this document has been superseded by later versions.
+
+^ yost, jeffrey r. (april 2015). "the origin and early history of the computer security software products industry". ieee annals of the history of computing. 37 (2): 46–58. doi:10.1109/mahc.2015.21. issn 1934-1547. s2cid 18929482.
+
+^ "a brief history of computer viruses & what the future holds". www.kaspersky.com. 19 april 2023. retrieved 12 june 2024.
+
+^ "first incident of cyber-espionage". guinness world records. retrieved 23 january 2024.
+
+^ fbi news (2 november 2018). "the morris worm - 30 years since first major attack on the internet". fbi.gov. retrieved 23 january 2024.
+
+^ a b boncella, robert j (april 2004). bidgoli, hossein (ed.). the internet encyclopedia, volume 2 (2nd ed.). wiley. p. 262. isbn 978-0-471-68996-6.
+
+^ "1993: mosaic launches and the web is set free". web development history. 8 december 2021.
+
+^ "web design museum - netscape navigator 2.0". 10 march 2023. retrieved 4 december 2023.
+
+^ nakashima, ellen (26 january 2008). "bush order expands network monitoring: intelligence agencies to track intrusions". the washington post. retrieved 8 february 2021.
+
+^ a b perlroth, nicole (7 february 2021). "how the u.s. lost to hackers". the new york times. archived from the original on 28 december 2021. retrieved 9 february 2021.
+
+^ perlroth, nicole; sanger, david; shane, scott (6 may 2019). "how chinese spies got the n.s.a.'s hacking tools, and used them for attacks". the new york times. retrieved 18 october 2024.
+
+
+further reading[edit]
+
+
+library resources about computer security 
+
+resources in your library
+resources in other libraries
+
+
+branch, jordan (24 september 2020). "what's in a name? metaphors and cybersecurity". international organization. 75 (1). cambridge university press (cup): 39–70. doi:10.1017/s002081832000051x. issn 0020-8183. s2cid 224886794.
+costigan, sean; hennessy, michael (2016). cybersecurity: a generic reference curriculum (pdf). nato. isbn 978-9284501960. archived (pdf) from the original on 10 march 2017.
+fuller, christopher j (11 june 2018). "the roots of the united states' cyber (in)security" (doc). diplomatic history. 43 (1). oxford university press (oup): 157–185. doi:10.1093/dh/dhy038. issn 0145-2096.
+bob, yonah jeremy (21 august 2021). "ex-idf cyber intel. official reveals secrets behind cyber offense". the jerusalem post.
+kim, peter (2014). the hacker playbook: practical guide to penetration testing. seattle: createspace independent publishing platform. isbn 978-1494932633.
+lee, newton (2015). counterterrorism and cybersecurity: total information awareness (2nd ed.). springer. isbn 978-3319172439.
+montagnani, maria lillà; cavallo, mirta antonella (2018). "cybersecurity and liability in a big data world". market and competition law review. 2 (2). elsevier bv: 71–98. doi:10.2139/ssrn.3220475. issn 1556-5068. s2cid 216704215. ssrn 3220475.
+shariati, marzieh; bahmani, faezeh; shams, fereidoon (2011). "enterprise information security, a review of architectures and frameworks from interoperability perspective". procedia computer science. 3. elsevier bv: 537–543. doi:10.1016/j.procs.2010.12.089. issn 1877-0509.
+singer, p. w.; friedman, allan (2014). cybersecurity and cyberwar: what everyone needs to know. oxford university press. isbn 978-0199918119.
+wu, chwan-hwa (john); irwin, j. david (2013). introduction to computer networks and cybersecurity. boca raton: crc press. isbn 978-1466572133.
+cybersecurity best practices | cybersecurity and infrastructure security agency cisa. (n.d.). retrieved april 24, 2024, from 
+sztyber-betley, a., syfert, m., kościelny, j. m., & górecka, z. (2023). controller cyber-attack detection and isolation †: sensors (14248220). sensors (14248220), 23(5), 2778. doi:10.3390/s23052778
+
+
+
+wikimedia commons has media related to computer security.
+
+vteinformation securityrelated security categories
+computer security
+automotive security
+cybercrime
+cybersex trafficking
+computer fraud
+cybergeddon
+cyberterrorism
+cyberwarfare
+electronic warfare
+information warfare
+internet security
+mobile security
+network security
+copy protection
+digital rights management
+vectorial versionthreats
+adware
+advanced persistent threat
+arbitrary code execution
+backdoors
+bombs
+fork
+logic
+time
+zip
+hardware backdoors
+code injection
+crimeware
+cross-site scripting
+cross-site leaks
+dom clobbering
+history sniffing
+cryptojacking
+botnets
+data breach
+drive-by download
+browser helper objects
+viruses
+data scraping
+denial-of-service attack
+eavesdropping
+email fraud
+email spoofing
+exploits
+fraudulent dialers
+hacktivism
+infostealer
+insecure direct object reference
+keystroke loggers
+malware
+payload
+phishing
+voice
+polymorphic engine
+privilege escalation
+ransomware
+rootkits
+scareware
+shellcode
+spamming
+social engineering
+spyware
+software bugs
+trojan horses
+hardware trojans
+remote access trojans
+vulnerability
+web shells
+wiper
+worms
+sql injection
+rogue security software
+zombie
+defenses
+application security
+secure coding
+secure by default
+secure by design
+misuse case
+computer access control
+authentication
+multi-factor authentication
+authorization
+computer security software
+antivirus software
+security-focused operating system
+data-centric security
+software obfuscation
+data masking
+encryption
+firewall
+intrusion detection system
+host-based intrusion detection system (hids)
+anomaly detection
+information security management
+information risk management
+security information and event management (siem)
+runtime application self-protection
+site isolation
+
+vtecomputer sciencenote: this template roughly follows the 2012 acm computing classification system.hardware
+printed circuit board
+peripheral
+integrated circuit
+very large scale integration
+systems on chip (socs)
+energy consumption (green computing)
+electronic design automation
+hardware acceleration
+processor
+size / form
+computer systems organization
+computer architecture
+computational complexity
+dependability
+embedded system
+real-time computing
+networks
+network architecture
+network protocol
+network components
+network scheduler
+network performance evaluation
+network service
+software organization
+interpreter
+middleware
+virtual machine
+operating system
+software quality
+software notations and tools
+programming paradigm
+programming language
+compiler
+domain-specific language
+modeling language
+software framework
+integrated development environment
+software configuration management
+software library
+software repository
+software development
+control variable
+software development process
+requirements analysis
+software design
+software construction
+software deployment
+software engineering
+software maintenance
+programming team
+open-source model
+theory of computation
+model of computation
+stochastic
+formal language
+automata theory
+computability theory
+computational complexity theory
+logic
+semantics
+algorithms
+algorithm design
+analysis of algorithms
+algorithmic efficiency
+randomized algorithm
+computational geometry
+mathematics of computing
+discrete mathematics
+probability
+statistics
+mathematical software
+information theory
+mathematical analysis
+numerical analysis
+theoretical computer science
+information systems
+database management system
+information storage systems
+enterprise information system
+social information systems
+geographic information system
+decision support system
+process control system
+multimedia information system
+data mining
+digital library
+computing platform
+digital marketing
+world wide web
+information retrieval
+security
+cryptography
+formal methods
+security hacker
+security services
+intrusion detection system
+hardware security
+network security
+information security
+application security
+human–computer interaction
+interaction design
+social computing
+ubiquitous computing
+visualization
+accessibility
+concurrency
+concurrent computing
+parallel computing
+distributed computing
+multithreading
+multiprocessing
+artificial intelligence
+natural language processing
+knowledge representation and reasoning
+computer vision
+automated planning and scheduling
+ methodology
+control method
+philosophy of artificial intelligence
+distributed artificial intelligence
+machine learning
+supervised learning
+unsupervised learning
+reinforcement learning
+multi-task learning
+cross-validation
+graphics
+animation
+extended reality
+augmented
+mixed
+virtual
+rendering
+photograph manipulation
+graphics processing unit
+image compression
+solid modeling
+applied computing
+quantum computing
+e-commerce
+enterprise software
+computational mathematics
+computational physics
+computational chemistry
+computational biology
+computational social science
+computational engineering
+differentiable computing
+computational healthcare
+digital art
+electronic publishing
+cyberwarfare
+electronic voting
+video games
+word processing
+operations re
+educational technology
+document management
+
+ category
+ outline
+ glossaries
+
+authority control databases: national germanyunited statesfrancebnf dataczech republic2polandisrael
+
+
+
+
+retrieved from ""
+categories: computer securitycryptographycyberwarfaredata protectioninformation governancemalwarehidden categories: articles with encyclopædia britannica linkscs1: long volume valuewebarchive template wayback linksarticles with short descriptionshort description is different from wikidatause american english from august 2024all wikipedia articles written in american englishuse dmy dates from february 2021all articles with specifically marked weasel-worded phrasesarticles with specifically marked weasel-worded phrases from december 2012all articles with unsourced statementsarticles with unsourced statements from january 2025all articles with vague or ambiguous timevague or ambiguous time from september 2021articles with unsourced statements from april 2020pages displaying short descriptions of redirect targets via module:annotated linkpages displaying wikidata descriptions as a fallback via module:annotated linkcommons category link from wikidataarticles prone to spam from november 2014
+
+
+
+
+
+
+ this page was last edited on 7 april 2025, at 01:58 (utc).
+text is available under the creative commons attribution-sharealike 4.0 license;
+additional terms may apply. by using this site, you agree to the terms of use and . wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+
+about wikipedia
+disclaimers
+contact wikipedia
+code of conduct
+developers
+statistics
+cookie statement
+mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+toggle the table of contents
+
+
+
+
+
+
+
+computer security
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+72 languages
+
+
+add topic
