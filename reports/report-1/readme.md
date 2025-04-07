@@ -2,7 +2,8 @@
 
 To run the code:
 1. `pip install -r requirements.txt`
-2. `python main.py`
+2. Make sure `nationell-strategi-for-cybersakerhet-2025-2029.pdf` is downloaded.
+3. `python main.py`
 
 # Expected output:
 Five files should be created during the pipeline. 
