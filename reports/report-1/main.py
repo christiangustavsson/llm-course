@@ -6,7 +6,7 @@ Report 1: Developing a simple data pre-processing pipeline
 Main script that orchestrates the data collection and cleaning pipeline.
 This script runs the scraping and cleaning processes in sequence.
 
-Christian Gustavsson, christian.gustavsson@liu.se
+Christian Gustavsson, christian.gustavsson@liu.se 
 
 """
 

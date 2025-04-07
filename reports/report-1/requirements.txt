@@ -1,3 +1,5 @@
+# Dependencies for the work
+
 # Core dependencies
 torch>=1.10.0
 transformers>=4.20.0
