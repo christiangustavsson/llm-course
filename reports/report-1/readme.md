@@ -1,9 +1,13 @@
 ## Report 1: Developing a simple data pre-processing pipeline
 
-To run the code:
+To run the pipeline code:
 1. `pip install -r requirements.txt`
 2. Make sure `nationell-strategi-for-cybersakerhet-2025-2029.pdf` is downloaded.
 3. `python main.py`
+
+Additional code is also available (after running the pipeline):
+- `analyze_patterns.py`
+- `calculate_perplexity.py`
 
 # Expected output:
 Five files should be created during the pipeline. 
