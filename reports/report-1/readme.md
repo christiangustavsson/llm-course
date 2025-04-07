@@ -1,0 +1,48 @@
+## Report 1: Developing a simple data pre-processing pipeline
+
+To run the code:
+1. pip install -r requirements.txt
+2. python main.py
+
+# Expected output:
+raw_pdf_data.txt
+raw_website_data.txt
+clean_pdf_data.txt
+clean_website_data.txt
+tokenized_data.parquet
+
+# Terminal output:
+Starting data processing pipeline...
+
+Step 1: Scraping data...
+Scraping website data...
+Saved raw website data to: /Users/christian/gitrepos/llm-course/reports/report-1/raw_website_data.txt
+Scraping PDF data...
+Saved raw PDF data to: /Users/christian/gitrepos/llm-course/reports/report-1/raw_pdf_data.txt
+
+Step 2: Cleaning data...
+Cleaning website data...
+Saved cleaned website data to: /Users/christian/gitrepos/llm-course/reports/report-1/clean_website_data.txt
+Cleaning PDF data...
+Saved cleaned PDF data to: /Users/christian/gitrepos/llm-course/reports/report-1/clean_pdf_data.txt
+Saved tokenized data to: /Users/christian/gitrepos/llm-course/reports/report-1/tokenized_data.parquet
+
+Pipeline completed successfully!
+
+Tokenized Data Summary:
+----------------------------------------
+Total number of sequences: 2
+Web sequences: 1
+PDF sequences: 1
+
+Sequence Information:
+----------------------------------------
+Web data:
+Sequence length: 20651
+Vocabulary size: 50257
+Tokenizer used: gpt2
+
+PDF data:
+Sequence length: 30450
+Vocabulary size: 50257
+Tokenizer used: gpt2
