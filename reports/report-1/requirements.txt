@@ -1,0 +1,9 @@
+torch>=1.10.0
+transformers>=4.20.0
+numpy>=1.20.0
+beautifulsoup4>=4.10.0
+requests>=2.31.0
+langchain-community>=0.0.10
+python-magic>=0.4.27  # Required by langchain for file type detection
+python-magic-bin>=0.4.14  # Required for Windows compatibility
+pypdf>=3.17.0  # Required by PyPDFLoader 

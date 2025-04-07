@@ -3,9 +3,93 @@
 Course: Understanding and Building LLMs
 Report 1: Developing a simple data pre-processing pipeline
 
+Main script that orchestrates the data collection and cleaning pipeline.
+This script runs the scraping and cleaning processes in sequence.
+
 Christian Gustavsson, christian.gustavsson@liu.se
 
 """
+
+import os
+import sys
+from scrape import scrape_url, scrape_pdf
+from clean import clean_web_data, clean_pdf_data
+
+def run_pipeline():
+    """
+    Run the complete data processing pipeline:
+    1. Scrape data from website and PDF
+    2. Clean the scraped data
+    """
+    print("Starting data processing pipeline...")
+    
+    # Get script directory
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    
+    try:
+        # Step 1: Scrape data
+        print("\nStep 1: Scraping data...")
+        
+        # Scrape website data
+        print("Scraping website data...")
+        url = "https://en.wikipedia.org/wiki/Computer_security"
+        website_data = scrape_url(url)
+        
+        # Save raw website data
+        raw_web_path = os.path.join(script_dir, "raw_website_data.txt")
+        with open(raw_web_path, "w", encoding='utf-8') as f:
+            f.write(website_data)
+        print(f"Saved raw website data to: {raw_web_path}")
+        
+        # Scrape PDF data
+        print("Scraping PDF data...")
+        # Use absolute path for PDF file
+        pdf_path = os.path.join(script_dir, "nationell-strategi-for-cybersakerhet-2025-2029.pdf")
+        
+        # Check if PDF file exists
+        if not os.path.exists(pdf_path):
+            print(f"Warning: PDF file not found at {pdf_path}")
+            print("Please ensure the PDF file is in the same directory as the script.")
+            print("Skipping PDF processing...")
+            
+            # Create a dummy PDF data for testing
+            pdf_data = "This is a placeholder for PDF data. The actual PDF file was not found."
+        else:
+            pdf_data = scrape_pdf(pdf_path)
+        
+        # Save raw PDF data
+        raw_pdf_path = os.path.join(script_dir, "raw_pdf_data.txt")
+        with open(raw_pdf_path, "w", encoding='utf-8') as f:
+            f.write(pdf_data)
+        print(f"Saved raw PDF data to: {raw_pdf_path}")
+        
+        # Step 2: Clean data
+        print("\nStep 2: Cleaning data...")
+        
+        # Clean website data
+        print("Cleaning website data...")
+        cleaned_web = clean_web_data(website_data)
+        clean_web_path = os.path.join(script_dir, "clean_website_data.txt")
+        with open(clean_web_path, "w", encoding='utf-8') as f:
+            f.write(cleaned_web)
+        print(f"Saved cleaned website data to: {clean_web_path}")
+        
+        # Clean PDF data
+        print("Cleaning PDF data...")
+        cleaned_pdf = clean_pdf_data(pdf_data)
+        clean_pdf_path = os.path.join(script_dir, "clean_pdf_data.txt")
+        with open(clean_pdf_path, "w", encoding='utf-8') as f:
+            f.write(cleaned_pdf)
+        print(f"Saved cleaned PDF data to: {clean_pdf_path}")
+        
+        print("\nPipeline completed successfully!")
+        
+    except Exception as e:
+        print(f"\nError in pipeline: {str(e)}")
+        sys.exit(1)
+
+if __name__ == "__main__":
+    run_pipeline()
 
 
 
