@@ -1,15 +1,18 @@
-# Report 2: FineWeb Dataset Analysis
+# Report 2: Pre-training a GPT-style LLM
 
-This directory contains scripts and analysis for working with the FineWeb dataset.
+To run the pipeline code:
+1. `pip install -r requirements.txt`
+2. python fineweb-download.py
 
-## Files
+Additional code is also available (after running the pipeline):
+- `python analyze_fineweb.py`
+- 
 
-- `fineweb-download.py`: Script to download the FineWeb dataset from HuggingFace
-- `analyze_fineweb.py`: Script to analyze the FineWeb dataset, including:
-  - Basic statistics (document count, token count, etc.)
-  - Language distribution
-  - Token length distribution (with visualizations)
-  - Sample documents for qualitative analysis
+## Expected file output:
+- The dataset is stored in the `/datasets/fineweb` directory. WARNING! This is almost 31 GB of data.
+
+## Expected terminal output:
+
 
 ## Dataset Information
 
@@ -19,23 +22,3 @@ The FineWeb dataset is a large-scale web crawl dataset containing diverse web co
 - 10.4 billion tokens
 - Documents ranging from 24 to 381,395 tokens in length
 - Average document length of ~700 tokens
-
-## Usage
-
-1. Download the dataset:
-   ```
-   python fineweb-download.py
-   ```
-
-2. Analyze the dataset:
-   ```
-   python analyze_fineweb.py
-   ```
-
-3. View the generated plots in the `plots` directory
-
-## Notes
-
-- The dataset is stored in the `datasets/fineweb` directory
-- The analysis focuses on the 10BT sample, which is a subset of the full dataset
-- The token counts are pre-calculated and stored in the dataset 
