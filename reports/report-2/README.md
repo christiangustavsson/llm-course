@@ -1,15 +1,16 @@
 # Report 2: Pre-training a GPT-style LLM
+**Note:** This is work in progress.
 
 To run the pipeline code:
 1. `pip install -r requirements.txt`
-2. python fineweb-download.py
+2. `python fineweb-download.py`
 
 Additional code is also available (after running the pipeline):
 - `python analyze_fineweb.py`
 - 
 
 ## Expected file output:
-- The dataset is stored in the `/datasets/fineweb` directory. WARNING! This is almost 31 GB of data.
+- The dataset is stored in the `/datasets/fineweb` directory. **WARNING!** This is almost 31 GB of data.
 
 ## Expected terminal output:
 
