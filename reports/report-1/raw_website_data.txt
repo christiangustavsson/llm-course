@@ -6,7 +6,7 @@
    Computer security - Wikipedia
   </title>
   <script>
-   (function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-enabled skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"e9aca236-5bc2-4b27-a4e2-c0883fd05634","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Computer_security","wgTitle":"Computer security","wgCurRevisionId":1284354188,"wgRevisionId":1284354188,"wgArticleId":7398,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with Encyclopædia Britannica links","CS1: long volume value","Webarchive template wayback links","Articles with short description","Short description is different from Wikidata","Use American English from August 2024","All Wikipedia articles written in American English","Use dmy dates from February 2021","All articles with specifically marked weasel-worded phrases","Articles with specifically marked weasel-worded phrases from December 2012","All articles with unsourced statements","Articles with unsourced statements from January 2025","All articles with vague or ambiguous time","Vague or ambiguous time from September 2021","Articles with unsourced statements from April 2020","Pages displaying short descriptions of redirect targets via Module:Annotated link","Pages displaying wikidata descriptions as a fallback via Module:Annotated link","Commons category link from Wikidata","Articles prone to spam from November 2014","Computer security","Cryptography","Cyberwarfare","Data protection","Information governance","Malware"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Computer_security","wgRelevantArticleId":7398,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":200000,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q3510521","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false};
+   (function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-enabled skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"885dabc0-ae13-4b28-b7fc-4e4ca42ec557","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Computer_security","wgTitle":"Computer security","wgCurRevisionId":1285459276,"wgRevisionId":1285459276,"wgArticleId":7398,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with Encyclopædia Britannica links","CS1: long volume value","Webarchive template wayback links","Articles with short description","Short description is different from Wikidata","Use American English from August 2024","All Wikipedia articles written in American English","Use dmy dates from February 2021","All articles with specifically marked weasel-worded phrases","Articles with specifically marked weasel-worded phrases from December 2012","All articles with unsourced statements","Articles with unsourced statements from January 2025","All articles with vague or ambiguous time","Vague or ambiguous time from September 2021","Articles with unsourced statements from April 2020","Pages displaying short descriptions of redirect targets via Module:Annotated link","Pages displaying wikidata descriptions as a fallback via Module:Annotated link","Commons category link from Wikidata","Articles prone to spam from November 2014","Computer security","Cryptography","Cyberwarfare","Data protection","Information governance","Malware"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Computer_security","wgRelevantArticleId":7398,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":200000,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q3510521","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false};
 RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.imagemap.styles":"ready","ext.cite.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.wikimediamessages.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.imagemap","ext.cite.ux-enhancements","mediawiki.page.media","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.switcher","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.quicksurveys.init","ext.growthExperiments.SuggestedEditSession"];
   </script>
   <script>
@@ -18,7 +18,7 @@ RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.style
   </script>
   <meta content="" name="ResourceLoaderDynamicStyles"/>
   <link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022" rel="stylesheet"/>
-  <meta content="MediaWiki 1.44.0-wmf.23" name="generator"/>
+  <meta content="MediaWiki 1.44.0-wmf.24" name="generator"/>
   <meta content="origin" name="referrer"/>
   <meta content="origin-when-cross-origin" name="referrer"/>
   <meta content="max-image-preview:standard" name="robots"/>
@@ -1472,45 +1472,45 @@ RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.style
                  <ul class="vector-toc-list" id="toc-Computer_emergency_readiness_team-sublist">
                  </ul>
                 </li>
+                <li class="vector-toc-list-item vector-toc-level-4" id="toc-U.S._NRC,_10_CFR_73.54_Cybersecurity">
+                 <a class="vector-toc-link" href="#U.S._NRC,_10_CFR_73.54_Cybersecurity">
+                  <div class="vector-toc-text">
+                   <span class="vector-toc-numb">
+                    12.1.5.6
+                   </span>
+                   <span>
+                    U.S. NRC, 10 CFR 73.54 Cybersecurity
+                   </span>
+                  </div>
+                 </a>
+                 <ul class="vector-toc-list" id="toc-U.S._NRC,_10_CFR_73.54_Cybersecurity-sublist">
+                 </ul>
+                </li>
+                <li class="vector-toc-list-item vector-toc-level-4" id="toc-NEI_08-09:_Cybersecurity_Plan_for_Nuclear_Power_Plants">
+                 <a class="vector-toc-link" href="#NEI_08-09:_Cybersecurity_Plan_for_Nuclear_Power_Plants">
+                  <div class="vector-toc-text">
+                   <span class="vector-toc-numb">
+                    12.1.5.7
+                   </span>
+                   <span>
+                    NEI 08-09: Cybersecurity Plan for Nuclear Power Plants
+                   </span>
+                  </div>
+                 </a>
+                 <ul class="vector-toc-list" id="toc-NEI_08-09:_Cybersecurity_Plan_for_Nuclear_Power_Plants-sublist">
+                 </ul>
+                </li>
                </ul>
               </li>
              </ul>
             </li>
            </ul>
           </li>
-          <li class="vector-toc-list-item vector-toc-level-1" id="toc-U.S._NRC,_10_CFR_73.54_Cybersecurity">
-           <a class="vector-toc-link" href="#U.S._NRC,_10_CFR_73.54_Cybersecurity">
-            <div class="vector-toc-text">
-             <span class="vector-toc-numb">
-              13
-             </span>
-             <span>
-              U.S. NRC, 10 CFR 73.54 Cybersecurity
-             </span>
-            </div>
-           </a>
-           <ul class="vector-toc-list" id="toc-U.S._NRC,_10_CFR_73.54_Cybersecurity-sublist">
-           </ul>
-          </li>
-          <li class="vector-toc-list-item vector-toc-level-1" id="toc-NEI_08-09:_Cybersecurity_Plan_for_Nuclear_Power_Plants">
-           <a class="vector-toc-link" href="#NEI_08-09:_Cybersecurity_Plan_for_Nuclear_Power_Plants">
-            <div class="vector-toc-text">
-             <span class="vector-toc-numb">
-              14
-             </span>
-             <span>
-              NEI 08-09: Cybersecurity Plan for Nuclear Power Plants
-             </span>
-            </div>
-           </a>
-           <ul class="vector-toc-list" id="toc-NEI_08-09:_Cybersecurity_Plan_for_Nuclear_Power_Plants-sublist">
-           </ul>
-          </li>
           <li class="vector-toc-list-item vector-toc-level-1" id="toc-Modern_warfare">
            <a class="vector-toc-link" href="#Modern_warfare">
             <div class="vector-toc-text">
              <span class="vector-toc-numb">
-              15
+              13
              </span>
              <span>
               Modern warfare
@@ -1524,7 +1524,7 @@ RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.style
            <a class="vector-toc-link" href="#Careers">
             <div class="vector-toc-text">
              <span class="vector-toc-numb">
-              16
+              14
              </span>
              <span>
               Careers
@@ -1543,7 +1543,7 @@ RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.style
              <a class="vector-toc-link" href="#Security_analyst">
               <div class="vector-toc-text">
                <span class="vector-toc-numb">
-                16.1
+                14.1
                </span>
                <span>
                 Security analyst
@@ -1557,7 +1557,7 @@ RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.style
              <a class="vector-toc-link" href="#Security_engineer">
               <div class="vector-toc-text">
                <span class="vector-toc-numb">
-                16.2
+                14.2
                </span>
                <span>
                 Security engineer
@@ -1571,7 +1571,7 @@ RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.style
              <a class="vector-toc-link" href="#Security_architect">
               <div class="vector-toc-text">
                <span class="vector-toc-numb">
-                16.3
+                14.3
                </span>
                <span>
                 Security architect
@@ -1585,7 +1585,7 @@ RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.style
              <a class="vector-toc-link" href="#Chief_Information_Security_Officer_(CISO)">
               <div class="vector-toc-text">
                <span class="vector-toc-numb">
-                16.4
+                14.4
                </span>
                <span>
                 Chief Information Security Officer (CISO)
@@ -1599,7 +1599,7 @@ RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.style
              <a class="vector-toc-link" href="#Chief_Security_Officer_(CSO)">
               <div class="vector-toc-text">
                <span class="vector-toc-numb">
-                16.5
+                14.5
                </span>
                <span>
                 Chief Security Officer (CSO)
@@ -1613,7 +1613,7 @@ RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.style
              <a class="vector-toc-link" href="#Data_Protection_Officer_(DPO)">
               <div class="vector-toc-text">
                <span class="vector-toc-numb">
-                16.6
+                14.6
                </span>
                <span>
                 Data Protection Officer (DPO)
@@ -1627,7 +1627,7 @@ RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.style
              <a class="vector-toc-link" href="#Security_Consultant/Specialist/Intelligence">
               <div class="vector-toc-text">
                <span class="vector-toc-numb">
-                16.7
+                14.7
                </span>
                <span>
                 Security Consultant/Specialist/Intelligence
@@ -1643,7 +1643,7 @@ RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.style
            <a class="vector-toc-link" href="#Terminology">
             <div class="vector-toc-text">
              <span class="vector-toc-numb">
-              17
+              15
              </span>
              <span>
               Terminology
@@ -1657,7 +1657,7 @@ RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.style
            <a class="vector-toc-link" href="#History">
             <div class="vector-toc-text">
              <span class="vector-toc-numb">
-              18
+              16
              </span>
              <span>
               History
@@ -1671,7 +1671,7 @@ RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.style
            <a class="vector-toc-link" href="#Notable_scholars">
             <div class="vector-toc-text">
              <span class="vector-toc-numb">
-              19
+              17
              </span>
              <span>
               Notable scholars
@@ -1685,7 +1685,7 @@ RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.style
            <a class="vector-toc-link" href="#See_also">
             <div class="vector-toc-text">
              <span class="vector-toc-numb">
-              20
+              18
              </span>
              <span>
               See also
@@ -1699,7 +1699,7 @@ RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.style
            <a class="vector-toc-link" href="#References">
             <div class="vector-toc-text">
              <span class="vector-toc-numb">
-              21
+              19
              </span>
              <span>
               References
@@ -1713,7 +1713,7 @@ RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.style
            <a class="vector-toc-link" href="#Further_reading">
             <div class="vector-toc-text">
              <span class="vector-toc-numb">
-              22
+              20
              </span>
              <span>
               Further reading
@@ -2158,7 +2158,7 @@ RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.style
             </a>
            </li>
            <li class="interlanguage-link interwiki-simple mw-list-item">
-            <a class="interlanguage-link-target" data-language-autonym="Simple English" data-language-local-name="Simple English" data-title="Computer security" href="https://simple.wikipedia.org/wiki/Computer_security" hreflang="en-simple" lang="en-simple" title="Computer security – Simple English">
+            <a class="interlanguage-link-target" data-language-autonym="Simple English" data-language-local-name="Simple English" data-title="Cybersecurity" href="https://simple.wikipedia.org/wiki/Cybersecurity" hreflang="en-simple" lang="en-simple" title="Cybersecurity – Simple English">
              <span>
               Simple English
              </span>
@@ -2433,7 +2433,7 @@ RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.style
                   </a>
                  </li>
                  <li class="mw-list-item" id="t-permalink">
-                  <a href="/w/index.php?title=Computer_security&amp;oldid=1284354188" title="Permanent link to this revision of this page">
+                  <a href="/w/index.php?title=Computer_security&amp;oldid=1285459276" title="Permanent link to this revision of this page">
                    <span>
                     Permanent link
                    </span>
@@ -2447,7 +2447,7 @@ RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.style
                   </a>
                  </li>
                  <li class="mw-list-item" id="t-cite">
-                  <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Computer_security&amp;id=1284354188&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">
+                  <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Computer_security&amp;id=1285459276&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">
                    <span>
                     Cite this page
                    </span>
@@ -3107,7 +3107,7 @@ RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.style
               <td class="sidebar-image">
                <figure class="mw-halign-center noresize mw-ext-imagemap-desc-bottom-right" typeof="mw:File">
                 <span>
-                 <img class="mw-file-element" data-file-height="370" data-file-width="250" decoding="async" height="244" resource="/wiki/File:Operating_system_placement.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Operating_system_placement.svg/165px-Operating_system_placement.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Operating_system_placement.svg/248px-Operating_system_placement.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Operating_system_placement.svg/330px-Operating_system_placement.svg.png 2x" usemap="#ImageMap_4c9a165895b5ed35" width="165"/>
+                 <img class="mw-file-element" data-file-height="370" data-file-width="250" decoding="async" height="244" resource="/wiki/File:Operating_system_placement.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Operating_system_placement.svg/250px-Operating_system_placement.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Operating_system_placement.svg/330px-Operating_system_placement.svg.png 2x" usemap="#ImageMap_4c9a165895b5ed35" width="165"/>
                 </span>
                 <map name="ImageMap_4c9a165895b5ed35">
                  <area alt="User" coords="1,1,165,59" href="/wiki/User_(computing)" shape="rect" title="User"/>
@@ -3708,7 +3708,7 @@ RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.style
              </sup>
             </p>
             <p>
-             Backdoors can be very hard to detect and are usually discovered by someone who has access to the application source code or intimate knowledge of the
+             Backdoors can be difficult to detect, as they often remain hidden within the source code or system firmware intimate knowledge of the
              <a href="/wiki/Operating_system" title="Operating system">
               operating system
              </a>
@@ -11130,12 +11130,12 @@ Combination SIM/DVD devices are being developed through Smart Video Card technol
                      (SEI).
                     </li>
                    </ul>
-                   <div class="mw-heading mw-heading2">
-                    <h2 id="U.S._NRC,_10_CFR_73.54_Cybersecurity">
+                   <div class="mw-heading mw-heading5">
+                    <h5 id="U.S._NRC,_10_CFR_73.54_Cybersecurity">
                      <span id="U.S._NRC.2C_10_CFR_73.54_Cybersecurity">
                      </span>
                      U.S. NRC, 10 CFR 73.54 Cybersecurity
-                    </h2>
+                    </h5>
                     <span class="mw-editsection">
                      <span class="mw-editsection-bracket">
                       [
@@ -11176,10 +11176,10 @@ Combination SIM/DVD devices are being developed through Smart Video Card technol
                      </a>
                     </sup>
                    </p>
-                   <div class="mw-heading mw-heading2">
-                    <h2 id="NEI_08-09:_Cybersecurity_Plan_for_Nuclear_Power_Plants">
+                   <div class="mw-heading mw-heading5">
+                    <h5 id="NEI_08-09:_Cybersecurity_Plan_for_Nuclear_Power_Plants">
                      NEI 08-09: Cybersecurity Plan for Nuclear Power Plants
-                    </h2>
+                    </h5>
                     <span class="mw-editsection">
                      <span class="mw-editsection-bracket">
                       [
@@ -13344,7 +13344,7 @@ Combination SIM/DVD devices are being developed through Smart Video Card technol
                          </span>
                          from the original on 4 September 2019.
                         </cite>
-                        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Politics+and+Governance&amp;rft.atitle=Global+Cybersecurity%3A+New+Directions+in+Theory+and+Methods&amp;rft.volume=6&amp;rft.issue=2&amp;rft.pages=%3Cspan+class%3D%22nowrap%22%3E1-%3C%2Fspan%3E4&amp;rft.date=2018-06-11&amp;rft_id=info%3Adoi%2F10.17645%2Fpag.v6i2.1569&amp;rft.aulast=Stevens&amp;rft.aufirst=Tim&amp;rft_id=https%3A%2F%2Fkclpure.kcl.ac.uk%2Fportal%2Ffiles%2F97261726%2FPaG_6_2_Global_Cybersecurity_New_Directions_in_Theory_and_Methods.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
+                        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Politics+and+Governance&amp;rft.atitle=Global+Cybersecurity%3A+New+Directions+in+Theory+and+Methods&amp;rft.volume=6&amp;rft.issue=2&amp;rft.pages=1-4&amp;rft.date=2018-06-11&amp;rft_id=info%3Adoi%2F10.17645%2Fpag.v6i2.1569&amp;rft.aulast=Stevens&amp;rft.aufirst=Tim&amp;rft_id=https%3A%2F%2Fkclpure.kcl.ac.uk%2Fportal%2Ffiles%2F97261726%2FPaG_6_2_Global_Cybersecurity_New_Directions_in_Theory_and_Methods.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
                         </span>
                        </span>
                       </li>
@@ -13907,7 +13907,7 @@ Combination SIM/DVD devices are being developed through Smart Video Card technol
                           2023
                          </span>
                         </cite>
-                        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Seven+Deadliest+Unified+Communications+Attacks&amp;rft.atitle=Chapter+3+%E2%80%93+Eavesdropping+and+Modification&amp;rft.pages=%3Cspan+class%3D%22nowrap%22%3E41-%3C%2Fspan%3E69&amp;rft.date=2010-01-01&amp;rft.isbn=978-1-59749-547-9&amp;rft.aulast=York&amp;rft.aufirst=Dan&amp;rft_id=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FB978159749547900003X&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
+                        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Seven+Deadliest+Unified+Communications+Attacks&amp;rft.atitle=Chapter+3+%E2%80%93+Eavesdropping+and+Modification&amp;rft.pages=41-69&amp;rft.date=2010-01-01&amp;rft.isbn=978-1-59749-547-9&amp;rft.aulast=York&amp;rft.aufirst=Dan&amp;rft_id=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FB978159749547900003X&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
                         </span>
                        </span>
                       </li>
@@ -14063,7 +14063,7 @@ Combination SIM/DVD devices are being developed through Smart Video Card technol
                          </span>
                          .
                         </cite>
-                        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Procedia+Economics+and+Finance&amp;rft.atitle=Cyber-Attacks+%E2%80%93+Trends%2C+Patterns+and+Security+Countermeasures&amp;rft.volume=28&amp;rft.pages=%3Cspan+class%3D%22nowrap%22%3E24-%3C%2Fspan%3E31&amp;rft.date=2015&amp;rft_id=info%3Adoi%2F10.1016%2FS2212-5671%2815%2901077-1&amp;rft.aulast=Bendovschi&amp;rft.aufirst=Andreea&amp;rft_id=https%3A%2F%2Fdoi.org%2F10.1016%252FS2212-5671%252815%252901077-1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
+                        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Procedia+Economics+and+Finance&amp;rft.atitle=Cyber-Attacks+%E2%80%93+Trends%2C+Patterns+and+Security+Countermeasures&amp;rft.volume=28&amp;rft.pages=24-31&amp;rft.date=2015&amp;rft_id=info%3Adoi%2F10.1016%2FS2212-5671%2815%2901077-1&amp;rft.aulast=Bendovschi&amp;rft.aufirst=Andreea&amp;rft_id=https%3A%2F%2Fdoi.org%2F10.1016%252FS2212-5671%252815%252901077-1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
                         </span>
                        </span>
                       </li>
@@ -14267,7 +14267,7 @@ Combination SIM/DVD devices are being developed through Smart Video Card technol
                           2023
                          </span>
                         </cite>
-                        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Cyber-Vigilance+and+Digital+Trust&amp;rft.atitle=What+is+Cyber+Threat+Intelligence+and+How+is+it+Evolving%3F&amp;rft.pages=%3Cspan+class%3D%22nowrap%22%3E1-%3C%2Fspan%3E49&amp;rft.date=2019-05-15&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A187294508%23id-name%3DS2CID&amp;rft_id=info%3Adoi%2F10.1002%2F9781119618393.ch1&amp;rft.isbn=978-1-78630-448-3&amp;rft.aulast=Tounsi&amp;rft.aufirst=Wiem&amp;rft_id=https%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2F10.1002%2F9781119618393.ch1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
+                        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Cyber-Vigilance+and+Digital+Trust&amp;rft.atitle=What+is+Cyber+Threat+Intelligence+and+How+is+it+Evolving%3F&amp;rft.pages=1-49&amp;rft.date=2019-05-15&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A187294508%23id-name%3DS2CID&amp;rft_id=info%3Adoi%2F10.1002%2F9781119618393.ch1&amp;rft.isbn=978-1-78630-448-3&amp;rft.aulast=Tounsi&amp;rft.aufirst=Wiem&amp;rft_id=https%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2F10.1002%2F9781119618393.ch1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
                         </span>
                        </span>
                       </li>
@@ -14509,7 +14509,7 @@ Combination SIM/DVD devices are being developed through Smart Video Card technol
                          </a>
                          .
                         </cite>
-                        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=International+Journal+of+Information+Security&amp;rft.atitle=Security+beyond+cybersecurity%3A+side-channel+attacks+against+non-cyber+systems+and+their+countermeasures&amp;rft.volume=21&amp;rft.issue=3&amp;rft.pages=%3Cspan+class%3D%22nowrap%22%3E437-%3C%2Fspan%3E453&amp;rft.date=2022-06&amp;rft_id=info%3Adoi%2F10.1007%2Fs10207-021-00563-6&amp;rft.issn=1615-5262&amp;rft.aulast=Spence&amp;rft.aufirst=Aaron&amp;rft.au=Bangay%2C+Shaun&amp;rft_id=https%3A%2F%2Flink.springer.com%2F10.1007%2Fs10207-021-00563-6&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
+                        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=International+Journal+of+Information+Security&amp;rft.atitle=Security+beyond+cybersecurity%3A+side-channel+attacks+against+non-cyber+systems+and+their+countermeasures&amp;rft.volume=21&amp;rft.issue=3&amp;rft.pages=437-453&amp;rft.date=2022-06&amp;rft_id=info%3Adoi%2F10.1007%2Fs10207-021-00563-6&amp;rft.issn=1615-5262&amp;rft.aulast=Spence&amp;rft.aufirst=Aaron&amp;rft.au=Bangay%2C+Shaun&amp;rft_id=https%3A%2F%2Flink.springer.com%2F10.1007%2Fs10207-021-00563-6&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
                         </span>
                        </span>
                       </li>
@@ -14996,7 +14996,7 @@ Combination SIM/DVD devices are being developed through Smart Video Card technol
                          </a>
                          .
                         </cite>
-                        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=conference&amp;rft.btitle=Post-secondary+Education+Network+Security%3A+the+End+User+Challenge+and+Evolving+Threats&amp;rft.pages=%3Cspan+class%3D%22nowrap%22%3E1787-%3C%2Fspan%3E1796&amp;rft.pub=IATED&amp;rft.date=2017&amp;rft.issn=2340-1095&amp;rft_id=info%3Adoi%2F10.21125%2Ficeri.2017.0554&amp;rft.isbn=978-84-697-6957-7&amp;rft.aulast=Reimers&amp;rft.aufirst=Karl&amp;rft.au=Andersson%2C+David&amp;rft_id=https%3A%2F%2Flibrary.iated.org%2Fview%2FREIMERS2017POS&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
+                        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=conference&amp;rft.btitle=Post-secondary+Education+Network+Security%3A+the+End+User+Challenge+and+Evolving+Threats&amp;rft.pages=1787-1796&amp;rft.pub=IATED&amp;rft.date=2017&amp;rft.issn=2340-1095&amp;rft_id=info%3Adoi%2F10.21125%2Ficeri.2017.0554&amp;rft.isbn=978-84-697-6957-7&amp;rft.aulast=Reimers&amp;rft.aufirst=Karl&amp;rft.au=Andersson%2C+David&amp;rft_id=https%3A%2F%2Flibrary.iated.org%2Fview%2FREIMERS2017POS&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
                         </span>
                        </span>
                       </li>
@@ -15098,7 +15098,7 @@ Combination SIM/DVD devices are being developed through Smart Video Card technol
                          </a>
                          .
                         </cite>
-                        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=South+African+Computer+Journal&amp;rft.atitle=Information+security+culture-from+analysis+to+change&amp;rft.volume=31&amp;rft.pages=%3Cspan+class%3D%22nowrap%22%3E46-%3C%2Fspan%3E52&amp;rft.date=2003&amp;rft_id=info%3Ahdl%2F10520%2FEJC27949&amp;rft.aulast=Schlienger&amp;rft.aufirst=Thomas&amp;rft.au=Teufel%2C+Stephanie&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
+                        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=South+African+Computer+Journal&amp;rft.atitle=Information+security+culture-from+analysis+to+change&amp;rft.volume=31&amp;rft.pages=46-52&amp;rft.date=2003&amp;rft_id=info%3Ahdl%2F10520%2FEJC27949&amp;rft.aulast=Schlienger&amp;rft.aufirst=Thomas&amp;rft.au=Teufel%2C+Stephanie&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
                         </span>
                        </span>
                       </li>
@@ -15437,7 +15437,7 @@ Combination SIM/DVD devices are being developed through Smart Video Card technol
                          </a>
                          .
                         </cite>
-                        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Communications+of+the+ACM&amp;rft.atitle=Internet+security%3A+firewalls+and+beyond&amp;rft.volume=40&amp;rft.issue=5&amp;rft.pages=%3Cspan+class%3D%22nowrap%22%3E92-%3C%2Fspan%3E102&amp;rft.date=1997-05-01&amp;rft_id=info%3Adoi%2F10.1145%2F253769.253802&amp;rft.issn=0001-0782&amp;rft.aulast=Oppliger&amp;rft.aufirst=Rolf&amp;rft_id=https%3A%2F%2Fdoi.org%2F10.1145%252F253769.253802&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
+                        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Communications+of+the+ACM&amp;rft.atitle=Internet+security%3A+firewalls+and+beyond&amp;rft.volume=40&amp;rft.issue=5&amp;rft.pages=92-102&amp;rft.date=1997-05-01&amp;rft_id=info%3Adoi%2F10.1145%2F253769.253802&amp;rft.issn=0001-0782&amp;rft.aulast=Oppliger&amp;rft.aufirst=Rolf&amp;rft_id=https%3A%2F%2Fdoi.org%2F10.1145%252F253769.253802&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
                         </span>
                        </span>
                       </li>
@@ -15709,7 +15709,7 @@ Combination SIM/DVD devices are being developed through Smart Video Card technol
                          </a>
                          .
                         </cite>
-                        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=conference&amp;rft.btitle=Formal+verification+at+Intel&amp;rft.pages=%3Cspan+class%3D%22nowrap%22%3E45-%3C%2Fspan%3E54&amp;rft.date=2003&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A44585546%23id-name%3DS2CID&amp;rft_id=info%3Adoi%2F10.1109%2FLICS.2003.1210044&amp;rft.isbn=978-0769518848&amp;rft.aulast=Harrison&amp;rft.aufirst=J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
+                        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=conference&amp;rft.btitle=Formal+verification+at+Intel&amp;rft.pages=45-54&amp;rft.date=2003&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A44585546%23id-name%3DS2CID&amp;rft_id=info%3Adoi%2F10.1109%2FLICS.2003.1210044&amp;rft.isbn=978-0769518848&amp;rft.aulast=Harrison&amp;rft.aufirst=J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
                         </span>
                        </span>
                       </li>
@@ -15745,7 +15745,7 @@ Combination SIM/DVD devices are being developed through Smart Video Card technol
                          </a>
                          .
                         </cite>
-                        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=conference&amp;rft.btitle=Formal+verification+of+a+real-time+hardware+design&amp;rft.pages=%3Cspan+class%3D%22nowrap%22%3E221-%3C%2Fspan%3E227&amp;rft.pub=IEEE+Press&amp;rft.date=1983&amp;rft.isbn=978-0818600265&amp;rft.aulast=Umrigar&amp;rft.aufirst=Zerksis+D.&amp;rft.au=Pitchumani%2C+Vijay&amp;rft_id=http%3A%2F%2Fportal.acm.org%2Fcitation.cfm%3Fid%3D800667&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
+                        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=conference&amp;rft.btitle=Formal+verification+of+a+real-time+hardware+design&amp;rft.pages=221-227&amp;rft.pub=IEEE+Press&amp;rft.date=1983&amp;rft.isbn=978-0818600265&amp;rft.aulast=Umrigar&amp;rft.aufirst=Zerksis+D.&amp;rft.au=Pitchumani%2C+Vijay&amp;rft_id=http%3A%2F%2Fportal.acm.org%2Fcitation.cfm%3Fid%3D800667&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
                         </span>
                        </span>
                       </li>
@@ -16444,7 +16444,7 @@ Combination SIM/DVD devices are being developed through Smart Video Card technol
                          </a>
                          .
                         </cite>
-                        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=IEEE+Internet+of+Things+Journal&amp;rft.atitle=A+Survey+on+Supply+Chain+Security%3A+Application+Areas%2C+Security+Threats%2C+and+Solution+Architectures&amp;rft.volume=8&amp;rft.issue=8&amp;rft.pages=%3Cspan+class%3D%22nowrap%22%3E6222-%3C%2Fspan%3E6246&amp;rft.date=2021-04-15&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A226767829%23id-name%3DS2CID&amp;rft.issn=2327-4662&amp;rft_id=info%3Adoi%2F10.1109%2FJIOT.2020.3025775&amp;rft.aulast=Hassija&amp;rft.aufirst=Vikas&amp;rft.au=Chamola%2C+Vinay&amp;rft.au=Gupta%2C+Vatsal&amp;rft.au=Jain%2C+Sarthak&amp;rft.au=Guizani%2C+Nadra&amp;rft_id=https%3A%2F%2Fieeexplore.ieee.org%2Fdocument%2F9203862&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
+                        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=IEEE+Internet+of+Things+Journal&amp;rft.atitle=A+Survey+on+Supply+Chain+Security%3A+Application+Areas%2C+Security+Threats%2C+and+Solution+Architectures&amp;rft.volume=8&amp;rft.issue=8&amp;rft.pages=6222-6246&amp;rft.date=2021-04-15&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A226767829%23id-name%3DS2CID&amp;rft.issn=2327-4662&amp;rft_id=info%3Adoi%2F10.1109%2FJIOT.2020.3025775&amp;rft.aulast=Hassija&amp;rft.aufirst=Vikas&amp;rft.au=Chamola%2C+Vinay&amp;rft.au=Gupta%2C+Vatsal&amp;rft.au=Jain%2C+Sarthak&amp;rft.au=Guizani%2C+Nadra&amp;rft_id=https%3A%2F%2Fieeexplore.ieee.org%2Fdocument%2F9203862&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
                         </span>
                        </span>
                       </li>
@@ -16528,7 +16528,7 @@ Combination SIM/DVD devices are being developed through Smart Video Card technol
                          </span>
                          563.
                         </cite>
-                        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=15th+National+Computer+Security+Conference&amp;rft.atitle=Role-Based+Access+Control&amp;rft.pages=%3Cspan+class%3D%22nowrap%22%3E554-%3C%2Fspan%3E563&amp;rft.date=1992-10&amp;rft.au=Ferraiolo%2C+D.F.&amp;rft.au=Kuhn%2C+D.R.&amp;rft_id=http%3A%2F%2Fcsrc.nist.gov%2Fgroups%2FSNS%2Frbac%2Fdocuments%2Fferraiolo-kuhn-92.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
+                        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=15th+National+Computer+Security+Conference&amp;rft.atitle=Role-Based+Access+Control&amp;rft.pages=554-563&amp;rft.date=1992-10&amp;rft.au=Ferraiolo%2C+D.F.&amp;rft.au=Kuhn%2C+D.R.&amp;rft_id=http%3A%2F%2Fcsrc.nist.gov%2Fgroups%2FSNS%2Frbac%2Fdocuments%2Fferraiolo-kuhn-92.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
                         </span>
                        </span>
                       </li>
@@ -16588,7 +16588,7 @@ Combination SIM/DVD devices are being developed through Smart Video Card technol
                          </a>
                          .
                         </cite>
-                        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=IEEE+Computer&amp;rft.atitle=Role-Based+Access+Control+Models&amp;rft.volume=29&amp;rft.issue=2&amp;rft.pages=%3Cspan+class%3D%22nowrap%22%3E38-%3C%2Fspan%3E47&amp;rft.date=1996-08&amp;rft_id=https%3A%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fsummary%3Fdoi%3D10.1.1.50.7649%23id-name%3DCiteSeerX&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A1958270%23id-name%3DS2CID&amp;rft_id=info%3Adoi%2F10.1109%2F2.485845&amp;rft.aulast=Sandhu&amp;rft.aufirst=R&amp;rft.au=Coyne%2C+EJ&amp;rft.au=Feinstein%2C+HL&amp;rft.au=Youman%2C+CE&amp;rft_id=http%3A%2F%2Fcsrc.nist.gov%2Frbac%2Fsandhu96.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
+                        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=IEEE+Computer&amp;rft.atitle=Role-Based+Access+Control+Models&amp;rft.volume=29&amp;rft.issue=2&amp;rft.pages=38-47&amp;rft.date=1996-08&amp;rft_id=https%3A%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fsummary%3Fdoi%3D10.1.1.50.7649%23id-name%3DCiteSeerX&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A1958270%23id-name%3DS2CID&amp;rft_id=info%3Adoi%2F10.1109%2F2.485845&amp;rft.aulast=Sandhu&amp;rft.aufirst=R&amp;rft.au=Coyne%2C+EJ&amp;rft.au=Feinstein%2C+HL&amp;rft.au=Youman%2C+CE&amp;rft_id=http%3A%2F%2Fcsrc.nist.gov%2Frbac%2Fsandhu96.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
                         </span>
                        </span>
                       </li>
@@ -16642,7 +16642,7 @@ Combination SIM/DVD devices are being developed through Smart Video Card technol
                          </a>
                          .
                         </cite>
-                        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=conference&amp;rft.btitle=A+multi-domain+role+activation+model&amp;rft.pages=%3Cspan+class%3D%22nowrap%22%3E1-%3C%2Fspan%3E6&amp;rft.pub=IEEE+Press&amp;rft.date=2017&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A6185138%23id-name%3DS2CID&amp;rft_id=info%3Adoi%2F10.1109%2FICC.2017.7997247&amp;rft.isbn=978-1467389990&amp;rft.au=Abreu%2C+Vilmar&amp;rft.au=Santin%2C+Altair+O.&amp;rft.au=Viegas%2C+Eduardo+K.&amp;rft.au=Stihler%2C+Maicon&amp;rft_id=https%3A%2F%2Fsecplab.ppgia.pucpr.br%2Ffiles%2Fpapers%2F2017-1.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
+                        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=conference&amp;rft.btitle=A+multi-domain+role+activation+model&amp;rft.pages=1-6&amp;rft.pub=IEEE+Press&amp;rft.date=2017&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A6185138%23id-name%3DS2CID&amp;rft_id=info%3Adoi%2F10.1109%2FICC.2017.7997247&amp;rft.isbn=978-1467389990&amp;rft.au=Abreu%2C+Vilmar&amp;rft.au=Santin%2C+Altair+O.&amp;rft.au=Viegas%2C+Eduardo+K.&amp;rft.au=Stihler%2C+Maicon&amp;rft_id=https%3A%2F%2Fsecplab.ppgia.pucpr.br%2Ffiles%2Fpapers%2F2017-1.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
                         </span>
                        </span>
                       </li>
@@ -19030,7 +19030,7 @@ Combination SIM/DVD devices are being developed through Smart Video Card technol
                          </a>
                          .
                         </cite>
-                        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=IEEE+Internet+of+Things+Journal&amp;rft.atitle=Twenty+Cloud+Security+Considerations+for+Supporting+the+Internet+of+Things&amp;rft.volume=3&amp;rft.issue=3&amp;rft.pages=%3Cspan+class%3D%22nowrap%22%3E269-%3C%2Fspan%3E284&amp;rft.date=2015&amp;rft_id=info%3Adoi%2F10.1109%2FJIOT.2015.2460333&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A4732406%23id-name%3DS2CID&amp;rft.aulast=Singh&amp;rft.aufirst=Jatinder&amp;rft.au=Pasquier%2C+Thomas&amp;rft.au=Bacon%2C+Jean&amp;rft.au=Ko%2C+Hajoon&amp;rft.au=Eyers%2C+David&amp;rft_id=https%3A%2F%2Fdash.harvard.edu%2Fbitstream%2F1%2F35349952%2F1%2Fiot-2016.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
+                        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=IEEE+Internet+of+Things+Journal&amp;rft.atitle=Twenty+Cloud+Security+Considerations+for+Supporting+the+Internet+of+Things&amp;rft.volume=3&amp;rft.issue=3&amp;rft.pages=269-284&amp;rft.date=2015&amp;rft_id=info%3Adoi%2F10.1109%2FJIOT.2015.2460333&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A4732406%23id-name%3DS2CID&amp;rft.aulast=Singh&amp;rft.aufirst=Jatinder&amp;rft.au=Pasquier%2C+Thomas&amp;rft.au=Bacon%2C+Jean&amp;rft.au=Ko%2C+Hajoon&amp;rft.au=Eyers%2C+David&amp;rft_id=https%3A%2F%2Fdash.harvard.edu%2Fbitstream%2F1%2F35349952%2F1%2Fiot-2016.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
                         </span>
                        </span>
                       </li>
@@ -19931,7 +19931,7 @@ Combination SIM/DVD devices are being developed through Smart Video Card technol
                          </a>
                          .
                         </cite>
-                        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=ACM+Transactions+on+Information+and+System+Security&amp;rft.atitle=The+Economics+of+Information+Security+Investment&amp;rft.volume=5&amp;rft.issue=4&amp;rft.pages=%3Cspan+class%3D%22nowrap%22%3E438-%3C%2Fspan%3E457&amp;rft.date=2002-11&amp;rft_id=info%3Adoi%2F10.1145%2F581271.581274&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A1500788%23id-name%3DS2CID&amp;rft.aulast=Gordon&amp;rft.aufirst=Lawrence&amp;rft.au=Loeb%2C+Martin&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
+                        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=ACM+Transactions+on+Information+and+System+Security&amp;rft.atitle=The+Economics+of+Information+Security+Investment&amp;rft.volume=5&amp;rft.issue=4&amp;rft.pages=438-457&amp;rft.date=2002-11&amp;rft_id=info%3Adoi%2F10.1145%2F581271.581274&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A1500788%23id-name%3DS2CID&amp;rft.aulast=Gordon&amp;rft.aufirst=Lawrence&amp;rft.au=Loeb%2C+Martin&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
                         </span>
                        </span>
                       </li>
@@ -20052,7 +20052,7 @@ Combination SIM/DVD devices are being developed through Smart Video Card technol
                          </a>
                          .
                         </cite>
-                        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Technology+Innovation+Management+Review&amp;rft.atitle=Q%26A.+What+Motivates+Cyber-Attackers%3F&amp;rft.volume=4&amp;rft.issue=10&amp;rft.pages=%3Cspan+class%3D%22nowrap%22%3E40-%3C%2Fspan%3E42&amp;rft.date=2014&amp;rft_id=info%3Adoi%2F10.22215%2Ftimreview%2F838&amp;rft.issn=1927-0321&amp;rft.aulast=Han&amp;rft.aufirst=Chen&amp;rft.au=Dongre%2C+Rituja&amp;rft_id=https%3A%2F%2Fdoi.org%2F10.22215%252Ftimreview%252F838&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
+                        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Technology+Innovation+Management+Review&amp;rft.atitle=Q%26A.+What+Motivates+Cyber-Attackers%3F&amp;rft.volume=4&amp;rft.issue=10&amp;rft.pages=40-42&amp;rft.date=2014&amp;rft_id=info%3Adoi%2F10.22215%2Ftimreview%2F838&amp;rft.issn=1927-0321&amp;rft.aulast=Han&amp;rft.aufirst=Chen&amp;rft.au=Dongre%2C+Rituja&amp;rft_id=https%3A%2F%2Fdoi.org%2F10.22215%252Ftimreview%252F838&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
                         </span>
                        </span>
                       </li>
@@ -20096,7 +20096,7 @@ Combination SIM/DVD devices are being developed through Smart Video Card technol
                          </a>
                          .
                         </cite>
-                        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Contemporary+Criminal+Justice&amp;rft.atitle=Exploring+the+Subculture+of+Ideologically+Motivated+Cyber-Attackers&amp;rft.volume=33&amp;rft.issue=3&amp;rft.pages=%3Cspan+class%3D%22nowrap%22%3E212-%3C%2Fspan%3E233&amp;rft.date=2017-04&amp;rft_id=info%3Adoi%2F10.1177%2F1043986217699100&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A152277480%23id-name%3DS2CID&amp;rft.aulast=Chermick&amp;rft.aufirst=Steven&amp;rft.au=Freilich%2C+Joshua&amp;rft.au=Holt%2C+Thomas&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
+                        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Contemporary+Criminal+Justice&amp;rft.atitle=Exploring+the+Subculture+of+Ideologically+Motivated+Cyber-Attackers&amp;rft.volume=33&amp;rft.issue=3&amp;rft.pages=212-233&amp;rft.date=2017-04&amp;rft_id=info%3Adoi%2F10.1177%2F1043986217699100&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A152277480%23id-name%3DS2CID&amp;rft.aulast=Chermick&amp;rft.aufirst=Steven&amp;rft.au=Freilich%2C+Joshua&amp;rft.au=Holt%2C+Thomas&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
                         </span>
                        </span>
                       </li>
@@ -20851,7 +20851,7 @@ Combination SIM/DVD devices are being developed through Smart Video Card technol
                          </a>
                          .
                         </cite>
-                        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Network+Security&amp;rft.atitle=The+Ashley+Madison+affair&amp;rft.volume=2015&amp;rft.issue=9&amp;rft.pages=%3Cspan+class%3D%22nowrap%22%3E8-%3C%2Fspan%3E16&amp;rft.date=2015-09-01&amp;rft_id=info%3Adoi%2F10.1016%2FS1353-4858%2815%2930080-5&amp;rft.aulast=Mansfield-Devine&amp;rft.aufirst=Steve&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
+                        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Network+Security&amp;rft.atitle=The+Ashley+Madison+affair&amp;rft.volume=2015&amp;rft.issue=9&amp;rft.pages=8-16&amp;rft.date=2015-09-01&amp;rft_id=info%3Adoi%2F10.1016%2FS1353-4858%2815%2930080-5&amp;rft.aulast=Mansfield-Devine&amp;rft.aufirst=Steve&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
                         </span>
                        </span>
                       </li>
@@ -21067,7 +21067,7 @@ Combination SIM/DVD devices are being developed through Smart Video Card technol
                          </span>
                          .
                         </cite>
-                        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Politics+and+Governance&amp;rft.atitle=Privatizing+Political+Authority%3A+Cybersecurity%2C+Public-Private+Partnerships%2C+and+the+Reproduction+of+Liberal+Political+Order&amp;rft.volume=6&amp;rft.issue=2&amp;rft.pages=%3Cspan+class%3D%22nowrap%22%3E5-%3C%2Fspan%3E12&amp;rft.date=2018-06-11&amp;rft_id=info%3Adoi%2F10.17645%2Fpag.v6i2.1335&amp;rft.aulast=McCarthy&amp;rft.aufirst=Daniel&amp;rft_id=https%3A%2F%2Fwww.cogitatiopress.com%2Fpoliticsandgovernance%2Farticle%2Fdownload%2F1335%2F800&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
+                        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Politics+and+Governance&amp;rft.atitle=Privatizing+Political+Authority%3A+Cybersecurity%2C+Public-Private+Partnerships%2C+and+the+Reproduction+of+Liberal+Political+Order&amp;rft.volume=6&amp;rft.issue=2&amp;rft.pages=5-12&amp;rft.date=2018-06-11&amp;rft_id=info%3Adoi%2F10.17645%2Fpag.v6i2.1335&amp;rft.aulast=McCarthy&amp;rft.aufirst=Daniel&amp;rft_id=https%3A%2F%2Fwww.cogitatiopress.com%2Fpoliticsandgovernance%2Farticle%2Fdownload%2F1335%2F800&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
                         </span>
                        </span>
                       </li>
@@ -22351,16 +22351,16 @@ Combination SIM/DVD devices are being developed through Smart Video Card technol
                         <link href="mw-data:TemplateStyles:r1238218222" rel="mw-deduplicated-inline-style"/>
                         <cite class="citation speech cs1" id="CITEREFWilliam_J._Lynn,_III2009">
                          William J. Lynn, III (12 November 2009).
-                         <a class="external text" href="https://web.archive.org/web/20100415113237/http://www.defense.gov/speeches/speech.aspx?speechid=1399" rel="nofollow">
+                         <a class="external text" href="https://www.defense.gov/speeches/speech.aspx?speechid=1399" rel="nofollow">
                           <i>
                            Remarks at the Defense Information Technology Acquisition Summit
                           </i>
                          </a>
-                         (Speech). Washington D.C. Archived from
-                         <a class="external text" href="http://www.defense.gov/speeches/speech.aspx?speechid=1399" rel="nofollow">
-                          the original
+                         (Speech). Washington D.C.
+                         <a class="external text" href="https://web.archive.org/web/20100415113237/http://www.defense.gov/speeches/speech.aspx?speechid=1399" rel="nofollow">
+                          Archived
                          </a>
-                         on 15 April 2010
+                         from the original on 15 April 2010
                          <span class="reference-accessdate">
                           . Retrieved
                           <span class="nowrap">
@@ -22370,7 +22370,7 @@ Combination SIM/DVD devices are being developed through Smart Video Card technol
                          </span>
                          .
                         </cite>
-                        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Remarks+at+the+Defense+Information+Technology+Acquisition+Summit&amp;rft.place=Washington+D.C.&amp;rft.date=2009-11-12&amp;rft.au=William+J.+Lynn%2C+III&amp;rft_id=http%3A%2F%2Fwww.defense.gov%2Fspeeches%2Fspeech.aspx%3Fspeechid%3D1399&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
+                        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Remarks+at+the+Defense+Information+Technology+Acquisition+Summit&amp;rft.place=Washington+D.C.&amp;rft.date=2009-11-12&amp;rft.au=William+J.+Lynn%2C+III&amp;rft_id=https%3A%2F%2Fwww.defense.gov%2Fspeeches%2Fspeech.aspx%3Fspeechid%3D1399&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
                         </span>
                        </span>
                       </li>
@@ -22658,7 +22658,7 @@ Combination SIM/DVD devices are being developed through Smart Video Card technol
                          </a>
                          .
                         </cite>
-                        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=conference&amp;rft.btitle=CYBER+SECURITY+EMPLOYMENT+POLICY+AND+WORKPLACE+DEMAND+IN+THE+U.S.+GOVERNMENT&amp;rft.pages=%3Cspan+class%3D%22nowrap%22%3E7858-%3C%2Fspan%3E7866&amp;rft.pub=IATED&amp;rft.date=2019&amp;rft.issn=2340-1117&amp;rft_id=info%3Adoi%2F10.21125%2Fedulearn.2019.1914&amp;rft.isbn=978-84-09-12031-4&amp;rft.aulast=Anderson&amp;rft.aufirst=David&amp;rft.au=Reimers%2C+Karl&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
+                        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=conference&amp;rft.btitle=CYBER+SECURITY+EMPLOYMENT+POLICY+AND+WORKPLACE+DEMAND+IN+THE+U.S.+GOVERNMENT&amp;rft.pages=7858-7866&amp;rft.pub=IATED&amp;rft.date=2019&amp;rft.issn=2340-1117&amp;rft_id=info%3Adoi%2F10.21125%2Fedulearn.2019.1914&amp;rft.isbn=978-84-09-12031-4&amp;rft.aulast=Anderson&amp;rft.aufirst=David&amp;rft.au=Reimers%2C+Karl&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
                         </span>
                        </span>
                       </li>
@@ -22890,7 +22890,7 @@ Combination SIM/DVD devices are being developed through Smart Video Card technol
                          </a>
                          .
                         </cite>
-                        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Energy+Research+%26+Social+Science&amp;rft.atitle=The+geopolitics+of+renewable+energy%3A+Debunking+four+emerging+myths&amp;rft.volume=49&amp;rft.pages=%3Cspan+class%3D%22nowrap%22%3E36-%3C%2Fspan%3E40&amp;rft.date=2019-03-01&amp;rft_id=info%3Ahdl%2F11250%2F2579292&amp;rft.issn=2214-6296&amp;rft_id=info%3Adoi%2F10.1016%2Fj.erss.2018.10.018&amp;rft_id=info%3Abibcode%2F2019ERSS...49...36O&amp;rft.aulast=Overland&amp;rft.aufirst=Indra&amp;rft_id=https%3A%2F%2Fdoi.org%2F10.1016%252Fj.erss.2018.10.018&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
+                        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Energy+Research+%26+Social+Science&amp;rft.atitle=The+geopolitics+of+renewable+energy%3A+Debunking+four+emerging+myths&amp;rft.volume=49&amp;rft.pages=36-40&amp;rft.date=2019-03-01&amp;rft_id=info%3Ahdl%2F11250%2F2579292&amp;rft.issn=2214-6296&amp;rft_id=info%3Adoi%2F10.1016%2Fj.erss.2018.10.018&amp;rft_id=info%3Abibcode%2F2019ERSS...49...36O&amp;rft.aulast=Overland&amp;rft.aufirst=Indra&amp;rft_id=https%3A%2F%2Fdoi.org%2F10.1016%252Fj.erss.2018.10.018&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
                         </span>
                        </span>
                       </li>
@@ -22950,7 +22950,7 @@ Combination SIM/DVD devices are being developed through Smart Video Card technol
                          </a>
                          .
                         </cite>
-                        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Politics+and+Governance&amp;rft.atitle=How+We+Stopped+Worrying+about+Cyber+Doom+and+Started+Collecting+Data&amp;rft.volume=6&amp;rft.issue=2&amp;rft.pages=%3Cspan+class%3D%22nowrap%22%3E49-%3C%2Fspan%3E60&amp;rft.date=2018-06-11&amp;rft_id=info%3Ahdl%2F10945%2F60589&amp;rft.issn=2183-2463&amp;rft_id=info%3Adoi%2F10.17645%2Fpag.v6i2.1368&amp;rft.aulast=Maness&amp;rft.aufirst=Ryan+C.&amp;rft.au=Valeriano%2C+Brandon&amp;rft_id=https%3A%2F%2Fdoi.org%2F10.17645%252Fpag.v6i2.1368&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
+                        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Politics+and+Governance&amp;rft.atitle=How+We+Stopped+Worrying+about+Cyber+Doom+and+Started+Collecting+Data&amp;rft.volume=6&amp;rft.issue=2&amp;rft.pages=49-60&amp;rft.date=2018-06-11&amp;rft_id=info%3Ahdl%2F10945%2F60589&amp;rft.issn=2183-2463&amp;rft_id=info%3Adoi%2F10.17645%2Fpag.v6i2.1368&amp;rft.aulast=Maness&amp;rft.aufirst=Ryan+C.&amp;rft.au=Valeriano%2C+Brandon&amp;rft_id=https%3A%2F%2Fdoi.org%2F10.17645%252Fpag.v6i2.1368&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
                         </span>
                        </span>
                       </li>
@@ -23001,7 +23001,7 @@ Combination SIM/DVD devices are being developed through Smart Video Card technol
                          </a>
                          .
                         </cite>
-                        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Armed+Forces+%26+Society&amp;rft.atitle=The+Impact+of+Cyber+Conflict+on+International+Interactions&amp;rft.volume=42&amp;rft.issue=2&amp;rft.pages=%3Cspan+class%3D%22nowrap%22%3E301-%3C%2Fspan%3E323&amp;rft.date=2015-03-25&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A146145942%23id-name%3DS2CID&amp;rft.issn=0095-327X&amp;rft_id=info%3Adoi%2F10.1177%2F0095327x15572997&amp;rft.aulast=Maness&amp;rft.aufirst=Ryan+C.&amp;rft.au=Valeriano%2C+Brandon&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
+                        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Armed+Forces+%26+Society&amp;rft.atitle=The+Impact+of+Cyber+Conflict+on+International+Interactions&amp;rft.volume=42&amp;rft.issue=2&amp;rft.pages=301-323&amp;rft.date=2015-03-25&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A146145942%23id-name%3DS2CID&amp;rft.issn=0095-327X&amp;rft_id=info%3Adoi%2F10.1177%2F0095327x15572997&amp;rft.aulast=Maness&amp;rft.aufirst=Ryan+C.&amp;rft.au=Valeriano%2C+Brandon&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
                         </span>
                        </span>
                       </li>
@@ -23739,7 +23739,7 @@ Combination SIM/DVD devices are being developed through Smart Video Card technol
                          </a>
                          .
                         </cite>
-                        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=IEEE+Annals+of+the+History+of+Computing&amp;rft.atitle=Computer+Security+Discourse+at+RAND%2C+SDC%2C+and+NSA+%281958-1970%29&amp;rft.volume=38&amp;rft.issue=4&amp;rft.pages=%3Cspan+class%3D%22nowrap%22%3E12-%3C%2Fspan%3E25&amp;rft.date=2016&amp;rft_id=info%3Adoi%2F10.1109%2FMAHC.2016.48&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A17609542%23id-name%3DS2CID&amp;rft.aulast=Misa&amp;rft.aufirst=Thomas+J.&amp;rft_id=https%3A%2F%2Fdl.acm.org%2Fdoi%2F10.1109%2FMAHC.2016.48&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
+                        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=IEEE+Annals+of+the+History+of+Computing&amp;rft.atitle=Computer+Security+Discourse+at+RAND%2C+SDC%2C+and+NSA+%281958-1970%29&amp;rft.volume=38&amp;rft.issue=4&amp;rft.pages=12-25&amp;rft.date=2016&amp;rft_id=info%3Adoi%2F10.1109%2FMAHC.2016.48&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A17609542%23id-name%3DS2CID&amp;rft.aulast=Misa&amp;rft.aufirst=Thomas+J.&amp;rft_id=https%3A%2F%2Fdl.acm.org%2Fdoi%2F10.1109%2FMAHC.2016.48&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
                         </span>
                        </span>
                       </li>
@@ -23943,7 +23943,7 @@ Combination SIM/DVD devices are being developed through Smart Video Card technol
                          </a>
                          .
                         </cite>
-                        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=IEEE+Annals+of+the+History+of+Computing&amp;rft.atitle=The+Origin+and+Early+History+of+the+Computer+Security+Software+Products+Industry&amp;rft.volume=37&amp;rft.issue=2&amp;rft.pages=%3Cspan+class%3D%22nowrap%22%3E46-%3C%2Fspan%3E58&amp;rft.date=2015-04&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A18929482%23id-name%3DS2CID&amp;rft.issn=1934-1547&amp;rft_id=info%3Adoi%2F10.1109%2FMAHC.2015.21&amp;rft.aulast=Yost&amp;rft.aufirst=Jeffrey+R.&amp;rft_id=https%3A%2F%2Fieeexplore.ieee.org%2Fdocument%2F7116464&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
+                        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=IEEE+Annals+of+the+History+of+Computing&amp;rft.atitle=The+Origin+and+Early+History+of+the+Computer+Security+Software+Products+Industry&amp;rft.volume=37&amp;rft.issue=2&amp;rft.pages=46-58&amp;rft.date=2015-04&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A18929482%23id-name%3DS2CID&amp;rft.issn=1934-1547&amp;rft_id=info%3Adoi%2F10.1109%2FMAHC.2015.21&amp;rft.aulast=Yost&amp;rft.aufirst=Jeffrey+R.&amp;rft_id=https%3A%2F%2Fieeexplore.ieee.org%2Fdocument%2F7116464&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
                         </span>
                        </span>
                       </li>
@@ -24353,7 +24353,7 @@ Combination SIM/DVD devices are being developed through Smart Video Card technol
                       </a>
                       .
                      </cite>
-                     <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=International+Organization&amp;rft.atitle=What%27s+in+a+Name%3F+Metaphors+and+Cybersecurity&amp;rft.volume=75&amp;rft.issue=1&amp;rft.pages=%3Cspan+class%3D%22nowrap%22%3E39-%3C%2Fspan%3E70&amp;rft.date=2020-09-24&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A224886794%23id-name%3DS2CID&amp;rft.issn=0020-8183&amp;rft_id=info%3Adoi%2F10.1017%2Fs002081832000051x&amp;rft.aulast=Branch&amp;rft.aufirst=Jordan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
+                     <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=International+Organization&amp;rft.atitle=What%27s+in+a+Name%3F+Metaphors+and+Cybersecurity&amp;rft.volume=75&amp;rft.issue=1&amp;rft.pages=39-70&amp;rft.date=2020-09-24&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A224886794%23id-name%3DS2CID&amp;rft.issn=0020-8183&amp;rft_id=info%3Adoi%2F10.1017%2Fs002081832000051x&amp;rft.aulast=Branch&amp;rft.aufirst=Jordan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
                      </span>
                     </li>
                     <li>
@@ -24428,7 +24428,7 @@ Combination SIM/DVD devices are being developed through Smart Video Card technol
                       </a>
                       .
                      </cite>
-                     <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Diplomatic+History&amp;rft.atitle=The+Roots+of+the+United+States%27+Cyber+%28In%29Security&amp;rft.volume=43&amp;rft.issue=1&amp;rft.pages=%3Cspan+class%3D%22nowrap%22%3E157-%3C%2Fspan%3E185&amp;rft.date=2018-06-11&amp;rft_id=info%3Adoi%2F10.1093%2Fdh%2Fdhy038&amp;rft.issn=0145-2096&amp;rft.aulast=Fuller&amp;rft.aufirst=Christopher+J&amp;rft_id=https%3A%2F%2Feprints.soton.ac.uk%2F407741%2F3%2FFuller_Roots_of_Cyber_Insecurity_clean_images.doc&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
+                     <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Diplomatic+History&amp;rft.atitle=The+Roots+of+the+United+States%27+Cyber+%28In%29Security&amp;rft.volume=43&amp;rft.issue=1&amp;rft.pages=157-185&amp;rft.date=2018-06-11&amp;rft_id=info%3Adoi%2F10.1093%2Fdh%2Fdhy038&amp;rft.issn=0145-2096&amp;rft.aulast=Fuller&amp;rft.aufirst=Christopher+J&amp;rft_id=https%3A%2F%2Feprints.soton.ac.uk%2F407741%2F3%2FFuller_Roots_of_Cyber_Insecurity_clean_images.doc&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
                      </span>
                     </li>
                     <li>
@@ -24546,7 +24546,7 @@ Combination SIM/DVD devices are being developed through Smart Video Card technol
                       </a>
                       .
                      </cite>
-                     <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Market+and+Competition+Law+Review&amp;rft.atitle=Cybersecurity+and+Liability+in+a+Big+Data+World&amp;rft.volume=2&amp;rft.issue=2&amp;rft.pages=%3Cspan+class%3D%22nowrap%22%3E71-%3C%2Fspan%3E98&amp;rft.date=2018&amp;rft.issn=1556-5068&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A216704215%23id-name%3DS2CID&amp;rft_id=https%3A%2F%2Fpapers.ssrn.com%2Fsol3%2Fpapers.cfm%3Fabstract_id%3D3220475%23id-name%3DSSRN&amp;rft_id=info%3Adoi%2F10.2139%2Fssrn.3220475&amp;rft.aulast=Montagnani&amp;rft.aufirst=Maria+Lill%C3%A0&amp;rft.au=Cavallo%2C+Mirta+Antonella&amp;rft_id=https%3A%2F%2Frevistas.ucp.pt%2Findex.php%2Fmclawreview%2Farticle%2Fview%2F325&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
+                     <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Market+and+Competition+Law+Review&amp;rft.atitle=Cybersecurity+and+Liability+in+a+Big+Data+World&amp;rft.volume=2&amp;rft.issue=2&amp;rft.pages=71-98&amp;rft.date=2018&amp;rft.issn=1556-5068&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A216704215%23id-name%3DS2CID&amp;rft_id=https%3A%2F%2Fpapers.ssrn.com%2Fsol3%2Fpapers.cfm%3Fabstract_id%3D3220475%23id-name%3DSSRN&amp;rft_id=info%3Adoi%2F10.2139%2Fssrn.3220475&amp;rft.aulast=Montagnani&amp;rft.aufirst=Maria+Lill%C3%A0&amp;rft.au=Cavallo%2C+Mirta+Antonella&amp;rft_id=https%3A%2F%2Frevistas.ucp.pt%2Findex.php%2Fmclawreview%2Farticle%2Fview%2F325&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
                      </span>
                     </li>
                     <li>
@@ -24587,7 +24587,7 @@ Combination SIM/DVD devices are being developed through Smart Video Card technol
                       </a>
                       .
                      </cite>
-                     <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Procedia+Computer+Science&amp;rft.atitle=Enterprise+information+security%2C+a+review+of+architectures+and+frameworks+from+interoperability+perspective&amp;rft.volume=3&amp;rft.pages=%3Cspan+class%3D%22nowrap%22%3E537-%3C%2Fspan%3E543&amp;rft.date=2011&amp;rft_id=info%3Adoi%2F10.1016%2Fj.procs.2010.12.089&amp;rft.issn=1877-0509&amp;rft.aulast=Shariati&amp;rft.aufirst=Marzieh&amp;rft.au=Bahmani%2C+Faezeh&amp;rft.au=Shams%2C+Fereidoon&amp;rft_id=https%3A%2F%2Fdoi.org%2F10.1016%252Fj.procs.2010.12.089&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
+                     <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Procedia+Computer+Science&amp;rft.atitle=Enterprise+information+security%2C+a+review+of+architectures+and+frameworks+from+interoperability+perspective&amp;rft.volume=3&amp;rft.pages=537-543&amp;rft.date=2011&amp;rft_id=info%3Adoi%2F10.1016%2Fj.procs.2010.12.089&amp;rft.issn=1877-0509&amp;rft.aulast=Shariati&amp;rft.aufirst=Marzieh&amp;rft.au=Bahmani%2C+Faezeh&amp;rft.au=Shams%2C+Fereidoon&amp;rft_id=https%3A%2F%2Fdoi.org%2F10.1016%252Fj.procs.2010.12.089&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComputer+security">
                      </span>
                     </li>
                     <li>
@@ -26127,6 +26127,13 @@ Combination SIM/DVD devices are being developed through Smart Video Card technol
                              <a href="/wiki/Virtual_reality" title="Virtual reality">
                               Virtual
                              </a>
+                             <ul>
+                              <li>
+                               <a class="mw-redirect" href="/wiki/Virtuality" title="Virtuality">
+                                Virtuality
+                               </a>
+                              </li>
+                             </ul>
                             </li>
                            </ul>
                           </li>
@@ -26277,7 +26284,7 @@ Combination SIM/DVD devices are being developed through Smart Video Card technol
                           <li>
                            <span class="noviewer" typeof="mw:File">
                             <span title="Category">
-                             <img alt="" class="mw-file-element" data-file-height="185" data-file-width="180" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" width="16"/>
+                             <img alt="" class="mw-file-element" data-file-height="185" data-file-width="180" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/20px-Symbol_category_class.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/40px-Symbol_category_class.svg.png 1.5x" width="16"/>
                             </span>
                            </span>
                            <a href="/wiki/Category:Computer_science" title="Category:Computer science">
@@ -26333,7 +26340,7 @@ Combination SIM/DVD devices are being developed through Smart Video Card technol
                         : National
                         <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless">
                          <a href="https://www.wikidata.org/wiki/Q3510521#identifiers" title="Edit this at Wikidata">
-                          <img alt="Edit this at Wikidata" class="mw-file-element" data-file-height="20" data-file-width="20" decoding="async" height="10" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" width="10"/>
+                          <img alt="Edit this at Wikidata" class="mw-file-element" data-file-height="20" data-file-width="20" decoding="async" height="10" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png" width="10"/>
                          </a>
                         </span>
                        </th>
@@ -26417,38 +26424,38 @@ Combination SIM/DVD devices are being developed through Smart Video Card technol
                    </div>
                    <!-- 
 NewPP limit report
-Parsed by mw‐web.eqiad.main‐5fc49f697b‐pzqmb
-Cached time: 20250407065712
+Parsed by mw‐web.eqiad.main‐84b746899f‐rbb25
+Cached time: 20250414051636
 Cache expiry: 2592000
 Reduced expiry: false
 Complications: [vary‐revision‐sha1, show‐toc]
-CPU time usage: 2.386 seconds
-Real time usage: 2.878 seconds
+CPU time usage: 3.110 seconds
+Real time usage: 3.644 seconds
 Preprocessor visited node count: 24791/1000000
-Post‐expand include size: 710612/2097152 bytes
+Post‐expand include size: 708033/2097152 bytes
 Template argument size: 28271/2097152 bytes
 Highest expansion depth: 16/100
 Expensive parser function count: 35/500
 Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 1164409/5000000 bytes
-Lua time usage: 1.533/10.000 seconds
-Lua memory usage: 23451012/52428800 bytes
-Number of Wikibase entities loaded: 1/400
+Unstrip post‐expand size: 1163137/5000000 bytes
+Lua time usage: 2.064/10.000 seconds
+Lua memory usage: 23451460/52428800 bytes
+Number of Wikibase entities loaded: 1/500
 -->
                    <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00% 2466.631      1 -total
- 55.85% 1377.637      1 Template:Reflist
- 24.02%  592.495    181 Template:Cite_web
- 15.33%  378.118      2 Template:Columns-list
- 14.84%  366.015     38 Template:Annotated_link
-  9.55%  235.466     36 Template:Cite_journal
-  7.75%  191.129     53 Template:Cite_news
-  4.26%  105.004      1 Template:Short_description
-  3.17%   78.160      1 Template:Computer_hacking
-  3.02%   74.462      1 Template:Sidebar_with_collapsible_lists
+100.00% 3180.396      1 -total
+ 60.40% 1921.099      1 Template:Reflist
+ 26.55%  844.358    181 Template:Cite_web
+ 14.34%  456.204      2 Template:Columns-list
+ 13.88%  441.439     38 Template:Annotated_link
+ 10.54%  335.145     36 Template:Cite_journal
+  8.80%  279.929     53 Template:Cite_news
+  2.87%   91.414      1 Template:Computer_hacking
+  2.80%   89.013      1 Template:Sidebar_with_collapsible_lists
+  2.79%   88.617      1 Template:Short_description
 -->
-                   <!-- Saved in parser cache with key enwiki:pcache:7398:|#|:idhash:canonical and timestamp 20250407065712 and revision id 1284354188. Rendering was triggered because: page-view
+                   <!-- Saved in parser cache with key enwiki:pcache:7398:|#|:idhash:canonical and timestamp 20250414051636 and revision id 1285459276. Rendering was triggered because: page-view
  -->
                   </link>
                  </link>
@@ -26467,8 +26474,8 @@ Transclusion expansion time report (%,ms,calls,template)
         </noscript>
         <div class="printfooter" data-nosnippet="">
          Retrieved from "
-         <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Computer_security&amp;oldid=1284354188">
-          https://en.wikipedia.org/w/index.php?title=Computer_security&amp;oldid=1284354188
+         <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Computer_security&amp;oldid=1285459276">
+          https://en.wikipedia.org/w/index.php?title=Computer_security&amp;oldid=1285459276
          </a>
          "
         </div>
@@ -26620,7 +26627,7 @@ Transclusion expansion time report (%,ms,calls,template)
      <footer class="mw-footer" id="footer">
       <ul id="footer-info">
        <li id="footer-info-lastmod">
-        This page was last edited on 7 April 2025, at 01:58
+        This page was last edited on 13 April 2025, at 20:24
         <span class="anonymous-show">
          (UTC)
         </span>
@@ -26844,10 +26851,10 @@ additional terms may apply. By using this site, you agree to the
    </ul>
   </div>
   <script>
-   (RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-5fc49f697b-hzq8p","wgBackendResponseTime":438,"wgPageParseReport":{"limitreport":{"cputime":"2.386","walltime":"2.878","ppvisitednodes":{"value":24791,"limit":1000000},"postexpandincludesize":{"value":710612,"limit":2097152},"templateargumentsize":{"value":28271,"limit":2097152},"expansiondepth":{"value":16,"limit":100},"expensivefunctioncount":{"value":35,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":1164409,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 2466.631      1 -total"," 55.85% 1377.637      1 Template:Reflist"," 24.02%  592.495    181 Template:Cite_web"," 15.33%  378.118      2 Template:Columns-list"," 14.84%  366.015     38 Template:Annotated_link","  9.55%  235.466     36 Template:Cite_journal","  7.75%  191.129     53 Template:Cite_news","  4.26%  105.004      1 Template:Short_description","  3.17%   78.160      1 Template:Computer_hacking","  3.02%   74.462      1 Template:Sidebar_with_collapsible_lists"]},"scribunto":{"limitreport-timeusage":{"value":"1.533","limit":"10.000"},"limitreport-memusage":{"value":23451012,"limit":52428800}},"cachereport":{"origin":"mw-web.eqiad.main-5fc49f697b-pzqmb","timestamp":"20250407065712","ttl":2592000,"transientcontent":false}}});});
+   (RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-84b746899f-t5dd8","wgBackendResponseTime":398,"wgPageParseReport":{"limitreport":{"cputime":"3.110","walltime":"3.644","ppvisitednodes":{"value":24791,"limit":1000000},"postexpandincludesize":{"value":708033,"limit":2097152},"templateargumentsize":{"value":28271,"limit":2097152},"expansiondepth":{"value":16,"limit":100},"expensivefunctioncount":{"value":35,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":1163137,"limit":5000000},"entityaccesscount":{"value":1,"limit":500},"timingprofile":["100.00% 3180.396      1 -total"," 60.40% 1921.099      1 Template:Reflist"," 26.55%  844.358    181 Template:Cite_web"," 14.34%  456.204      2 Template:Columns-list"," 13.88%  441.439     38 Template:Annotated_link"," 10.54%  335.145     36 Template:Cite_journal","  8.80%  279.929     53 Template:Cite_news","  2.87%   91.414      1 Template:Computer_hacking","  2.80%   89.013      1 Template:Sidebar_with_collapsible_lists","  2.79%   88.617      1 Template:Short_description"]},"scribunto":{"limitreport-timeusage":{"value":"2.064","limit":"10.000"},"limitreport-memusage":{"value":23451460,"limit":52428800}},"cachereport":{"origin":"mw-web.eqiad.main-84b746899f-rbb25","timestamp":"20250414051636","ttl":2592000,"transientcontent":false}}});});
   </script>
   <script type="application/ld+json">
-   {"@context":"https:\/\/schema.org","@type":"Article","name":"Computer security","url":"https:\/\/en.wikipedia.org\/wiki\/Computer_security","sameAs":"http:\/\/www.wikidata.org\/entity\/Q3510521","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q3510521","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2001-11-05T23:06:35Z","dateModified":"2025-04-07T01:58:44Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/e1\/Operating_system_placement.svg","headline":"the protection of computer systems and networks from theft, damage, misuse or data leak"}
+   {"@context":"https:\/\/schema.org","@type":"Article","name":"Computer security","url":"https:\/\/en.wikipedia.org\/wiki\/Computer_security","sameAs":"http:\/\/www.wikidata.org\/entity\/Q3510521","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q3510521","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2001-11-05T23:06:35Z","dateModified":"2025-04-13T20:24:52Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/e1\/Operating_system_placement.svg","headline":"the protection of computer systems and networks from theft, damage, misuse or data leak"}
   </script>
  </body>
 </html>

@@ -1463,13 +1463,7 @@ computer security - wikipedia
  
  
  
- 
- 
- 
- 
- 
- 
- 13
+ 12.1.5.6
  
  
  u.s. nrc, 10 cfr 73.54 cybersecurity
@@ -1483,7 +1477,7 @@ computer security - wikipedia
  
  
  
- 14
+ 12.1.5.7
  
  
  nei 08-09: cybersecurity plan for nuclear power plants
@@ -1497,7 +1491,13 @@ computer security - wikipedia
  
  
  
- 15
+ 
+ 
+ 
+ 
+ 
+ 
+ 13
  
  
  modern warfare
@@ -1511,7 +1511,7 @@ computer security - wikipedia
  
  
  
- 16
+ 14
  
  
  careers
@@ -1530,7 +1530,7 @@ computer security - wikipedia
  
  
  
- 16.1
+ 14.1
  
  
  security analyst
@@ -1544,7 +1544,7 @@ computer security - wikipedia
  
  
  
- 16.2
+ 14.2
  
  
  security engineer
@@ -1558,7 +1558,7 @@ computer security - wikipedia
  
  
  
- 16.3
+ 14.3
  
  
  security architect
@@ -1572,7 +1572,7 @@ computer security - wikipedia
  
  
  
- 16.4
+ 14.4
  
  
  chief information security officer (ciso)
@@ -1586,7 +1586,7 @@ computer security - wikipedia
  
  
  
- 16.5
+ 14.5
  
  
  chief security officer (cso)
@@ -1600,7 +1600,7 @@ computer security - wikipedia
  
  
  
- 16.6
+ 14.6
  
  
  data protection officer (dpo)
@@ -1614,7 +1614,7 @@ computer security - wikipedia
  
  
  
- 16.7
+ 14.7
  
  
  security consultant/specialist/intelligence
@@ -1630,7 +1630,7 @@ computer security - wikipedia
  
  
  
- 17
+ 15
  
  
  terminology
@@ -1644,7 +1644,7 @@ computer security - wikipedia
  
  
  
- 18
+ 16
  
  
  history
@@ -1658,7 +1658,7 @@ computer security - wikipedia
  
  
  
- 19
+ 17
  
  
  notable scholars
@@ -1672,7 +1672,7 @@ computer security - wikipedia
  
  
  
- 20
+ 18
  
  
  see also
@@ -1686,7 +1686,7 @@ computer security - wikipedia
  
  
  
- 21
+ 19
  
  
  references
@@ -1700,7 +1700,7 @@ computer security - wikipedia
  
  
  
- 22
+ 20
  
  
  further reading
@@ -3684,7 +3684,7 @@ computer security - wikipedia
  
  
  
- backdoors can be very hard to detect and are usually discovered by someone who has access to the application source code or intimate knowledge of the
+ backdoors can be difficult to detect, as they often remain hidden within the source code or system firmware intimate knowledge of the
  
  operating system
  
@@ -6414,7 +6414,7 @@ computer security - wikipedia
  
  
  
- this page was last edited on 7 april 2025, at 01:58
+ this page was last edited on 13 april 2025, at 20:24
  
  (utc)
  

@@ -12,7 +12,7 @@ script_dir = os.path.dirname(os.path.abspath(__file__))
 project_root = os.path.dirname(os.path.dirname(script_dir))  # Go up two levels to reach project root
 
 # Path to the fineweb dataset
-fineweb_dir = os.path.join(project_root, "datasets", "fineweb", "sample", "10BT")
+fineweb_dir = os.path.join(project_root, "reports", "corpus", "fineweb", "sample", "10BT")
 
 # List all parquet files
 parquet_files = list(Path(fineweb_dir).glob("*.parquet"))

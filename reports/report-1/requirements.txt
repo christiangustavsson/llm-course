@@ -1,9 +1,10 @@
 # Dependencies for the work
 
 # Core dependencies
-torch>=1.10.0
-transformers>=4.20.0
-numpy>=1.20.0
+torch>=2.0.0
+transformers>=4.30.0
+numpy>=1.24.0
+tiktoken>=0.9.0
 
 # Web scraping dependencies
 beautifulsoup4>=4.10.0
@@ -21,4 +22,8 @@ nltk>=3.9.1  # For text analysis
 matplotlib>=3.10.1  # For visualizations
 
 # Optional: for better PDF handling
-pdfplumber>=0.10.3  # Alternative PDF parser 
+pdfplumber>=0.10.3  # Alternative PDF parser
+
+pandas>=1.5.0
+pyarrow>=10.0.0
+tqdm>=4.65.0 
