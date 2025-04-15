@@ -1,5 +1,6 @@
 # Project added 
 /datasets
+/corpus
 .gitignore
 venv
 .parquet
