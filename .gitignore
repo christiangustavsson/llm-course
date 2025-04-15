@@ -176,3 +176,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Data files
+corpus/
+*.parquet
+
+# Model and training artifacts
+*.pth
+*.pdf
+training/pre-training/the-verdict.txt
