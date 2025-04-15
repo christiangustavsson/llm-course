@@ -1,6 +1,6 @@
 # Project added 
 /datasets
-/corpus
+/corpus/fineweb
 .gitignore
 venv
 .parquet
