@@ -16,7 +16,7 @@ Coursework on building LLMs from scratch, following these building blocks:
 3. `python corpus_download.py`, note that this is approximately 20 GB of data.
 4. `python tokenize_fineweb.py`, note that this will take some time. **OR**, for a powerful computer, `python tokenize_fineweb_parallell.py` is also available.
 
-## Simple Pre-processing pipeline
+## 1. Simple Pre-processing pipeline
 A simple pre-processing pipeline has been implemented, scraping data from a website and a PDF file. FineWeb is used to train the GPT-style model. However, this simple scraping and cleaning process is a good exercise.
 
 1. Run `python preprocessing_pipeline.py`
