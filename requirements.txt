@@ -1,11 +1,13 @@
 # Core dependencies
 torch>=2.0.0
-transformers>=4.36.0
+transformers>=4.51.3
 numpy>=1.24.0
 tiktoken>=0.9.0
 pandas>=2.0.0
 pyarrow>=14.0.1
 tqdm>=4.66.0
+accelerate>=0.27.0  # Required for newer transformers models
+safetensors>=0.4.3  # Required for model loading
 
 # Web scraping dependencies
 beautifulsoup4>=4.12.0

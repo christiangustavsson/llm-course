@@ -7,7 +7,7 @@ script_dir = os.path.dirname(os.path.abspath(__file__))
 project_root = os.path.dirname(script_dir)
 
 # Ensure the output directory exists
-output_dir = os.path.join(project_root, "reports", "corpus", "fineweb")
+output_dir = os.path.join(project_root, "corpus", "fineweb")
 os.makedirs(output_dir, exist_ok=True)
 
 try:
@@ -19,7 +19,7 @@ try:
         # replace "data/CC-MAIN-2023-50/*" with "sample/100BT/*" to use the 100BT sample
         allow_patterns="sample/10BT/*",
         max_workers=4,  # Limit concurrent downloads
-        resume_download=True  # Resume interrupted downloads
+        force_download=False  # Allow resuming interrupted downloads
     )
     print("Download completed successfully!")
 except Exception as e:
