@@ -1,0 +1,1 @@
+The directory contains the corpora that we will work on. Follow the instructions found in the root to download FineWeb corpus. 
