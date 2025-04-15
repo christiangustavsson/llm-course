@@ -20,7 +20,8 @@ Coursework on building LLMs from scratch, following these building blocks:
 A simple pre-processing pipeline has been implemented, scraping data from a website and a PDF file. FineWeb is used to train the GPT-style model. However, this simple scraping and cleaning process is a good exercise.
 
 1. Run `python preprocessing_pipeline.py`
-- If interested, some deeper text analysis could be extracted by running `python analyze_patterns.py`
+- If interested, some deeper text analysis could be extracted by running `python analyze_patterns.py`.
+- A perplexity comparison between raw and cleaned texts are given by running `python analyze_perplexity.py`.
 
 ### Expected file output:
 Five files should be created during the pipeline. 
