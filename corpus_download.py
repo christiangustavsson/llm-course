@@ -2,9 +2,9 @@ from huggingface_hub import snapshot_download
 import os
 import sys
 
-# Get the absolute path to the project root directory (one level up from the script)
+# Get the absolute path to the project root directory (where the script is located)
 script_dir = os.path.dirname(os.path.abspath(__file__))
-project_root = os.path.dirname(script_dir)
+project_root = script_dir  # Changed from os.path.dirname(script_dir)
 
 # Ensure the output directory exists
 output_dir = os.path.join(project_root, "corpus", "fineweb")
