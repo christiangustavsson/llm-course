@@ -1,11 +1,26 @@
+# Core dependencies
 torch>=2.0.0
-numpy>=1.24.0 
+transformers>=4.36.0
+numpy>=1.24.0
 tiktoken>=0.9.0
-matplotlib>=3.7.0
 pandas>=2.0.0
 pyarrow>=14.0.1
+tqdm>=4.66.0
+
+# Web scraping dependencies
 beautifulsoup4>=4.12.0
 requests>=2.31.0
+
+# PDF processing dependencies
 langchain-community>=0.0.10
-transformers>=4.36.0
-tqdm>=4.66.0
+python-magic>=0.4.27  # Required by langchain for file type detection
+# python-magic-bin is only needed on Windows
+# python-magic-bin>=0.4.14  # Required for Windows compatibility
+pypdf>=3.17.0  # Required by PyPDFLoader
+
+# Text processing dependencies
+nltk>=3.9.1  # For text analysis
+matplotlib>=3.7.0  # For visualizations
+
+# Optional: for better PDF handling
+pdfplumber>=0.10.3  # Alternative PDF parser
