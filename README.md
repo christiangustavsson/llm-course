@@ -89,4 +89,4 @@ The choice of training corpus is an important problem for this project. It shoul
 - Average Tokens per Document: 697.53 tokens
 
 ## References:
-G. Penedo, H. Kydlíček, L. B. allal, et al., The FineWeb Datasets: Decanting the Web for the Finest Text Data at Scale, en, arXiv:2406.17557 [cs], Oct. 2024. doi: 10.48550/arXiv.2406.
+Guilherme Penedo, Hynek Kydlíček, Loubna Ben allal, Anton Lozhkov, Margaret Mitchell, Colin Raffel, Leandro Von Werra, Thomas Wolf, The FineWeb Datasets: Decanting the Web for the Finest Text Data at Scale, en, arXiv:2406.17557 [cs], Oct. 2024. doi: 10.48550/arXiv.2406.
