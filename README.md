@@ -18,7 +18,7 @@ Coursework on building LLMs from scratch, following these building blocks:
 5. `python tokenize_fineweb_parallell.py --workers 1 --chunk-size 100`, arguments can be increased depending on system performance. 
 
 ## 1. Simple Pre-processing pipeline
-A simple pre-processing pipeline has been implemented, scraping data from a website and a PDF file. FineWeb is used to train the GPT-style model. However, this simple scraping and cleaning process is a good exercise.
+A simple pre-processing pipeline has been implemented, scraping data from a website and a PDF file as toy examples. A sampled version of FineWeb will be used to train the GPT-style model. However, this simple scraping and cleaning process is a good exercise.
 
 1. Run `python preprocessing_pipeline.py`
 - If interested, some deeper text analysis could be extracted by running `python analyze_patterns.py`.
