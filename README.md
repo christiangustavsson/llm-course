@@ -77,7 +77,7 @@ Tokenizer used: gpt2
 ```
 
 ## 2. Training corpus
-The FineWeb dataset, by Penedo et al. \cite{penedo_fineweb_2024}, is used for the training corpus. The dataset is preprocessed to remove HTML, scripts, and other artifacts, making it suitable for direct use in language modeling tasks. 
+The FineWeb dataset, by Penedo et al. (Penedo et al, 2024), is used for the training corpus. The dataset is preprocessed to remove HTML, scripts, and other artifacts, making it suitable for direct use in language modeling tasks. 
 
 The choice of training corpus is an important problem for this project. It should be large enough to result in a reasonably good model. However, access to computational resources is limited, making it necessary to keep the size manageable. This work uses a smaller, sampled subset of the total data volume (10BT). 
 
@@ -87,3 +87,6 @@ The choice of training corpus is an important problem for this project. It shoul
 - Minimum Token Count: 24 tokens (shortest document)
 -  Maximum Token Count: 381,395 tokens (longest document)
 - Average Tokens per Document: 697.53 tokens
+
+## References:
+G. Penedo, H. Kydlíček, L. B. allal, et al., The FineWeb Datasets: Decanting the Web for the Finest Text Data at Scale, en, arXiv:2406.17557 [cs], Oct. 2024. doi: 10.48550/arXiv.2406.
