@@ -36,7 +36,7 @@ def process_chunk(chunk, local_enc):
 
 def process_file(file_info):
     """Process a single parquet file in chunks with incremental writing"""
-    input_file, output_file, worker_id = file_info
+    input_file, output_file, worker_id, chunk_size = file_info
     
     try:
         # Initialize tokenizer for this process
@@ -58,7 +58,6 @@ def process_file(file_info):
         print(f"Worker {worker_id}: Using text column: {text_column}")
         
         # Process in smaller chunks and write incrementally
-        chunk_size = 500  # Smaller chunk size for better memory management
         max_chunks_in_memory = 10  # Number of chunks to accumulate before writing
         
         # Create temporary directory for incremental files
@@ -129,8 +128,8 @@ def process_file(file_info):
 
 def main():
     parser = argparse.ArgumentParser(description='Tokenize FineWeb dataset in parallel')
-    parser.add_argument('--workers', type=int, help='Number of worker processes to use (default: 75% of available CPU cores)')
-    parser.add_argument('--chunk-size', type=int, default=500, help='Number of texts to process in each chunk (default: 500)')
+    parser.add_argument('--workers', type=int, default=4, help='Number of worker processes to use (default: 4, min 1, max 32)')
+    parser.add_argument('--chunk-size', type=int, default=100, help='Number of texts to process in each chunk (default: 100)')
     args = parser.parse_args()
     
     # List all parquet files
@@ -143,7 +142,7 @@ def main():
         num_workers = args.workers
     else:
         # Use 75% of available CPU cores, but at least 2 and at most 32
-        num_workers = max(2, min(32, int(mp.cpu_count() * 0.75)))
+        num_workers = max(1, min(32, int(mp.cpu_count() * 0.50)))
     print(f"Using {num_workers} worker processes (out of {mp.cpu_count()} available CPU cores)")
     print(f"Processing in chunks of {args.chunk_size} texts")
     
@@ -152,7 +151,7 @@ def main():
     for i, file in enumerate(parquet_files):
         input_path = os.path.join(input_dir, file)
         output_path = os.path.join(output_dir, f"tokenized_{file}")
-        file_info_list.append((input_path, output_path, i % num_workers))
+        file_info_list.append((input_path, output_path, i % num_workers, args.chunk_size))
     
     # Process files in parallel
     start_time = time.time()
