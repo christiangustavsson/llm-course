@@ -13,6 +13,17 @@ Coursework on building LLMs from scratch, following these building blocks:
 2. `pip install -r requirements.txt`
 
 ### Download and tokenize FineWeb Corpus (10BT)
+The FineWeb dataset, by Penedo et al. (Penedo et al, 2024), is used for the training corpus. The dataset is preprocessed to remove HTML, scripts, and other artifacts, making it suitable for direct use in language modeling tasks. 
+
+The choice of training corpus is an important problem for this project. It should be large enough to result in a reasonably good model. However, access to computational resources is limited, making it necessary to keep the size manageable. This work uses a smaller, sampled subset of the total data volume (10BT). 
+
+**Some statistics for the FineWeb 10BT subset:**
+- Total Documents: 14,868,862 documents across all files
+- Total Tokens: 10,371,489,838 (about 10.4 billion tokens)
+- Minimum Token Count: 24 tokens (shortest document)
+-  Maximum Token Count: 381,395 tokens (longest document)
+- Average Tokens per Document: 697.53 tokens
+
 3. `python corpus_download.py`, note that this is approximately 31 GB of data.
 - If interested, some deeper analysis could be extracted by running `python analyze_fineweb.py`.
 5. `python tokenize_fineweb_parallell.py --workers 1 --chunk-size 100`, arguments can be increased depending on system performance. 
@@ -76,17 +87,7 @@ Vocabulary size: 50257
 Tokenizer used: gpt2
 ```
 
-## 2. Training corpus
-The FineWeb dataset, by Penedo et al. (Penedo et al, 2024), is used for the training corpus. The dataset is preprocessed to remove HTML, scripts, and other artifacts, making it suitable for direct use in language modeling tasks. 
-
-The choice of training corpus is an important problem for this project. It should be large enough to result in a reasonably good model. However, access to computational resources is limited, making it necessary to keep the size manageable. This work uses a smaller, sampled subset of the total data volume (10BT). 
-
-**Some statistics for the FineWeb 10BT subset:**
-- Total Documents: 14,868,862 documents across all files
-- Total Tokens: 10,371,489,838 (about 10.4 billion tokens)
-- Minimum Token Count: 24 tokens (shortest document)
--  Maximum Token Count: 381,395 tokens (longest document)
-- Average Tokens per Document: 697.53 tokens
+## 2. Pre-training
 
 ## References:
 Guilherme Penedo, Hynek Kydlíček, Loubna Ben allal, Anton Lozhkov, Margaret Mitchell, Colin Raffel, Leandro Von Werra, Thomas Wolf, The FineWeb Datasets: Decanting the Web for the Finest Text Data at Scale, en, arXiv:2406.17557 [cs], Oct. 2024. doi: 10.48550/arXiv.2406.
