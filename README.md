@@ -8,7 +8,7 @@ Coursework on building LLMs from scratch, following these building blocks:
 
 ## Preparations for running the code:
 
-### Foundations
+### Basic steps
 1. Clone the repository
 2. `pip install -r requirements.txt`
 
@@ -75,3 +75,5 @@ Sequence length: 30450
 Vocabulary size: 50257
 Tokenizer used: gpt2
 ```
+
+## 2. Fineweb dataset
