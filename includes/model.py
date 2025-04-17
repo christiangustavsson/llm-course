@@ -6,6 +6,7 @@ import tiktoken
 import math
 from .attention import MultiHeadAttention
 from .config import * 
+from torch.nn import functional as F
 
 ### Using best possible device for Torch workload
 device = torch.device("mps" if torch.backends.mps.is_available() else 
@@ -20,10 +21,11 @@ class GPTModel(nn.Module):
         self.tok_emb = nn.Embedding(cfg["vocab_size"], cfg["emb_dim"])
         self.pos_emb = nn.Embedding(cfg["context_length"], cfg["emb_dim"])
         self.drop_emb = nn.Dropout(cfg["drop_rate"])
-        
-        self.trf_blocks = nn.Sequential(
-            *[TransformerBlock(cfg) for _ in range(cfg["n_layers"])])
-        
+
+        self.blocks = nn.Sequential(
+            *[Block(cfg) for _ in range(cfg["n_layers"])]
+        )
+
         self.final_norm = LayerNorm(cfg["emb_dim"])
         self.out_head = nn.Linear(
             cfg["emb_dim"], cfg["vocab_size"], bias=False
@@ -33,12 +35,108 @@ class GPTModel(nn.Module):
         batch_size, seq_len = in_idx.shape
         tok_embeds = self.tok_emb(in_idx)
         pos_embeds = self.pos_emb(torch.arange(seq_len, device=in_idx.device))
-        x = tok_embeds + pos_embeds  # Shape [batch_size, num_tokens, emb_size]
+        x = tok_embeds + pos_embeds
         x = self.drop_emb(x)
-        x = self.trf_blocks(x)
+        x = self.blocks(x)
         x = self.final_norm(x)
         logits = self.out_head(x)
         return logits
+
+class Block(nn.Module):
+    def __init__(self, cfg):
+        super().__init__()
+        self.ln_1 = LayerNorm(cfg["emb_dim"])
+        self.attn = MultiHeadAttention(cfg)
+        self.ln_2 = LayerNorm(cfg["emb_dim"])
+        self.ff = FeedForward(cfg)
+
+    def forward(self, x):
+        x = x + self.attn(self.ln_1(x))
+        x = x + self.ff(self.ln_2(x))
+        return x
+
+class MultiHeadAttention(nn.Module):
+    def __init__(self, cfg):
+        super().__init__()
+        self.emb_dim = cfg["emb_dim"]
+        self.n_heads = cfg["n_heads"]
+        self.head_dim = self.emb_dim // self.n_heads
+
+        self.qkv_proj = nn.Linear(
+            cfg["emb_dim"], 3 * cfg["emb_dim"], bias=False
+        )
+        self.out_proj = nn.Linear(
+            cfg["emb_dim"], cfg["emb_dim"], bias=False
+        )
+        self.attn_drop = nn.Dropout(cfg["drop_rate"])
+        self.resid_drop = nn.Dropout(cfg["drop_rate"])
+
+    def forward(self, x):
+        batch_size, seq_len, emb_dim = x.shape
+
+        qkv = self.qkv_proj(x)
+        qkv = qkv.view(
+            batch_size, seq_len, self.n_heads, 3 * self.head_dim
+        )
+        qkv = qkv.transpose(1, 2)
+        q, k, v = qkv.chunk(3, dim=-1)
+
+        attn = torch.matmul(q, k.transpose(-2, -1))
+        attn = attn / (self.head_dim ** 0.5)
+        attn = F.softmax(attn, dim=-1)
+        attn = self.attn_drop(attn)
+
+        out = torch.matmul(attn, v)
+        out = out.transpose(1, 2).contiguous()
+        out = out.view(batch_size, seq_len, emb_dim)
+        out = self.out_proj(out)
+        out = self.resid_drop(out)
+        return out
+
+class FeedForward(nn.Module):
+    def __init__(self, cfg):
+        super().__init__()
+        self.net = nn.Sequential(
+            nn.Linear(cfg["emb_dim"], 4 * cfg["emb_dim"]),
+            nn.GELU(),
+            nn.Linear(4 * cfg["emb_dim"], cfg["emb_dim"]),
+            nn.Dropout(cfg["drop_rate"])
+        )
+
+    def forward(self, x):
+        return self.net(x)
+
+class LayerNorm(nn.Module):
+    def __init__(self, emb_dim):
+        super().__init__()
+        self.eps = 1e-5
+        self.gamma = nn.Parameter(torch.ones(emb_dim))
+        self.beta = nn.Parameter(torch.zeros(emb_dim))
+
+    def forward(self, x):
+        mean = x.mean(-1, keepdim=True)
+        var = x.var(-1, keepdim=True, unbiased=False)
+        out = (x - mean) / torch.sqrt(var + self.eps)
+        out = self.gamma * out + self.beta
+        return out
+
+def generate_text_simple(model, idx, max_new_tokens, context_size):
+    # idx is (B, T) array of indices in the current context
+    for _ in range(max_new_tokens):
+        # Crop current context if it exceeds the context window
+        idx_cond = idx[:, -context_size:]
+        # Get predictions
+        with torch.no_grad():
+            logits = model(idx_cond)
+        # Focus on last time step
+        logits = logits[:, -1, :]  # Becomes (B, C)
+        # Get probabilities
+        probs = F.softmax(logits, dim=-1)  # (B, C)
+        # Sample from the distribution
+        idx_next = torch.multinomial(probs, num_samples=1)  # (B, 1)
+        # Append sampled index to running sequence
+        idx = torch.cat((idx, idx_next), dim=1)  # (B, T+1)
+    return idx
 
 class DummyGPTModel(nn.Module):
     def __init__(self, cfg):
@@ -88,65 +186,6 @@ class DummyLayerNorm(nn.Module):
         # This layer does nothing and just returns its input.
         return x
     
-class LayerNorm(nn.Module):
-    def __init__(self, emb_dim):
-        super().__init__()
-        self.eps = 1e-5
-        self.scale = nn.Parameter(torch.ones(emb_dim))
-        self.shift = nn.Parameter(torch.zeros(emb_dim))
-
-    def forward(self, x):
-        mean = x.mean(dim=-1, keepdim=True)
-        var = x.var(dim=-1, keepdim=True, unbiased=False)
-        norm_x = (x - mean) / torch.sqrt(var + self.eps)
-        return self.scale * norm_x + self.shift
-
-class GELU(nn.Module):
-    def __init__(self):
-        super().__init__()
-
-    def forward(self, x):
-        return 0.5 * x * (1 + torch.tanh(
-            torch.sqrt(torch.tensor(2.0 / torch.pi)) * 
-            (x + 0.044715 * torch.pow(x, 3))
-        ))
-
-class FeedForward(nn.Module):
-    def __init__(self, cfg):
-        super().__init__()
-        self.layers = nn.Sequential(
-            nn.Linear(cfg["emb_dim"], 4 * cfg["emb_dim"]),
-            GELU(),
-            nn.Linear(4 * cfg["emb_dim"], cfg["emb_dim"]),
-        )
-
-    def forward(self, x):
-        return self.layers(x)
-
-class ExampleDeepNeuralNetwork(nn.Module):
-    def __init__(self, layer_sizes, use_shortcut):
-        super().__init__()
-        self.use_shortcut = use_shortcut
-        self.layers = nn.ModuleList([
-            nn.Sequential(nn.Linear(layer_sizes[0], layer_sizes[1]), GELU()),
-            nn.Sequential(nn.Linear(layer_sizes[1], layer_sizes[2]), GELU()),
-            nn.Sequential(nn.Linear(layer_sizes[2], layer_sizes[3]), GELU()),
-            nn.Sequential(nn.Linear(layer_sizes[3], layer_sizes[4]), GELU()),
-            nn.Sequential(nn.Linear(layer_sizes[4], layer_sizes[5]), GELU())
-        ])
-
-    def forward(self, x):
-        for layer in self.layers:
-            # Compute the output of the current layer
-            layer_output = layer(x)
-            # Check if shortcut can be applied
-            if self.use_shortcut and x.shape == layer_output.shape:
-                x = x + layer_output
-            else:
-                x = layer_output
-        return x
-
-
 def print_gradients(model, x):
     # Forward pass
     output = model(x)
@@ -164,66 +203,6 @@ def print_gradients(model, x):
         if 'weight' in name:
             # Print the mean absolute gradient of the weights
             print(f"{name} has gradient mean of {param.grad.abs().mean().item()}")
-
-class TransformerBlock(nn.Module):
-    def __init__(self, cfg):
-        super().__init__()
-        self.att = MultiHeadAttention(
-            d_in=cfg["emb_dim"],
-            d_out=cfg["emb_dim"],
-            context_length=cfg["context_length"],
-            num_heads=cfg["n_heads"], 
-            dropout=cfg["drop_rate"],
-            qkv_bias=cfg["qkv_bias"])
-        self.ff = FeedForward(cfg)
-        self.norm1 = LayerNorm(cfg["emb_dim"])
-        self.norm2 = LayerNorm(cfg["emb_dim"])
-        self.drop_shortcut = nn.Dropout(cfg["drop_rate"])
-
-    def forward(self, x):
-        # Shortcut connection for attention block
-        shortcut = x
-        x = self.norm1(x)
-        x = self.att(x)  # Shape [batch_size, num_tokens, emb_size]
-        x = self.drop_shortcut(x)
-        x = x + shortcut  # Add the original input back
-
-        # Shortcut connection for feed forward block
-        shortcut = x
-        x = self.norm2(x)
-        x = self.ff(x)
-        x = self.drop_shortcut(x)
-        x = x + shortcut  # Add the original input back
-
-        return x
-
-def generate_text_simple(model, idx, max_new_tokens, context_size):
-    # idx is (batch, n_tokens) array of indices in the current context
-    for _ in range(max_new_tokens):
-        
-        # Crop current context if it exceeds the supported context size
-        # E.g., if LLM supports only 5 tokens, and the context size is 10
-        # then only the last 5 tokens are used as context
-        idx_cond = idx[:, -context_size:]
-        
-        # Get the predictions
-        with torch.no_grad():
-            logits = model(idx_cond)
-        
-        # Focus only on the last time step
-        # (batch, n_tokens, vocab_size) becomes (batch, vocab_size)
-        logits = logits[:, -1, :]  
-
-        # Apply softmax to get probabilities
-        probas = torch.softmax(logits, dim=-1)  # (batch, vocab_size)
-
-        # Get the idx of the vocab entry with the highest probability value
-        idx_next = torch.argmax(probas, dim=-1, keepdim=True)  # (batch, 1)
-
-        # Append sampled index to the running sequence
-        idx = torch.cat((idx, idx_next), dim=1)  # (batch, n_tokens+1)
-
-    return idx
 
 def main():
     # GPT Config settings, availabel in config.py

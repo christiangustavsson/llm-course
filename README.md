@@ -28,6 +28,8 @@ The choice of training corpus is an important problem for this project. It shoul
 - If interested, some deeper analysis could be extracted by running `python analyze_fineweb.py`.
 4. `python tokenize_fineweb_parallell.py --workers 1 --chunk-size 100`, arguments can be increased depending on system performance. 
 
+Pre-tokenizing the training corpus is an intermediate step that could just as well be made during training. However, performing it as a district step increases clarity and makes work computationally more managable.
+
 ## 1. Simple Pre-processing pipeline
 A simple pre-processing pipeline has been implemented, scraping data from a website and a PDF file as toy examples. A sampled version of FineWeb will be used to train the GPT-style model. However, this simple scraping and cleaning process is a good exercise.
 

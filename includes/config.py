@@ -1,11 +1,11 @@
 GPT_CONFIG_small = {
-    "vocab_size": 50257,
-    "emb_dim": 768,
-    "context_length": 1024,
-    "n_layers": 12,
-    "n_heads": 12,
-    "drop_rate": 0.1,
-    "qkv_bias": False
+    "vocab_size": 50257,  # Vocabulary size
+    "emb_dim": 768,       # Embedding dimension
+    "context_length": 1024,  # Maximum context length
+    "n_layers": 12,       # Number of transformer layers
+    "n_heads": 12,        # Number of attention heads
+    "drop_rate": 0.1,     # Dropout rate
+    "qkv_bias": False     # Whether to use bias in QKV projections
 }
 
 GPT_CONFIG_medium = {

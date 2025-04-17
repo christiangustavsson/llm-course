@@ -18,19 +18,6 @@ import time
 import glob
 from torch.utils.data import Dataset, DataLoader
 import random
-import logging
-from datetime import datetime
-
-# Set up logging
-logging.basicConfig(
-    level=logging.INFO,
-    format='%(asctime)s - %(levelname)s - %(message)s',
-    handlers=[
-        logging.FileHandler(f'training_{datetime.now().strftime("%Y%m%d_%H%M%S")}.log'),
-        logging.StreamHandler()
-    ]
-)
-logger = logging.getLogger(__name__)
 
 # Set CUDA memory allocation configuration
 os.environ['PYTORCH_CUDA_ALLOC_CONF'] = 'expandable_segments:True,max_split_size_mb:512'
@@ -132,7 +119,7 @@ def train_model_simple(model, train_loader, val_loader, optimizer, scheduler, de
             # Clear memory periodically
             if global_step % memory_clear_freq == 0:
                 clear_gpu_memory()
-                logger.info(f"GPU Memory after clearing: {get_gpu_memory_usage():.2f} MB")
+                print(f"GPU Memory after clearing: {get_gpu_memory_usage():.2f} MB")
 
             loss = calc_loss_batch(input_batch, target_batch, model, device)
             loss = loss / grad_accum_steps  # Scale loss by accumulation steps
@@ -153,15 +140,10 @@ def train_model_simple(model, train_loader, val_loader, optimizer, scheduler, de
                 train_losses.append(train_loss)
                 val_losses.append(val_loss)
                 track_tokens_seen.append(tokens_seen)
-                logger.info(f"Ep {epoch+1} (Step {global_step:06d}): "
+                print(f"Ep {epoch+1} (Step {global_step:06d}): "
                       f"Train loss {train_loss:.3f}, Val loss {val_loss:.3f}, "
                       f"LR: {scheduler.get_last_lr()[0]:.2e}, "
                       f"GPU Mem: {get_gpu_memory_usage():.2f} MB")
-
-        # Save model after each epoch
-        model_save_path = f"model_epoch_{epoch+1}.pth"
-        torch.save(model.state_dict(), model_save_path)
-        logger.info(f"Model saved to {model_save_path}")
 
         # Clear memory after each epoch
         clear_gpu_memory()
@@ -266,7 +248,7 @@ def main(gpt_config, settings):
     
     # Clear GPU memory at start
     clear_gpu_memory()
-    logger.info(f"Initial GPU Memory: {get_gpu_memory_usage():.2f} MB")
+    print(f"Initial GPU Memory: {get_gpu_memory_usage():.2f} MB")
 
     ##############################
     # Initialize model
@@ -284,7 +266,7 @@ def main(gpt_config, settings):
 
     # Create a single dataset instance
     parquet_dir = "corpus/fineweb/tokenized"
-    logger.info(f"Setting up streaming dataset from {parquet_dir}")
+    print(f"Setting up streaming dataset from {parquet_dir}")
     
     dataset = StreamingParquetDataset(
         parquet_dir=parquet_dir,
@@ -357,7 +339,7 @@ if __name__ == "__main__":
     ###########################
 
     # Save model
-    torch.save(model.state_dict(), "model_final.pth")
+    torch.save(model.state_dict(), "model.pth")
 
     # Plot results
     epochs_tensor = torch.linspace(0, OTHER_SETTINGS["num_epochs"], len(train_losses))
